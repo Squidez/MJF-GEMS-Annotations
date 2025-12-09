@@ -1,0 +1,12 @@
+agno
+google-genai
+librosa
+matplotlib
+numpy
+ollama
+pandas
+peft
+scikit-learn
+seaborn
+tqdm
+transformers

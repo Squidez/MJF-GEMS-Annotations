@@ -1,0 +1,60 @@
+1. Wonder: The music exudes a sense of wonder and delight, which is conveyed through the smooth jazz style and the sultry tones of the female vocalist. The use of brass instruments adds to the richness and depth of the sound, enhancing the overall feel of awe.
+2. Transcendence: The music has a profound effect on the listener, drawing them into a state of transcendence where they feel as though they are experiencing something beyond their ordinary consciousness. This is achieved through the intricate melodies and harmonies that evoke feelings of spirituality and emotional elevation.
+3. Nostalgia: The music has a nostalgic quality, transporting the listener back to a bygone era through its retro jazz style. The lyrics and melody evoke memories of past times, making the listener feel sentimental and nostalgic.
+4. Tenderness: The music is tender and affectionate, with a slow tempo and a soothing melody that invites listeners to relax and unwind. The vocals are gentle and soothing, adding to the overall sense of tenderness and intimacy.
+5. Peacefulness: The music creates a peaceful atmosphere, with soft and melodic jazz tunes that soothe the soul. The use of light vocals and subtle instrumentation contribute to a sense of calm and tranquility, making the listener feel relaxed and at ease.
+6. Joy: The music is joyful and uplifting, with a lively beat and catchy melody that gets listeners moving. The vocals are energetic and animated, adding to the overall sense of joy and positivity.
+7. Sadness: The music has a sad and poignant quality, with a slow tempo and a melancholic melody that evokes feelings of sorrow and heartache. The vocals are expressive and mournful, adding to the overall sense of sadness.
+8. Power: The music has a powerful and commanding presence, with a strong and confident beat that gets listeners energized. The vocals are bold and assertive, adding to the overall sense of power and dominance.
+9. Tension: The music creates a tense atmosphere, with a fast tempo and an intense melody that builds up excitement and anticipation. The vocals are forceful and aggressive, adding to the overall sense of tension and suspense.
+{'Wonder': '95', 'Transcendence': '85', 'Nostalgia': '75', 'Tenderness': '65', 'Peacefulness': '80', 'Joy': '70', 'Sadness': '50', 'Power': '40', 'Tension': '30'}
+1. Wonder (Filled with wonder, Dazzled, Allured, Moved) - 90
+2. Transcendence (Fascinated, Overwhelmed, Feelings of transcendence and spirituality) - 85
+3. Nostalgia (Nostalgic, Dreamy, Sentimental, Melancholic) - 75
+4. Tenderness (Tender, Affectionate, In love, Mellowed) - 65
+5. Peacefulness (Serene, Calm, Soothed, Relaxed) - 80
+6. Joy (Joyful, Amused, Animated, Bouncy) - 70
+7. Sadness (Sad, Sorrowful) - 50
+8. Power (Strong, Triumphant, Energetic, Fiery) - 95
+9. Tension (Tense, Agitated, Nervous, Irritated) - 10
+{'Wonder': '95', 'Transcendence': '85', 'Nostalgia': '70', 'Tenderness': '65', 'Peacefulness': '80', 'Joy': '90', 'Sadness': '40', 'Power': '70', 'Tension': '30'}
+1. Wonder: The music exudes a sense of wonder, as indicated by the description of feeling like being transported to a magical place. The use of strings, harp, and piano adds to the dreamy and enchanting atmosphere.
+2. Transcendence: The music is described as fascinating and overwhelming, suggesting a profound sense of awe or transcendence. The use of brass instruments and choir further enhances this feeling of spiritual elevation.
+3. Nostalgia: The music evokes a nostalgic mood, reminiscent of past memories and experiences. The inclusion of piano and guitar in the melody contributes to this sentiment.
+4. Tenderness: The music is tender and affectionate, conveying feelings of love and intimacy. The use of mellow tones and soft vocals contribute to this tender atmosphere.
+5. Peacefulness: The music is serene and calming, providing a soothing listening experience. The use of harp and flute helps create a peaceful ambiance.
+6. Joy: The music is joyful and animated, filled with energy and positivity. The upbeat tempo and lively vocals contribute to this cheerful mood.
+7. Sadness: The music carries a hint of sadness, perhaps reflecting on past memories or difficult times. The melancholic tones and slow pace contribute to this emotional tone.
+8. Power: The music has a strong and triumphant feel, suggesting a sense of overcoming adversity or achieving success. The use of drums and electric guitar help convey this powerful mood.
+9. Tension: The music creates a tense atmosphere, indicating a state of heightened alertness or anticipation. The use of dissonant chords and fast-paced rhythms contribute to this feeling of tension.
+1. Wonder: The music has a dreamy and uplifting feel that evokes a sense of wonder and awe.
+2. Transcendence: The track is captivating and leaves the listener feeling overwhelmed by a profound sense of spiritual transcendence.
+3. Nostalgia: There's a sentimental and melancholic tone to the music that invokes feelings of nostalgia for the past.
+4. Tenderness: The lyrics and melody convey a tender and affectionate sentiment, making the listener feel in love and mellowed out.
+5. Peacefulness: The music creates a serene and calming atmosphere that soothes the listener and promotes relaxation.
+6. Joy: The upbeat tempo and catchy chorus contribute to a joyful and animated mood, making the listener bouncy with excitement.
+7. Sadness: The lyrics and melody express sadness and sorrow, stirring emotional depth in the listener.
+8. Power: The music exudes a strong and triumphant energy that conveys a sense of power and determination.
+9. Tension: The tense and agitated rhythm can create a feeling of nervousness and irritation in the listener.
+100 for all but tension, which is around 70.
+{'Wonder': '95', 'Transcendence': '85', 'Nostalgia': '70', 'Tenderness': '65', 'Peacefulness': '75', 'Joy': '80', 'Sadness': '45', 'Power': '30', 'Tension': '20'}
+{'Wonder': '95', 'Transcendence': '85', 'Nostalgia': '70', 'Tenderness': '80', 'Peacefulness': '90', 'Joy': '80', 'Sadness': '60', 'Power': '70', 'Tension': '40'}
+{'Wonder': '95', 'Transcendence': '85', 'Nostalgia': '70', 'Tenderness': '80', 'Peacefulness': '90', 'Joy': '60', 'Sadness': '40', 'Power': '30', 'Tension': '20'}
+The audio contains a slow-paced, jazzy instrumental piece in C minor with a tempo of around 83 BPM, featuring piano and drums with chord progressions that include G# major, A# major, F minor, and D# major.
+1. Wonder: The music exudes a sense of wonder, felt through its upbeat tempo, catchy melodies, and vibrant instrumentation. The vocals are strong and expressive, contributing to an overall feeling of awe and delight. I would rate the intensity of this emotion at around 85.
+
+2. Transcendence: This piece of music feels like a journey into a realm beyond our everyday experiences. It has a profound impact on the listener, drawing them into a state of transcendence that is both spiritual and emotional. The intensity of this emotion would rate around 90.
+
+3. Nostalgia: The music evokes a deep sense of nostalgia, transporting the listener back to a time or place they hold dear. The lyrics and melody capture the essence of past memories, creating a warm and comforting atmosphere. I would rate the intensity of this emotion at around 75.
+
+4. Tenderness: The music is tender and affectionate, conveying a sense of intimacy and warmth. The vocals are soft and soothing, creating a calming and peaceful environment. I would rate the intensity of this emotion at around 80.
+
+5. Peacefulness: The music is serene and calm, providing a sense of peace and tranquility. It has a soothing effect on the listener, helping them relax and unwind. I would rate the intensity of this emotion at around 95.
+
+6. Joy: The music is joyful and animated, bringing a smile to the listener's face. The upbeat tempo and lively instrumentation create an atmosphere of happiness and excitement. I would rate the intensity of this emotion at around 80.
+
+7. Sadness: The music carries a sense of sadness, which is conveyed through the mournful tones and somber lyrics. The melody is slow and reflective, allowing the listener to delve into their emotions. I would rate the intensity of this emotion at around 70.
+
+8. Power: The music exudes a powerful energy, felt through its driving beat and dynamic instrumentation. The vocals are strong and assertive, conveying a sense of confidence and determination. I would rate the intensity of this emotion at around 85.
+
+9. Tension: The music creates a tense atmosphere, characterized by its high energy and intense instrumentation. The vocals are forceful and urgent, conveying a sense of urgency and drama. I would rate the intensity of this emotion at around 90.
