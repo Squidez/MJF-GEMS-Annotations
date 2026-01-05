@@ -98,7 +98,10 @@ def process_csv(csv_path, output_dir="tracks"):
     os.makedirs(output_dir, exist_ok=True)
 
     # Open csv file
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(csv_path,
+                 delimiter=',',
+                 encoding='cp1252',
+                 na_values='NA')
     # create new path column if it dosen't exist
     if 'Path' not in df.columns:
         df['Path'] = pd.NA
@@ -116,7 +119,7 @@ def process_csv(csv_path, output_dir="tracks"):
 
                 # Add the path to the csv
                 df.at[index,'Path'] = f'{output_dir}/{track_id}.mp3'
-                df.to_csv('emma_final.csv')
+                df.to_csv('emma_final.csv', encoding='cp1252')
 
             except:
 
@@ -143,7 +146,7 @@ def process_csv(csv_path, output_dir="tracks"):
 
                         # Add the path to the csv
                         df.at[index,'Path'] = f'{output_dir}/{track_id}.mp3'
-                        df.to_csv('emma_final.csv')
+                        df.to_csv('emma_final.csv', encoding='cp1252')
 
                     except HTTPError as e:
                         print("HTTP error occurred:", e.code, e.reason)
@@ -157,4 +160,4 @@ def process_csv(csv_path, output_dir="tracks"):
 
 if __name__ == "__main__":
 
-    process_csv("EMMA__filtered_2025-12-25.csv")
+    process_csv("EMMA__filtered.csv")
