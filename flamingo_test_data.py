@@ -1,10 +1,12 @@
 import pandas as pd
 from tqdm import tqdm
 from transformers import AudioFlamingo3ForConditionalGeneration, AutoProcessor
+import torch
 
+device = "cuda"
 model_id = "nvidia/music-flamingo-hf"
 processor = AutoProcessor.from_pretrained(model_id)
-model = AudioFlamingo3ForConditionalGeneration.from_pretrained(model_id, device_map="auto")
+model = AudioFlamingo3ForConditionalGeneration.from_pretrained(model_id, dtype=torch.bfloat16, device_map=device)
 
 df = pd.read_csv('test_30.csv')
 
@@ -38,7 +40,9 @@ Just give the ratings, without justifying.
         tokenize=True,
         add_generation_prompt=True,
         return_dict=True,
-    ).to(model.device)
+    )#.to(model.device)
+    inputs = inputs.to(device, dtype=torch.bfloat16)
+
 
     outputs = model.generate(**inputs, max_new_tokens=256)
 
