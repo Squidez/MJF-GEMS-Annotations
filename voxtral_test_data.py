@@ -1,21 +1,25 @@
+from transformers import VoxtralForConditionalGeneration, AutoProcessor
+import torch
 import pandas as pd
 from tqdm import tqdm
-from transformers import AudioFlamingo3ForConditionalGeneration, AutoProcessor
 
-model_id = "nvidia/music-flamingo-hf"
+device = "cuda"
+model_id = "mistralai/Voxtral-Mini-3B-2507"
 processor = AutoProcessor.from_pretrained(model_id)
-model = AudioFlamingo3ForConditionalGeneration.from_pretrained(model_id, device_map="auto")
+model = VoxtralForConditionalGeneration.from_pretrained(model_id, dtype=torch.bfloat16, device_map=device)
 
 df = pd.read_csv('test_30.csv')
 
 for i, row in tqdm(df.iterrows(), total=30):
 
     conversation = [
-            {
-                "role": "user",
-                "content": [
-                    {"type": "text",
-                     "text":"""Please rate the intenity with wich you felt each of the following feelings in this music excerpt, on a scale ranging from 1 (not at all) to 5 (very much).
+        {
+            "role": "user",
+            "content": [
+                {"type": "audio",
+                 "path": row['Path']},
+                {"type": "text",
+                 "text": """Please rate the intenity with wich you felt each of the following feelings in this music excerpt, on a scale ranging from 1 (not at all) to 5 (very much).
 Just give the ratings, without justifying.
 - Wonder (Filled with wonder, Dazzled, Allured, Moved)
 - Transcendence (Fascinated, Overwhelmed, Feelings of transcendence and spirituality)
@@ -27,22 +31,20 @@ Just give the ratings, without justifying.
 - Power (Strong, Triumphant, Energetic, Fiery)
 - Tension (Tense, Agitated, Nervous, Irritated)
                         """},
-                    {"type": "audio",
-                     "path": row['Path']},
-                ],
-            },
+            ],
+        }
         ]
 
     inputs = processor.apply_chat_template(
         conversation,
         tokenize=True,
-        add_generation_prompt=True,
         return_dict=True,
-    ).to(model.device)
+    )
+    inputs = inputs.to(device, dtype=torch.bfloat16)
 
-    outputs = model.generate(**inputs, max_new_tokens=256)
-
+    outputs = model.generate(**inputs, max_new_tokens=500)
     decoded_outputs = processor.batch_decode(outputs[:, inputs.input_ids.shape[1]:], skip_special_tokens=True)
 
-    with open("flamingo_results.txt", "a+", encoding="utf-8") as f:
-        f.write(str(decoded_outputs) + '\n')
+    with open("voxtral_results.txt", "a+", encoding="utf-8") as f:
+        f.write(str(decoded_outputs[0]) + '\n')
+

@@ -3,11 +3,13 @@ from transformers import AutoProcessor, Qwen2AudioForConditionalGeneration, Trai
 import pandas as pd
 from tqdm import tqdm
 
+
+
 processor = AutoProcessor.from_pretrained("Qwen/Qwen2-Audio-7B-Instruct")
 model = Qwen2AudioForConditionalGeneration.from_pretrained("Qwen/Qwen2-Audio-7B-Instruct", device_map="auto")
 
 df = pd.read_csv('test_30.csv')
-df = df.iloc[12:]
+# df = df.iloc[:12]
 for i, row in tqdm(df.iterrows(), total=30):
 
     conversation = [
@@ -15,7 +17,8 @@ for i, row in tqdm(df.iterrows(), total=30):
                 "role": "user",
                 "content": [
                     {"type": "text",
-                     "text": """For each of the following emotions, rate the intensity, with a score ranging from 0 to 100, you percieve in this music excerpt.
+                     "text": """Please rate the intenity with wich you felt each of the following feelings in this music excerpt, on a scale ranging from 1 (not at all) to 5 (very much).
+Just give the ratings, without justifying.
 - Wonder (Filled with wonder, Dazzled, Allured, Moved)
 - Transcendence (Fascinated, Overwhelmed, Feelings of transcendence and spirituality)
 - Nostalgia (Nostalgic, Dreamy, Sentimental, Melancholic)
@@ -25,10 +28,9 @@ for i, row in tqdm(df.iterrows(), total=30):
 - Sadness (Sad, Sorrowful)
 - Power (Strong, Triumphant, Energetic, Fiery)
 - Tension (Tense, Agitated, Nervous, Irritated)
-Just give the numerical value for each emotion.
-                    """},
+                        """},
                     {"type": "audio",
-                     "path": row['path']},
+                     "path": row['Path']},
                 ],
             },
         ]
@@ -36,7 +38,7 @@ Just give the numerical value for each emotion.
     text = processor.apply_chat_template(conversation, add_generation_prompt=True, tokenize=False)
     audios =  []
     
-    audios.append(librosa.load(row['path'], 
+    audios.append(librosa.load(row['Path'], 
                                sr=processor.feature_extractor.sampling_rate)[0])
     # for message in conversation:
     #     if isinstance(message["content"], list):
