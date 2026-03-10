@@ -4,7 +4,7 @@ import pandas as pd
 from tqdm import tqdm
 
 device = "cuda"
-model_id = "mistralai/Voxtral-Mini-3B-2507"
+model_id = "mistralai/Voxtral-Mini-3B-2507" # or model folder path
 processor = AutoProcessor.from_pretrained(model_id)
 model = VoxtralForConditionalGeneration.from_pretrained(model_id, dtype=torch.bfloat16, device_map=device)
 
@@ -19,7 +19,7 @@ for i, row in tqdm(df.iterrows(), total=30):
                 {"type": "audio",
                  "path": row['Path']},
                 {"type": "text",
-                 "text": """Please rate the intenity with wich you felt each of the following feelings in this music excerpt, on a scale ranging from 1 (not at all) to 5 (very much).
+                 "text": """Please rate the intensity with wich you felt each of the following feelings in this music excerpt, on a scale ranging from 1 (not at all) to 5 (very much).
 Just give the ratings, without justifying.
 - Wonder (Filled with wonder, Dazzled, Allured, Moved)
 - Transcendence (Fascinated, Overwhelmed, Feelings of transcendence and spirituality)
