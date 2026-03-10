@@ -17,7 +17,7 @@ for i, row in tqdm(df.iterrows(), total=30):
                 "role": "user",
                 "content": [
                     {"type": "text",
-                     "text":"""Please rate the intenity with wich you felt each of the following feelings in this music excerpt, on a scale ranging from 1 (not at all) to 5 (very much).
+                     "text":"""Please rate the intensity with wich you felt each of the following feelings in this music excerpt, on a scale ranging from 1 (not at all) to 5 (very much).
 Just give the ratings, without justifying.
 - Wonder (Filled with wonder, Dazzled, Allured, Moved)
 - Transcendence (Fascinated, Overwhelmed, Feelings of transcendence and spirituality)
