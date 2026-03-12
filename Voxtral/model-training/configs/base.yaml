@@ -1,0 +1,8 @@
+model_id: "voxtral-mini"
+json_path: "./conversations.jsonl"
+output_dir: "./checkpoints"
+epochs: 3
+batch_size: 2
+lr: 0.00002
+num_workers: 0
+use_dummy_model: false

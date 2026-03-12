@@ -1,4 +1,3 @@
-model_id: 'voxtral-mini'
 use_dummy_model: true
 epochs: 1
 batch_size: 1
