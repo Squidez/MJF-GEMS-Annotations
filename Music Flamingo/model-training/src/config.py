@@ -4,7 +4,8 @@ import yaml
 @dataclass
 class TrainingConfig:
     model_id: str = "music-flamingo"
-    json_path: str = "./conversations.jsonl"
+    train_json_path: str = "./conversations_train.jsonl"
+    val_json_path: str = "./conversations_val.jsonl"
     output_dir: str = "./checkpoints"
     epochs: int = 3
     batch_size: int = 2

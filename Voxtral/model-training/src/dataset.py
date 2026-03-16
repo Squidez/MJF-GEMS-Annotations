@@ -1,66 +1,69 @@
 import json
-import torch
-import librosa
-from torch.utils.data import Dataset, DataLoader
-from transformers import AutoProcessor
+from torch.utils.data import Dataset
 
-class EmotionMusicDataset(Dataset):
-    def __init__(self, json_path, sample_rate=16000):
-        with open(json_path, "r") as f:
-            self.data = [json.loads(line) for line in f]
-        self.sample_rate = sample_rate
+class EmotionDataset(Dataset):
+    def __init__(self, path):
+        self.examples = []
+        with open(path) as f:
+            for line in f:
+                self.examples.append(json.loads(line))
 
     def __len__(self):
-        return len(self.data)
+        return len(self.examples)
 
     def __getitem__(self, idx):
-        conversation = self.data[idx]["conversation"]
+        ex = self.examples[idx]
+        turns = ex["conversation"]
 
-        resolved = []
-        for turn in conversation:
-            new_turn = {"role": turn["role"], "content": []}
-            for item in turn["content"]:
-                if item["type"] == "audio":
+        user_content = turns[0]["content"]
+        assistant_content = turns[1]["content"]
 
-                    audio, _ = librosa.load(item["path"], sr=self.sample_rate, mono=True)
-                    new_turn["content"].append({
-                        "type": "audio",
-                        "array": audio,
-                        "sampling_rate": self.sample_rate
-                    })
-                else:
-                    new_turn["content"].append(item)
-            resolved.append(new_turn)
+        audio_path = next(c["path"] for c in user_content if c["type"] == "audio")
+        prompt_text = next(c["text"] for c in user_content if c["type"] == "text")
+        assistant_text = assistant_content[0]["text"] 
 
-        return resolved
+        return {
+            "audio": audio_path,
+            "prompt": prompt_text,
+            "target": assistant_text
+        }
     
-class CollateFunction:
-    def __init__(self, processor):
-        self.processor = processor
+def collate_fn(batch, processor):
 
-    def __call__(self, batch):
-        inputs = self.processor.apply_chat_template(
-            batch,
-            tokenize=True,
-            add_generation_prompt=False,
-            return_dict=True,
-            return_tensors="pt",
-            output_labels=True,
-            padding=True,
-        )
-        return inputs
+    conversations = []
+    targets = []
+    
+    for ex in batch:
+        conversations.append([
+            {
+                "role": "user",
+                "content": [
+                    {"type": "audio", "path": ex["audio"]},
+                    {"type": "text", "text": ex["prompt"]}
+                ]
+            }
+        ])
+        targets.append(ex["target"])
 
-def build_dataloader(config, processor):
-
-    dataset    = EmotionMusicDataset(config.json_path)
-    collate_fn = CollateFunction(processor)
-
-    dataloader = DataLoader(
-        dataset,
-        batch_size=config.batch_size,
-        shuffle=True,
-        collate_fn=collate_fn,
-        num_workers=config.num_workers,
+    inputs = processor.apply_chat_template(
+        conversations,
+        tokenize=True,
+        return_dict=True,
     )
 
-    return dataloader
+    labels = inputs["input_ids"].clone()
+
+    inst_end_ids = processor.tokenizer.encode("[/INST]", add_special_tokens=False)
+    inst_end_len = len(inst_end_ids)
+
+    for i in range(labels.shape[0]):
+        ids = inputs["input_ids"][i].tolist()
+        for j in range(len(ids) - inst_end_len + 1):
+            if ids[j:j + inst_end_len] == inst_end_ids:
+                labels[i, :j + inst_end_len] = -100
+                break
+
+    labels[inputs["input_ids"] == processor.tokenizer.pad_token_id] = -100
+    inputs["labels"] = labels
+
+    return dict(inputs)

@@ -1,4 +1,5 @@
 use_dummy_model: true
-epochs: 1
+epochs: 3
 batch_size: 1
-json_path: "../data/sample.jsonl"
+train_json_path: "../../data/sample_train.jsonl"
+val_json_path: "../../data/sample_val.jsonl"

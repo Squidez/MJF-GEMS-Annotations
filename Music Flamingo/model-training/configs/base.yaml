@@ -1,5 +1,6 @@
 model_id: "music-flamingo"
-json_path: "./conversations.jsonl"
+train_json_path: "../../data/conversations_train.jsonl"
+val_json_path: "../../data/conversations_val.jsonl"
 output_dir: "./checkpoints"
 epochs: 3
 batch_size: 2

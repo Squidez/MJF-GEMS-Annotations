@@ -17,9 +17,9 @@ def main():
     processor = build_processor(config)
     model     = build_model(config)
 
-    dataloader = build_dataloader(config, processor)
-
-    train_model(model, dataloader, processor, config, device)
+    train_dataloader, val_dataloader = build_dataloader(config, processor)
+    best_epoch, best_loss = train_model(model, train_dataloader, val_dataloader, processor, config, device)
+    print(f"Training complete — best epoch: {best_epoch} | best val loss: {best_loss:.4f}")
 
 if __name__ == "__main__":
     main()

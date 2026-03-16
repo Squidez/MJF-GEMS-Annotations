@@ -51,16 +51,24 @@ class CollateFunction:
         return inputs
 
 def build_dataloader(config, processor):
+    collate_fn      = CollateFunction(processor)
 
-    dataset    = EmotionMusicDataset(config.json_path)
-    collate_fn = CollateFunction(processor)
-
-    dataloader = DataLoader(
-        dataset,
+    train_dataset   = EmotionMusicDataset(config.train_json_path)
+    train_dataloader = DataLoader(
+        train_dataset,
         batch_size=config.batch_size,
         shuffle=True,
         collate_fn=collate_fn,
         num_workers=config.num_workers,
     )
 
-    return dataloader
+    val_dataset     = EmotionMusicDataset(config.val_json_path)
+    val_dataloader  = DataLoader(
+        val_dataset,
+        batch_size=config.batch_size,
+        shuffle=False,
+        collate_fn=collate_fn,
+        num_workers=config.num_workers,
+    )
+
+    return train_dataloader, val_dataloader
