@@ -8,7 +8,8 @@ model_id = "nvidia/music-flamingo-hf"
 processor = AutoProcessor.from_pretrained(model_id)
 model = AudioFlamingo3ForConditionalGeneration.from_pretrained(model_id, dtype=torch.bfloat16, device_map=device)
 
-df = pd.read_csv('test_30.csv')
+df = pd.read_csv('./data/test.csv')
+print(df.head())
 
 for i, row in tqdm(df.iterrows(), total=30):
 

@@ -1,10 +1,7 @@
-agno
-google-genai
 huggingface-hub
 librosa
 matplotlib
 numpy
-ollama
 pandas
 peft
 scikit-learn
