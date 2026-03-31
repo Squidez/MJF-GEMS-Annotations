@@ -1,7 +1,6 @@
 venv/
 .vscode/
 tracks/
-mellow/
 voxtral-mini/
 music-flamingo/
-checkpoints/
+**/checkpoints/

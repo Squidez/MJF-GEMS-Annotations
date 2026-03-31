@@ -1,11 +1,11 @@
 import torch
 from transformers import AutoProcessor, AudioFlamingo3ForConditionalGeneration, AutoConfig
+from peft import get_peft_model, LoraConfig, TaskType
 
-def build_model(config):
+def load_model(config):
 
-    if config.use_dummy_model:
-        
-        dummy_config = AutoConfig.from_pretrained(config.model_id)
+    if config.model.use_dummy_model:
+        dummy_config = AutoConfig.from_pretrained(config.model.id)
 
         # Small model config to test if the pipeline works
         dummy_config.audio_config.hidden_size = 32
@@ -20,17 +20,27 @@ def build_model(config):
         dummy_config.text_config.num_key_value_heads = 1
         dummy_config.text_config.hidden_size = 32
         dummy_config.text_config.intermediate_size = 64
-            
+
         model = AudioFlamingo3ForConditionalGeneration(dummy_config)
 
-        return model
-
-    return AudioFlamingo3ForConditionalGeneration.from_pretrained(
-        config.model_id,
+    else: 
+        model = AudioFlamingo3ForConditionalGeneration.from_pretrained(
+        config.model.id,
         torch_dtype=torch.bfloat16,
         device_map='auto',
+        )
+
+    processor = AutoProcessor.from_pretrained(config.model.id)
+        
+    lora_config = LoraConfig(
+        task_type=TaskType.CAUSAL_LM,
+        r=config.model.lora.r,
+        lora_alpha=config.model.lora.alpha,
+        lora_dropout=config.model.lora.dropout,
+        target_modules= config.model.lora.target_modules,
+        bias="none"
     )
-
-
-def build_processor(config):
-    return AutoProcessor.from_pretrained(config.model_id)
+    model = get_peft_model(model, lora_config)
+    model.print_trainable_parameters()
+    
+    return model, processor

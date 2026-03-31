@@ -1,10 +1,9 @@
 import json
 import torch
 import librosa
-from torch.utils.data import Dataset, DataLoader
-from transformers import AutoProcessor
+from torch.utils.data import Dataset
 
-class EmotionMusicDataset(Dataset):
+class EmotionDataset(Dataset):
     def __init__(self, json_path, sample_rate=16000):
         with open(json_path, "r") as f:
             self.data = [json.loads(line) for line in f]
@@ -34,12 +33,9 @@ class EmotionMusicDataset(Dataset):
 
         return resolved
     
-class CollateFunction:
-    def __init__(self, processor):
-        self.processor = processor
+def collate_fn(batch, processor):
 
-    def __call__(self, batch):
-        inputs = self.processor.apply_chat_template(
+    inputs = processor.apply_chat_template(
             batch,
             tokenize=True,
             add_generation_prompt=False,
@@ -48,27 +44,5 @@ class CollateFunction:
             output_labels=True,
             padding=True,
         )
-        return inputs
-
-def build_dataloader(config, processor):
-    collate_fn      = CollateFunction(processor)
-
-    train_dataset   = EmotionMusicDataset(config.train_json_path)
-    train_dataloader = DataLoader(
-        train_dataset,
-        batch_size=config.batch_size,
-        shuffle=True,
-        collate_fn=collate_fn,
-        num_workers=config.num_workers,
-    )
-
-    val_dataset     = EmotionMusicDataset(config.val_json_path)
-    val_dataloader  = DataLoader(
-        val_dataset,
-        batch_size=config.batch_size,
-        shuffle=False,
-        collate_fn=collate_fn,
-        num_workers=config.num_workers,
-    )
-
-    return train_dataloader, val_dataloader
+    
+    return inputs

@@ -1,9 +1,6 @@
 import torch
-import inspect
-from transformers import AutoProcessor, AutoConfig, VoxtralForConditionalGeneration #AutoModelForAudioTextToText
+from transformers import AutoProcessor, AutoConfig, VoxtralForConditionalGeneration
 from peft import get_peft_model, LoraConfig, TaskType
-from transformers.models.voxtral.processing_voxtral import VoxtralProcessorKwargs
-
 
 def load_model(config):
 

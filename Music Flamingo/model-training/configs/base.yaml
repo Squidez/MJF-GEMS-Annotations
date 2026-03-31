@@ -1,9 +1,23 @@
-model_id: "music-flamingo"
-train_json_path: "../../data/conversations_train.jsonl"
-val_json_path: "../../data/conversations_val.jsonl"
-output_dir: "./checkpoints"
-epochs: 3
-batch_size: 2
-lr: 0.00002
-num_workers: 0
-use_dummy_model: false
+model:
+  id: "music-flamingo"
+  use_dummy_model: false
+  lora:
+    r: 16
+    alpha: 32
+    dropout: 0.05
+    target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj","up_proj","down_proj",]
+
+data:
+  train: "../../data/conversations_train.jsonl"
+  val:   "../../data/conversations_val.jsonl"
+  max_seq_len: 1024
+
+training:
+  epochs: 10
+  batch_size: 4
+  grad_accum: 4
+  lr: 0.00002
+  weight_decay: 0.01
+  early_stopping_patience: 3
+  output_dir: "./checkpoints"
+  seed: 42

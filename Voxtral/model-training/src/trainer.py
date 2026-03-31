@@ -3,7 +3,6 @@ from torch.utils.data import DataLoader
 from torch.optim import AdamW
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from src.model import load_model
-from src.utils import move_to_device
 from src.dataset import EmotionDataset, collate_fn
 
 def train(config, device):
