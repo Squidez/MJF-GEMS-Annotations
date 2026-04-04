@@ -8,7 +8,7 @@ model_id = "mistralai/Voxtral-Mini-3B-2507" # or model folder path
 processor = AutoProcessor.from_pretrained(model_id)
 model = VoxtralForConditionalGeneration.from_pretrained(model_id, dtype=torch.bfloat16, device_map=device)
 
-df = pd.read_csv('./data/test.csv')
+df = pd.read_csv('../data/test.csv')
 
 for i, row in tqdm(df.iterrows(), total=30):
 

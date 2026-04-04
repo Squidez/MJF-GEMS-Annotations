@@ -1,613 +1,536 @@
-artist,title,Wonder,Transcendence,Nostalgia,Tenderness,Peacefulness,Joy,Power,Tension,Sadness,Spotify ID,Youtube ID,genre,Path
-George Ezra,Budapest,5,3,4,2,5,5,2,2,1,2ixsaeFioXJmMgkkbd4uj1,Ugkxfu-9yJ7j2Z4EQTwH4ks0kQ_q9djUdd57,pop,tracks/Ugkxfu-9yJ7j2Z4EQTwH4ks0kQ_q9djUdd57.mp3
-Maggie reilly,Everytime We Touch,2,1,4,4,4,3,2,2,1,2n9Ni9TFPcNHCdoPOQKXZ6,,pop,tracks/2n9Ni9TFPcNHCdoPOQKXZ6.mp3
-Mozart,25. Sinfonie (I. Allegro con brio),5,4,3,1,2,5,5,3,1,,Ugkxdi4Q847_5HcKNDrEwByurSLRuDA0fG3e,classic,tracks/Ugkxdi4Q847_5HcKNDrEwByurSLRuDA0fG3e.mp3
-Haftbefehl,Lass Die Affen Aus'm Zoo,1,2,1,1,1,4,4,5,1,6QNgcN2uHhXJG4RWDPyQQF,Ugkxmy_ga4iNe70znKUgLpNdaPv6HYgHWJUp,hip_hop,tracks/Ugkxmy_ga4iNe70znKUgLpNdaPv6HYgHWJUp.mp3
-The Saturdays,Forever Is Over,3,3,3,2,1,4,5,2,2,6mSqWsqiv9LLPPKxrwh3yU,,pop,tracks/6mSqWsqiv9LLPPKxrwh3yU.mp3
-AnnenMayKantereit,Wohin Du Gehst,3,2,4,1,2,5,5,2,1,40PO9gfu9bHdnsQqEKrcjg,UgkxiaxSqFYnjQM_-8c_0iRU4V94IMleAKvA,pop,tracks/UgkxiaxSqFYnjQM_-8c_0iRU4V94IMleAKvA.mp3
-Beginner,Fï¿½chse,3,2,1,1,4,5,3,2,1,4vxjNphyAqPGR8KpuXPGoi,Ugkxg4DpwMmd0f6ft1dcr1UHjkgDVWqbUmQM,hip_hop,tracks/Ugkxg4DpwMmd0f6ft1dcr1UHjkgDVWqbUmQM.mp3
-Mozart,Overtï¿½re - Die Entfï¿½hrung aus dem Serail,4,4,2,2,2,5,5,1,1,,UgkxKan9S5poJBlAi59dI9NaArtU951vd4ed,classic,tracks/UgkxKan9S5poJBlAi59dI9NaArtU951vd4ed.mp3
-Magic!,Let Your Hair Down,3,2,3,4,5,3,2,2,1,0uQSHrFDVtbQyxNFCwm1EC,Ugkx1v_0SUqzOh6Gz67YBFgOSjeWNF7q1AGb,pop,tracks/Ugkx1v_0SUqzOh6Gz67YBFgOSjeWNF7q1AGb.mp3
-Diana Ross,The Best Years Of My Life,2,1,4,5,5,1,1,1,4,7xTAPIggS2K1UcTF0HXkak,,funk_soul,tracks/7xTAPIggS2K1UcTF0HXkak.mp3
-Imogen Heap,Goodnight And Go,2,1,2,3,3,3,1,2,1,0vfWzo75MKGYiQSiT5jEzt,Ugkx0_zmov0mmcvdoztrLoB4ya2XNEHl0YxG,pop,tracks/Ugkx0_zmov0mmcvdoztrLoB4ya2XNEHl0YxG.mp3
-Norah Jones,Humble Me,5,4,5,5,5,1,2,1,5,7BboupyTdAr1nmMJZw0V4h,,jazz,tracks/7BboupyTdAr1nmMJZw0V4h.mp3
-Knife Party,Bonfire,3,4,2,1,1,5,5,3,1,0QIYINh2AwmOmdu8CRYvlw,,electronic,tracks/0QIYINh2AwmOmdu8CRYvlw.mp3
-Method Man,Part II,3,1,1,1,3,5,3,2,1,2n7h09QrGitVul66b2D8Re,UgkxrWMSp4Za-R9LoFhFoBBz_-kue64UEhtF,hip_hop,tracks/UgkxrWMSp4Za-R9LoFhFoBBz_-kue64UEhtF.mp3
-Louis Armstrong,Mood Indigo,4,3,5,4,5,3,1,1,3,1Fo98RNzO78WnMtkZKZXMW,,jazz,tracks/1Fo98RNzO78WnMtkZKZXMW.mp3
-Lorde,Royals,3,3,5,4,4,5,5,2,2,2dLLR6qlu5UJ5gk0dKz0h3,,pop,tracks/2dLLR6qlu5UJ5gk0dKz0h3.mp3
-SIDO,Fuffies Im Club,1,2,1,1,1,4,2,5,1,1A0b0yR0quuBByKQzASAvf,UgkxiDWo6SHEUI4jBlKNkh5hXdY_TZh5n84U,hip_hop,tracks/UgkxiDWo6SHEUI4jBlKNkh5hXdY_TZh5n84U.mp3
-Wagner,"Tristan & Isolde, Liebestod",4,2,2,1,1,4,3,5,1,,Ugkxk6c-yPWFHcuD1axTM9D-EJDv32Z0csjQ,classic,tracks/Ugkxk6c-yPWFHcuD1axTM9D-EJDv32Z0csjQ.mp3
-Hey Monday,Set Off,1,3,2,2,1,5,5,2,1,0D5q7zxMaeQ9ekjuTQiryo,,rock,tracks/0D5q7zxMaeQ9ekjuTQiryo.mp3
-"Chunk! No, Captain Chunk!",So Close and Yet So Far,2,1,4,2,2,5,5,3,2,4nYV0FQkrOXzruL4xFlKmL,,rock,tracks/4nYV0FQkrOXzruL4xFlKmL.mp3
-Eva Cassidy,True Colors,3,2,5,4,5,3,2,1,2,7iYvpjSQ9OuXTAMGSRiLJZ,,jazz,tracks/7iYvpjSQ9OuXTAMGSRiLJZ.mp3
-Tï¿½lï¿½popmusik,Genetic World,2,2,2,1,3,2,2,2,1,0uKrhHBDUQ4w5fv4qwOubP,,electronic,tracks/0uKrhHBDUQ4w5fv4qwOubP.mp3
-Kool & The Gang,Steppin' Out,4,3,4,3,3,5,4,2,1,05NdLBmUVkXlBpel2QR07Y,,funk_soul,tracks/05NdLBmUVkXlBpel2QR07Y.mp3
-Mozart,"Don Giovanni, ""La ci darem la mano""",2,2,4,5,4,2,1,2,2,,UgkxaYlm8i53IyfuyxeXXx1QvKR-axs3MYfn,classic,tracks/UgkxaYlm8i53IyfuyxeXXx1QvKR-axs3MYfn.mp3
-Childish Gambino,Redbone,2,2,4,4,4,5,1,3,1,0wXuerDYiBnERgIpbb3JBR,UgkxxKNS5myAtrxzpDH5xcgjbr1xSkc8RKoG,pop,tracks/0wXuerDYiBnERgIpbb3JBR.mp3
-My Dying Bride,Your River,2,2,2,1,2,1,4,5,2,6FMcHZ5FuBpPkD4IHVyrM9,,rock,tracks/6FMcHZ5FuBpPkD4IHVyrM9.mp3
-Shakira,Hips Don't Lie,5,1,3,2,3,5,5,2,1,3ZFTkvIE7kyPt6Nu3PEa7V,UgkxNluYAMzINxUeKOeoMkF2rxCLFUF9XOX1,pop,tracks/UgkxNluYAMzINxUeKOeoMkF2rxCLFUF9XOX1.mp3
-Kendrick Lamar,Rigamortus,2,1,1,1,2,5,4,5,1,2lD6AoA8qf2t4Dkf2TcmNK,Ugkx4ADkHLGNj1m5ztwo08fC9cfse41HUoAj,hip_hop,tracks/Ugkx4ADkHLGNj1m5ztwo08fC9cfse41HUoAj.mp3
-The Pointer Sisters,He's So Shy,3,2,5,5,3,4,4,1,2,6R9NqD0WX9sJYs6PbA5onu,,funk_soul,tracks/6R9NqD0WX9sJYs6PbA5onu.mp3
-Bosson,One In A Million,4,2,4,5,3,5,3,1,2,3y1cXTre9LcmTxgqbKSqZY,,pop,tracks/3y1cXTre9LcmTxgqbKSqZY.mp3
-Jay-Z,The Story Of OJ,3,2,2,2,4,5,3,3,1,6JpN5w95em8SODPiM7W2PH,Ugkxwm41Q5LmH_RIy9Az47Y2TT8x2u_nW7f_,hip_hop,tracks/Ugkxwm41Q5LmH_RIy9Az47Y2TT8x2u_nW7f_.mp3
-Princess Chelsea,When The World Turns Grey,3,4,4,3,4,1,2,2,4,3Oe4aYH6ifYIIYsX2isIR4,,electronic,tracks/3Oe4aYH6ifYIIYsX2isIR4.mp3
-Teena Marie,365,3,2,4,5,4,5,4,2,1,7w7OoMSngihtJTSbG8HLWV,,funk_soul,tracks/7w7OoMSngihtJTSbG8HLWV.mp3
-Faithless,Insomnia,1,1,1,1,2,1,1,5,1,7gWc0QEt2hoIkMv3XxPY1T,,electronic,tracks/7gWc0QEt2hoIkMv3XxPY1T.mp3
-Akua Naru,Poetry: How Does It Feel,3,2,3,4,5,2,1,2,1,0SQg86odv33piyPWPgNpBM,UgkxaI7IEJFGmNuo3apwunshxwOL6L0qkv-L,hip_hop,tracks/UgkxaI7IEJFGmNuo3apwunshxwOL6L0qkv-L.mp3
-Diana Krall,The Look Of Love,4,2,5,5,5,2,1,1,2,3CDHydgW0ssTh59f0jy1y3,,jazz,tracks/3CDHydgW0ssTh59f0jy1y3.mp3
-Chico Buarque,Sonho De Um Carnaval,2,2,3,3,5,3,1,1,2,6VlapIlYfqtoiWsE0DZUsE,,jazz,tracks/6VlapIlYfqtoiWsE0DZUsE.mp3
-Tove Lo,Not On Drugs (Ali Payami Remix),5,2,4,3,2,4,5,2,2,3LIwnakr43o8zMLnsHVye9,,funk_soul,tracks/3LIwnakr43o8zMLnsHVye9.mp3
-St. Vincent,I Prefer Your Love,3,3,4,2,5,1,2,1,3,0Snb87Z4Zdn6YFMicWA7gx,,pop,tracks/0Snb87Z4Zdn6YFMicWA7gx.mp3
-Camila,Mientes,4,1,3,5,4,3,1,1,2,5EhzE6HJaCcLFrf5rPqvpk,,pop,tracks/5EhzE6HJaCcLFrf5rPqvpk.mp3
-Ridgewalkers,Find (Andy Moor Remix),4,5,4,3,3,5,5,4,2,5DpHrixQf7FfpAQJLAX2Fw,,electronic,tracks/5DpHrixQf7FfpAQJLAX2Fw.mp3
-Zara Larsson,Lush Life,4,1,3,1,2,5,3,1,1,1rIKgCH4H52lrvDcz50hS8,Ugkxw_lqLsqg-q51fa3xN3ZizS8en_o0TgQz,pop,tracks/Ugkxw_lqLsqg-q51fa3xN3ZizS8en_o0TgQz.mp3
-Jedi Mind Tricks,Deathbed Doctrine,2,2,1,1,1,5,5,3,1,1i74MnweHIH0Lt4upFKP9I,UgkxZf3ZvxAYVnURNwwMij2hPwJpcszJE8nv,hip_hop,tracks/UgkxZf3ZvxAYVnURNwwMij2hPwJpcszJE8nv.mp3
-Mozart,Overture - Marriage Of Figaro,5,5,4,2,5,5,5,2,1,,UgkxIHD7cHxBW6rvMSwLwgllUy30Z--NUcSZ,classic,tracks/UgkxIHD7cHxBW6rvMSwLwgllUy30Z--NUcSZ.mp3
-Ella Fitzgerald & Louis Armstrong,Cheek to Cheek,4,2,5,5,5,4,2,2,1,33jt3kYWjQzqn3xyYQ5ZEh,,jazz,tracks/33jt3kYWjQzqn3xyYQ5ZEh.mp3
-The Whispers,Rock Steady,2,2,5,2,2,5,3,1,1,1YCsTFttuHAzgfEWKdOb9K,,funk_soul,tracks/1YCsTFttuHAzgfEWKdOb9K.mp3
-Stan Getz,Sï¿½ Danï¿½o Samba,4,2,4,2,4,5,3,2,1,5je0CDv1Z1hT82Nek1Fjhl,,jazz,tracks/5je0CDv1Z1hT82Nek1Fjhl.mp3
-Elgar,Pomp and Circumstance (1. Marsch),3,3,1,1,1,5,5,3,1,,UgkxtGH8qKRGozy2v3JD0n2Sc3Jx9r-mBppL,classic,tracks/UgkxtGH8qKRGozy2v3JD0n2Sc3Jx9r-mBppL.mp3
-Carpenters,We've Only Just Begun,4,3,5,5,5,4,1,1,2,3m167vBQI5YLK0a1m6L6Y1,,pop,tracks/3m167vBQI5YLK0a1m6L6Y1.mp3
-Joss Stone,Headturner,2,2,5,2,1,5,5,4,1,7MX14dwZzEIg84qKdlWTHv,,funk_soul,tracks/7MX14dwZzEIg84qKdlWTHv.mp3
-Kendrick Lamar,King Kunta,1,2,2,1,1,5,5,4,1,0N3W5peJUQtI4eyR6GJT5O,,funk_soul,tracks/0N3W5peJUQtI4eyR6GJT5O.mp3
-Sï¿½bastien Tellier,La Ritournelle,4,3,5,5,5,1,1,1,5,0qG1teoBvooRo7Z5Z8edCk,,electronic,tracks/0qG1teoBvooRo7Z5Z8edCk.mp3
-Mozart,"Gran Partita, 3. Satz",4,2,3,4,5,1,1,2,1,,Ugkx_0m0f5hs-LgUaJ1tJon-UoosrY5s_w99,classic,tracks/Ugkx_0m0f5hs-LgUaJ1tJon-UoosrY5s_w99.mp3
-Berg,"Quartett, op. 3",2,3,1,1,1,2,1,5,1,,UgkxFJTO33h-6oPOm8nOARg7Eywds9l-2qrm,classic,tracks/UgkxFJTO33h-6oPOm8nOARg7Eywds9l-2qrm.mp3
-Katy Perry,Swish Swish,3,1,1,1,2,5,5,3,1,3OtMnyUaiipcAT23A8liyi,UgkxBx01LLxIBM3BpHQT2zm-X7NtyLZJHfz3,pop,tracks/UgkxBx01LLxIBM3BpHQT2zm-X7NtyLZJHfz3.mp3
-Louis Armstrong,What a Wonderful World,5,4,5,5,5,5,3,1,2,29U7stRjqHU6rMiS8BfaI9,,jazz,tracks/29U7stRjqHU6rMiS8BfaI9.mp3
-Bjï¿½rk,Possibly Maybe (Live),2,2,2,3,3,2,1,3,3,4SngFKTnu9FbOldhGvHUlG,,electronic,tracks/4SngFKTnu9FbOldhGvHUlG.mp3
-VersaEmerge,Mind Reader,2,2,3,2,1,3,5,4,2,2b9ge09fnhEVVmkS8BjqRu,,rock,tracks/2b9ge09fnhEVVmkS8BjqRu.mp3
-Biggie Smalls,Hypnotize,5,3,5,2,4,5,4,2,1,6Tsu3OsuMz4KEGKbOYd6A0,Ugkxbp2QRLTD6BTCpZW-yKc0OFZeAW5I8r09,hip_hop,tracks/Ugkxbp2QRLTD6BTCpZW-yKc0OFZeAW5I8r09.mp3
-Edu Lobo,Candeias,4,3,4,5,5,2,2,1,3,50dHwlPsvC4Gp16DifoPOl,,jazz,tracks/50dHwlPsvC4Gp16DifoPOl.mp3
-Massive Attack,Mezzanine,2,4,3,1,3,2,3,5,3,67Hna13dNDkZvBpTXRIaOJ,,electronic,tracks/67Hna13dNDkZvBpTXRIaOJ.mp3
-Diana Ross,Upside Down,4,3,5,5,4,5,5,1,1,3pbtBomO4Zt5gGiqsYeiBH,,funk_soul,tracks/3pbtBomO4Zt5gGiqsYeiBH.mp3
-Patti LaBelle,Over The Rainbow,5,4,4,3,2,3,5,2,1,3e7isfNT5Z8TSms4zPkMPV,,jazz,tracks/3e7isfNT5Z8TSms4zPkMPV.mp3
-Carly Rae Jepsen,Call Me Maybe,4,1,5,1,2,5,4,2,1,20I6sIOMTCkB6w7ryavxtO,Ugkx7nuzh5p4B3mymnX8p7pciy6U4bGO9ZXG,pop,tracks/Ugkx7nuzh5p4B3mymnX8p7pciy6U4bGO9ZXG.mp3
-High on Fire,Rumors of War,2,1,2,1,1,2,5,5,1,33XdEVFV3YFrKQ0y99t6Sf,,rock,tracks/33XdEVFV3YFrKQ0y99t6Sf.mp3
-Nina Simone,Sinnerman,3,3,2,2,3,5,3,4,1,5xRP5iyVdGglqlY4Vcjhkx,,jazz,tracks/5xRP5iyVdGglqlY4Vcjhkx.mp3
-Madonna,Intervention,3,4,3,3,2,5,5,2,2,7BxLHR4ApH0n4rx10KAWOo,,pop,tracks/7BxLHR4ApH0n4rx10KAWOo.mp3
-September,R.I.P.,2,1,2,2,1,5,4,2,1,4BPyxkPrDW7tsb86HUnb04,,electronic,tracks/4BPyxkPrDW7tsb86HUnb04.mp3
-Kelly Clarkson,Breakaway,4,4,5,4,5,3,3,1,3,3xrn9i8zhNZsTtcoWgQEAd,,pop,tracks/3xrn9i8zhNZsTtcoWgQEAd.mp3
-Kings of Leon,Sex On Fire,3,3,4,3,2,5,5,1,1,0ntQJM78wzOLVeCUAW7Y45,UgkxeipZj-Geg6h0swKe_l1n5xckMLymaiBf,pop,tracks/UgkxeipZj-Geg6h0swKe_l1n5xckMLymaiBf.mp3
-CunninLynguists,Love Ain't,2,3,3,1,2,5,5,3,1,6qfna7A7WvUwyNoqVwbhnc,UgkxlI263XMJfcPHUJwbehVTwCNmkArawAfE,hip_hop,tracks/UgkxlI263XMJfcPHUJwbehVTwCNmkArawAfE.mp3
-Lily Allen,Fuck You,4,1,3,1,4,5,5,2,1,6ylAVPbjRQoNY0khgh63Jf,UgkxNxvXBP4fzk9Y_nNCKiyXZmnPaPkbt-Rm,pop,tracks/6ylAVPbjRQoNY0khgh63Jf.mp3
-"Earth, Wind & Fire",Mighty Mighty,2,1,2,1,1,4,3,3,1,3HFGDi2zGIgdXTocV5k2cs,,funk_soul,tracks/3HFGDi2zGIgdXTocV5k2cs.mp3
-George Michael,Careless Whisper,5,5,5,5,5,5,5,2,5,4jDmJ51x1o9NZB5Nxxc7gY,,pop,tracks/4jDmJ51x1o9NZB5Nxxc7gY.mp3
-Post Malone,Congratulations,3,1,4,1,4,5,4,2,1,3a1lNhkSLSkpJE4MSHpDu9,UgkxjrIgYcrqFAJNCFiuffHJETXyCoL3-eMX,hip_hop,tracks/UgkxjrIgYcrqFAJNCFiuffHJETXyCoL3-eMX.mp3
-We the Kings,All Again for You,2,2,4,2,2,5,5,2,2,1zMc2ZD35IDeYlNANbnF0w,,rock,tracks/1zMc2ZD35IDeYlNANbnF0w.mp3
-Crystal Castles,Pap Smear,3,3,1,1,2,2,3,4,1,2RuNFmIS9tzrEMRBeVFt5c,,electronic,tracks/2RuNFmIS9tzrEMRBeVFt5c.mp3
-Five for fighting,Easy Tonight,2,3,5,4,4,4,2,2,1,57PHqrPsX6E7OX9LeKSo9Q,UgkxM7QItiIp2cz1B295WAqIJIkGqlE7qAyn,pop,tracks/UgkxM7QItiIp2cz1B295WAqIJIkGqlE7qAyn.mp3
-Nina Simone,That's All I Ask,4,3,5,5,4,2,3,1,5,5uI8omnLtzW4xTqJ5AoQtT,,jazz,tracks/5uI8omnLtzW4xTqJ5AoQtT.mp3
-Tracy Chapman,Fast Car,4,3,5,5,5,3,1,1,2,2M9ro2krNb7nr7HSprkEgo,UgkxFYKP3k8jH6kNkXl5mgSK7Ag_DrqVs8C4,pop,tracks/UgkxFYKP3k8jH6kNkXl5mgSK7Ag_DrqVs8C4.mp3
-Santigold,You'll Find A Way,5,3,2,1,2,5,5,4,1,1ZUj6t3goYbtWrCKFnwzIf,,electronic,tracks/1ZUj6t3goYbtWrCKFnwzIf.mp3
-Eminem,Shake That,2,1,2,1,2,5,2,2,1,0fGh0trRN1xz3s41r7V5ce,WrjwGPb0Hvw?start=167,hip_hop,tracks/0fGh0trRN1xz3s41r7V5ce.mp3
-The Moody Blues,Melancholy Man,3,4,3,2,3,4,5,3,2,1NeQzAqahRYI09bgLbhVFN,,rock,tracks/1NeQzAqahRYI09bgLbhVFN.mp3
-Infected Mushroom,Here We Go Go Go,3,4,2,1,1,5,5,3,1,5wTudWQXd6Sjy6nH22fsYv,,electronic,tracks/5wTudWQXd6Sjy6nH22fsYv.mp3
-Fall Out Boy,Get Busy Living or Get Busy Dying (Do Your Part to Save the Scene and Stop Going to Shows),2,3,1,2,1,5,5,3,1,4903HFfvLIQ8ujvQ0ARNGI,,rock,tracks/4903HFfvLIQ8ujvQ0ARNGI.mp3
-Girls Aloud,I'll Stand by You,5,5,5,5,5,4,5,2,4,5AEAf1PGC0B6Z1iVE1j8oY,,pop,tracks/5AEAf1PGC0B6Z1iVE1j8oY.mp3
-Beethoven,Sinfonie Nr. 7,2,3,5,3,5,1,2,1,2,,UgkxVWL1RdWZqv5Co5Obf6nvZUrtWrunrGeJ,classic,tracks/UgkxVWL1RdWZqv5Co5Obf6nvZUrtWrunrGeJ.mp3
-Imogen Heap,Loose Ends,1,1,2,3,1,5,3,3,2,48Z9C1l1LfgpPxuQpfW2n6,,electronic,tracks/48Z9C1l1LfgpPxuQpfW2n6.mp3
-Karma Fields,Build The Cities (feat. Kerli),1,2,1,1,1,4,5,4,1,50fO3coGeBVITFxiYlHSDs,,electronic,tracks/50fO3coGeBVITFxiYlHSDs.mp3
-Salt-N-Pepa,Shoop,3,2,2,1,2,5,5,1,1,0Pu71wxadDlB8fJXfjIjeJ,UgkxI8XA0Ss2SLFsfghG7NqcNGfMsRxxpZYv,hip_hop,tracks/UgkxI8XA0Ss2SLFsfghG7NqcNGfMsRxxpZYv.mp3
-Gnarls Barkley,Just a Thought,3,2,3,2,2,2,3,5,5,5xNUIReo5O6W1LRp2OKJty,,funk_soul,tracks/5xNUIReo5O6W1LRp2OKJty.mp3
-Neurosis,Fear and Sickness,2,2,1,1,1,1,5,5,1,2sXYiWVdddj45DruzNKJGC,,rock,tracks/2sXYiWVdddj45DruzNKJGC.mp3
-Madonna,He's a Man,1,1,2,2,2,2,3,2,2,4714JHYV5kiMKsuo8eP41E,,jazz,tracks/4714JHYV5kiMKsuo8eP41E.mp3
-Jamie Woon,Shoulda,2,2,3,5,5,2,1,2,3,6I39hUKfIBsPBLX42jE3Dk,,electronic,tracks/6I39hUKfIBsPBLX42jE3Dk.mp3
-The Whispers,And the Beat Goes On,4,2,4,3,4,5,4,2,1,7oQ1wkBmYSBEC2x7U08dvn,,funk_soul,tracks/7oQ1wkBmYSBEC2x7U08dvn.mp3
-Sarah Vaughan,Misty,2,1,4,2,4,5,2,2,1,7gHFBNy0Qn86xGKJ9OdFTw,,jazz,tracks/7gHFBNy0Qn86xGKJ9OdFTw.mp3
-Rachmaninow,"3. Klavierkonzert, 3. Satz",3,3,2,1,1,4,4,5,1,,UgkxtUia2ykcbGRBiNUvQhYOLsnIvm9IlsWW,classic,tracks/UgkxtUia2ykcbGRBiNUvQhYOLsnIvm9IlsWW.mp3
-Savage Garden,Hold Me,2,1,4,3,2,3,3,1,1,5z7UgjxvvKBTf3qZMDvddZ,,pop,tracks/5z7UgjxvvKBTf3qZMDvddZ.mp3
-Sly & The Family Stone,(You Caught Me) Smilin',1,1,3,2,3,4,3,2,2,5XTiyBLVLjqhAGRcJBUC5F,,funk_soul,tracks/5XTiyBLVLjqhAGRcJBUC5F.mp3
-Dj Shadow,Building Steam With A Grain of Salt,2,2,1,1,2,3,2,5,1,4cucslsiEgezV2o900Ykg3,,hip_hop,tracks/4cucslsiEgezV2o900Ykg3.mp3
-Eliane Elias,Time Alone,2,2,4,5,5,1,1,1,3,1hYd1uyB9HQpf4icjtBQoB,,jazz,tracks/1hYd1uyB9HQpf4icjtBQoB.mp3
-Philanthrope,pueblo,2,3,4,3,5,2,1,1,1,3oYUtjjvbSxN40CQ71ZvTd,,hip_hop,tracks/3oYUtjjvbSxN40CQ71ZvTd.mp3
-Air Supply,The One That You Love,3,3,4,5,3,3,2,1,4,3FDAd5vW4P7xe1GBNOLyfD,,rock,tracks/3FDAd5vW4P7xe1GBNOLyfD.mp3
-Sia,Don't Bring Me Down,3,3,3,3,3,2,2,2,5,4XSBnZBRdrIQzbIvmysvuC,,electronic,tracks/4XSBnZBRdrIQzbIvmysvuC.mp3
-Morcheeba,Rome Wasn't Built in a Day,4,3,5,5,5,4,3,2,2,6lsumzVFKP9SnfKcuGwqVp,,pop,tracks/6lsumzVFKP9SnfKcuGwqVp.mp3
-"Earth, Wind & Fire",Let's Groove,5,4,5,5,4,5,5,2,1,3koCCeSaVUyrRo3N2gHrd8,,funk_soul,tracks/3koCCeSaVUyrRo3N2gHrd8.mp3
-The Format,I'm Actual,3,3,5,4,2,3,4,2,3,2eHZ6UoAycNv99qKz4PVPg,,pop,tracks/2eHZ6UoAycNv99qKz4PVPg.mp3
-Ravel,Bolï¿½ro,2,3,2,2,3,3,4,2,1,,UgkxIHGrjKJm-19dI7CqzycTYSj-Yi11Ex34,classic,tracks/UgkxIHGrjKJm-19dI7CqzycTYSj-Yi11Ex34.mp3
-The Beatles,Let It Be,5,4,5,5,5,4,2,1,2,7iN1s7xHE4ifF5povM6A48,UgkxeQzl6iTLYXcapbCRDdFnu72hh36c4zrh,pop,tracks/7iN1s7xHE4ifF5povM6A48.mp3
-Mayday Parade,Even Robots Need Blankets,3,3,5,5,3,4,3,1,2,1NivdSEUqwvnC6MzO8VZiG,,rock,tracks/1NivdSEUqwvnC6MzO8VZiG.mp3
-Bon Jovi,Livin On A Prayer,4,2,4,1,2,5,5,2,1,37ZJ0p5Jm13JPevGcx4SkF,Ugkx1Hg6Vaur-0wpdBAYuTD9Axnx8hIk9Txb,pop,tracks/Ugkx1Hg6Vaur-0wpdBAYuTD9Axnx8hIk9Txb.mp3
-Lykke Li,I Follow Rivers,3,3,2,4,5,5,4,2,2,4Jv7lweGIUOFQ7Oq2AtAh9,,pop,tracks/4Jv7lweGIUOFQ7Oq2AtAh9.mp3
-Deee-Lite,Apple Juice Kissing,2,1,2,4,2,2,2,2,1,7fh5bhI5rzRBcSX9IKFNir,,electronic,tracks/7fh5bhI5rzRBcSX9IKFNir.mp3
-Jeff Buckley,Hallelujah,5,5,5,5,5,2,1,1,4,3pRaLNL3b8x5uBOcsgvdqM,Ugkx3Nc814TcxO-G_AXns5Xue2NuEcobit8S,pop,tracks/Ugkx3Nc814TcxO-G_AXns5Xue2NuEcobit8S.mp3
-OutKast,Roses,3,1,2,1,3,5,3,2,1,6bUNEbXT7HovLW6BgPCBsb,Ugkxi_bJRX4Fid-vQZze8VEWJCL281moKEan,pop,tracks/Ugkxi_bJRX4Fid-vQZze8VEWJCL281moKEan.mp3
-Carlos Santana,Smooth,3,1,2,2,2,5,4,2,1,0n2SEXB2qoRQg171q7XqeW,Ugkxa9WPgW3Wr2q5p7RbL6ZNiDjGkWWpCEFk,pop,tracks/Ugkxa9WPgW3Wr2q5p7RbL6ZNiDjGkWWpCEFk.mp3
-Black Eyed Peas,Just Can't Get Enough,2,2,3,2,3,4,2,1,1,3JA9Jsuxr4xgHXEawAdCp4,UgkxuQwwZ90ruj0orcBQAjAnFL3mkurIBlLs,pop,tracks/UgkxuQwwZ90ruj0orcBQAjAnFL3mkurIBlLs.mp3
-Tok Tok Tok,Walk on the Wild Side,5,4,5,4,5,5,4,2,1,78G0LEqrs8HmEwhb75nYXQ,,jazz,tracks/78G0LEqrs8HmEwhb75nYXQ.mp3
-Brahms,"Sonate Nr. 2 fï¿½r Klarinette, 1. Satz",3,4,5,5,5,3,1,1,1,,Ugkxm14v7zN8tkTO9rb9PQWL08fFY_zEkLRy,classic,tracks/Ugkxm14v7zN8tkTO9rb9PQWL08fFY_zEkLRy.mp3
-Karrin Allyson,Moanin',4,3,4,3,5,5,2,2,1,2FcKhzTwtj5wKdri7bXBMK,,jazz,tracks/2FcKhzTwtj5wKdri7bXBMK.mp3
-John Farnham,Age of Reason,3,2,3,2,3,4,3,2,1,3LQde40NABYOH14hWse0Yi,,rock,tracks/3LQde40NABYOH14hWse0Yi.mp3
-Al Green,Let's Stay Together,4,4,5,5,5,5,3,1,1,63xdwScd1Ai1GigAwQxE8y,,funk_soul,tracks/63xdwScd1Ai1GigAwQxE8y.mp3
-Sarah McLachlan,Elsewhere,3,2,5,5,5,1,1,1,5,1hBi66N1p1QyvFTHjnH2jv,,rock,tracks/1hBi66N1p1QyvFTHjnH2jv.mp3
-Chris de Burgh,The Lady in Red,5,4,5,5,5,2,2,1,5,1GeNWyZtCHbcp3ZWp8GTOO,,rock,tracks/1GeNWyZtCHbcp3ZWp8GTOO.mp3
-Phil Collins,Against All Odds (Take a Look at Me Now),5,3,5,5,5,3,3,1,3,63CHa6rmamv9OsehkRD8oz,,rock,tracks/63CHa6rmamv9OsehkRD8oz.mp3
-OutKast,Hey Ya!,2,1,5,1,2,5,5,1,1,2PpruBYCo4H7WOBJ7Q2EwM,,funk_soul,tracks/2PpruBYCo4H7WOBJ7Q2EwM.mp3
-Steely Dan,Do It Again,3,1,3,2,3,5,3,1,1,2BstRQGodshjGpeDGQiNgo,Ugkx3zDuvKgpZ8dufXa5tiAnYFUgRm-hcxQw,pop,tracks/Ugkx3zDuvKgpZ8dufXa5tiAnYFUgRm-hcxQw.mp3
-Burial,Broken Home,1,2,2,1,2,1,2,5,1,69P4h7GB5xQlIU6v1Qv7GN,,electronic,tracks/69P4h7GB5xQlIU6v1Qv7GN.mp3
-Vivaldi,Die 4 Jahreszeiten (Frï¿½hling),3,3,4,1,3,4,4,2,1,,UgkxYglz416a9J3po5WfsLRcI_YPLpPtQsdb,classic,tracks/UgkxYglz416a9J3po5WfsLRcI_YPLpPtQsdb.mp3
-Duke Ellington,Sophisticated Lady,3,3,5,5,5,3,2,2,2,2ua1p76h5Yy2u3dVZ9Qb0l,,jazz,tracks/2ua1p76h5Yy2u3dVZ9Qb0l.mp3
-MFSB,T.S.O.P. (The Sound Of Philadelphia),3,3,4,2,2,5,5,2,1,7kllQQPam6HumbUCIPSvHJ,,funk_soul,tracks/7kllQQPam6HumbUCIPSvHJ.mp3
-Lily Allen,Smile,3,2,5,3,5,5,2,1,2,4aR9bPMAOFySBuQSbVWF3d,,pop,tracks/4aR9bPMAOFySBuQSbVWF3d.mp3
-Dr. Dre,Nuthin' But A G thang,3,1,2,1,3,5,4,2,1,4YtoipFgf4k0AfD17ZfD5X,,hip_hop,tracks/4YtoipFgf4k0AfD17ZfD5X.mp3
-Warning,Echoes,2,3,2,1,1,2,5,3,2,3GU59OzCMZvscGqSG4Lg0y,,rock,tracks/3GU59OzCMZvscGqSG4Lg0y.mp3
-Taylor Swift,Look What You Made Me Do,2,2,1,2,1,5,5,3,1,1P17dC1amhFzptugyAO7Il,UgkxhNIkx010o6POamLFkc2AvaoO7G626kbK,pop,tracks/UgkxhNIkx010o6POamLFkc2AvaoO7G626kbK.mp3
-Beethoven,Sinfonie Nr. 9,4,3,4,3,5,2,1,1,1,,UgkxvVpIoaNTe9zVvrjJp3fYNI_-qohSQHrz,classic,tracks/UgkxvVpIoaNTe9zVvrjJp3fYNI_-qohSQHrz.mp3
-Maria Bethï¿½nia,Olhos Nos Olhos,4,2,3,5,5,2,2,1,4,1UBJvypv5W1GNoplpc2EYl,,jazz,tracks/1UBJvypv5W1GNoplpc2EYl.mp3
-Gucci Mane,Tone It Down,2,2,1,2,3,5,4,4,1,0iTCmKvuU1ReULiQB0rI7n,Ugkxf33sURscVNsNOPhtXYIqdKQs0QgGv_hU,hip_hop,tracks/Ugkxf33sURscVNsNOPhtXYIqdKQs0QgGv_hU.mp3
-Leslie Clio,I Couldnt Care Less,3,1,1,2,4,5,3,2,1,7kX5DiuPwRlYwPAHoOHFOg,UgkxGMWXLNbHAOlKnOYIo79nGA58qYbtqoDD,pop,tracks/UgkxGMWXLNbHAOlKnOYIo79nGA58qYbtqoDD.mp3
-Hey Judeschka!,ImmerwiederSommertag,3,2,3,4,5,2,1,1,2,0Us9gRoh9xyD6aPSo1SBIR,UgkxWLVqzZ11njLTSueB2OPYpS2MgTWdFEDZ,pop,tracks/0Us9gRoh9xyD6aPSo1SBIR.mp3
-Kylie Minogue,Skirt,2,2,2,2,1,5,5,4,1,4HS4veWZYPzHvEmVxrVEoy,,electronic,tracks/4HS4veWZYPzHvEmVxrVEoy.mp3
-Vivaldi,L'Estro Armonico (Concerto No. 9),4,5,4,3,5,5,2,2,1,,UgkxNHh8ncrNUahwZ7U7s7JrSXY1o46PTT90,classic,tracks/UgkxNHh8ncrNUahwZ7U7s7JrSXY1o46PTT90.mp3
-Ace of Base,Lucky Love,4,3,5,2,3,5,5,2,1,2O5MugeVVDlVs4ThMCy1Lm,,pop,tracks/2O5MugeVVDlVs4ThMCy1Lm.mp3
-Eminem,Rap God,5,4,2,2,2,5,5,4,1,6or1bKJiZ06IlK0vFvY75k,UgkxrDhQWgXdqNyuTc7tw5ecNLbYAppxo_jj,hip_hop,tracks/UgkxrDhQWgXdqNyuTc7tw5ecNLbYAppxo_jj.mp3
-Daft Punk,Give Life Back to Music,2,1,2,1,3,5,4,1,1,0dEIca2nhcxDUV8C5QkPYb,,funk_soul,tracks/0dEIca2nhcxDUV8C5QkPYb.mp3
-Britney Spears,"I'm Not a Girl, Not Yet a Woman",5,5,5,5,4,5,5,2,3,1xg1yGPy1Y3YUf44s6TB1o,,pop,tracks/1xg1yGPy1Y3YUf44s6TB1o.mp3
-Brett Dennen,She's Mine,3,2,3,5,5,4,1,2,1,5MnmTKjatNTY3BJ2DURVjE,UgkxGwAT62Ys-ElYvHeVhfu4CnuzlwX2YIta,pop,tracks/UgkxGwAT62Ys-ElYvHeVhfu4CnuzlwX2YIta.mp3
-Die Orsons,Ventilator,2,1,1,1,1,4,1,3,1,5j9djud18VQob3Ec3FUoy0,UgkxGRvWV0EKHd0SfJ1IW6htTS0h35VmxMga,hip_hop,tracks/UgkxGRvWV0EKHd0SfJ1IW6htTS0h35VmxMga.mp3
-Albinoni,"Concerto a cinque No. 2, Op. 9",4,4,4,4,5,4,4,1,1,0Ouz5wpLFbtXjAdxLRydQq,Ugkx7QaRr74MIB_wCxjYWqJA7eGohu68O2Gq,classic,tracks/Ugkx7QaRr74MIB_wCxjYWqJA7eGohu68O2Gq.mp3
-Ed Sheeran,Happier,4,2,5,4,4,1,1,2,5,2RttW7RAu5nOAfq6YFvApB,,rock,tracks/2RttW7RAu5nOAfq6YFvApB.mp3
-Beverley Knight,Hurricane Jane,4,3,5,5,5,4,4,1,1,4zcSLDrG6E0GkysBuh2fD3,,funk_soul,tracks/4zcSLDrG6E0GkysBuh2fD3.mp3
-Donna Summer,Winter Melody,4,4,5,5,5,5,4,1,2,1zHOjqf8DqjNq6OB7Y5mrF,,funk_soul,tracks/1zHOjqf8DqjNq6OB7Y5mrF.mp3
-Knife Party,Centipede,2,2,2,1,1,4,4,5,1,0u2AIKDVafHwCFQ9LDnqxH,,electronic,tracks/0u2AIKDVafHwCFQ9LDnqxH.mp3
-B.J. Thomas,Rock And Roll Lullaby,2,2,5,4,5,3,1,1,2,3aVNV6pawEERvfdurW66ZT,,rock,tracks/3aVNV6pawEERvfdurW66ZT.mp3
-Lola Marsh,Wishing Girl,3,3,2,2,4,3,1,2,1,2iawlVRHk4Q9aPg0OgG20D,UgkxryzdwbzDKWLWBfxb50LhzI49iot0WfJg,pop,tracks/UgkxryzdwbzDKWLWBfxb50LhzI49iot0WfJg.mp3
-Passion Pit,Sleepyhead,2,2,2,1,2,5,3,3,1,4prEPl61C8qZpeo3IkYSMl,,electronic,tracks/4prEPl61C8qZpeo3IkYSMl.mp3
-Itamar Assumpï¿½ï¿½o,Beijo na Boca,3,1,2,2,4,5,3,1,1,034M638G8hvIQ5WfSxJ9gS,,funk_soul,tracks/034M638G8hvIQ5WfSxJ9gS.mp3
-Michael Learns to Rock,Paint My Love,3,2,5,5,5,3,1,1,3,523iOSL6R2OomhVMGcfxdy,,pop,tracks/523iOSL6R2OomhVMGcfxdy.mp3
-Tonight Alive,Let It Land,2,4,5,1,2,5,5,3,2,3aKPJyIFrJAPTPWs2yy0IX,,rock,tracks/3aKPJyIFrJAPTPWs2yy0IX.mp3
-Kylie Minogue,Please Stay (7th District Radio Mix),2,2,2,1,2,5,5,3,1,5MqHbBqicUU0wyXwk7TJR7,,pop,tracks/5MqHbBqicUU0wyXwk7TJR7.mp3
-October Tide,Blackness Devours,3,4,1,1,1,2,5,5,3,5KjDr2aEWTdOxdOs4gcuac,,rock,tracks/5KjDr2aEWTdOxdOs4gcuac.mp3
-Boys Like Girls,Leaving California,4,3,4,5,5,2,2,1,5,0Vm3wrODAsNdUvCcy15aZT,,rock,tracks/0Vm3wrODAsNdUvCcy15aZT.mp3
-Tom Doolie,Blue Book,2,2,5,4,5,2,1,2,1,3E4LT4SvrEhGKIzyAeezEa,,hip_hop,tracks/3E4LT4SvrEhGKIzyAeezEa.mp3
-Chain Smokers,Paris,4,1,5,4,4,4,2,1,1,15vzANxN8G9wWfwAJLLMCg,UgkxVjM_EF_78oGI1czS-hLHl4C7_Y9IRM80,pop,tracks/UgkxVjM_EF_78oGI1czS-hLHl4C7_Y9IRM80.mp3
-Lana Del Rey,Born to Die,3,2,5,4,4,1,2,2,5,487OPlneJNni3NWC8SYqhW,,pop,tracks/487OPlneJNni3NWC8SYqhW.mp3
-Bjï¿½rk,Enjoy,4,3,3,2,1,2,5,5,2,6JQVN9gi04NCK1tiz0aQA1,,electronic,tracks/6JQVN9gi04NCK1tiz0aQA1.mp3
-Bag Raiders,Shooting Stars,5,2,4,2,4,5,3,2,1,0UeYCHOETPfai02uskjJ3x,UgkxAR8m_aazONenJf1M02Bo3_Zb65m0lLtH,pop,tracks/UgkxAR8m_aazONenJf1M02Bo3_Zb65m0lLtH.mp3
-A$AP Rocky,Fashion Killa,1,2,2,2,2,3,2,3,1,0O3TAouZE4vL9dM5SyxgvH,Ugkxu0uQao7t41a26OSEZ7X5EmP5WVH8UbUs,hip_hop,tracks/Ugkxu0uQao7t41a26OSEZ7X5EmP5WVH8UbUs.mp3
-Mariah Carey,Want You,2,2,3,3,4,3,4,2,2,0bYg9bo50gSsH3LtXe2SQn,,funk_soul,tracks/0bYg9bo50gSsH3LtXe2SQn.mp3
-Katy B,Katy on a Mission,2,2,1,1,1,2,4,2,1,47uhrF6IvyE2eUyyfLAEzf,,electronic,tracks/47uhrF6IvyE2eUyyfLAEzf.mp3
-Grieg,Norwegische Tï¿½nze,4,5,1,1,2,5,5,5,1,,Ugkxcc9YKG2q1GfRf8iIrnDt57MeAktVbXQ4,classic,tracks/Ugkxcc9YKG2q1GfRf8iIrnDt57MeAktVbXQ4.mp3
-Verdi,der Troubadour,3,3,1,2,3,5,4,2,1,,UgkxKBHZ5fuExQ4dwhTRRQtwxOKePzXeczYe,classic,tracks/UgkxKBHZ5fuExQ4dwhTRRQtwxOKePzXeczYe.mp3
-Neil Diamind,Sweet Caroline,5,4,4,3,1,5,3,1,1,62AuGbAkt8Ox2IrFFb8GKV,UgkxjzSMRMlrs2X84JF4whcxtQHzyLmCcxVw,pop,tracks/UgkxjzSMRMlrs2X84JF4whcxtQHzyLmCcxVw.mp3
-Christina Aguilera,I Got Trouble,2,2,4,4,5,4,4,2,1,6eRY1OgTVUeqtyEviApFaw,,jazz,tracks/6eRY1OgTVUeqtyEviApFaw.mp3
-Gotye,Somebody That I Used To Know,4,3,5,3,4,5,2,1,3,6md4w95cnKaW64JyEQ3A0L,UgkxsFY5Is4EMbq6uLHMb3uhqEaJ4CP6_bkH,pop,tracks/UgkxsFY5Is4EMbq6uLHMb3uhqEaJ4CP6_bkH.mp3
-Killer Mike,A.D.I.D.A.S.,3,1,1,1,3,5,2,2,1,3ghaPXI1bdNDeYpfCEv1Gw,UgkxiSdeQAHTlSYSQp1Dzp5rOMLKzJAF_m_3,hip_hop,tracks/UgkxiSdeQAHTlSYSQp1Dzp5rOMLKzJAF_m_3.mp3
-Keane,Everybodys Changing,4,3,5,2,5,5,2,1,2,0yac0FPhLRH9i9lOng3f81,UgkxfFTfgRA8-ahZmKesCxkX_XPNf-1VVkZT,pop,tracks/UgkxfFTfgRA8-ahZmKesCxkX_XPNf-1VVkZT.mp3
-Luis Fonsi,Despacito,4,2,3,4,1,5,4,2,1,6habFhsOp2NvshLv26DqMb,Ugkx3aqdcQliJn9s6shIu043MT1wM_GcAsyy,pop,tracks/Ugkx3aqdcQliJn9s6shIu043MT1wM_GcAsyy.mp3
-Chico Buarque,Tatuagem,2,1,2,3,5,1,1,1,2,2eNz0RVTnVhleCBrZETeDG,,jazz,tracks/2eNz0RVTnVhleCBrZETeDG.mp3
-Soul Position,Priceless,2,1,1,1,3,5,1,2,1,7I4ozG1g4D5H7FvKkMe27n,UgkxYUpu9BAz8-d7_Q0IPPLGibsj2-B7BOm8,hip_hop,tracks/UgkxYUpu9BAz8-d7_Q0IPPLGibsj2-B7BOm8.mp3
-Theo Katzman,Hard Work,5,2,2,1,4,5,4,2,1,3gaQbhacVKwcsatM0FlSa9,UgkxyJdSony6HQWT6pYQpQ9dGRDLBtYb_ecO,pop,tracks/UgkxyJdSony6HQWT6pYQpQ9dGRDLBtYb_ecO.mp3
-Debussy,Prï¿½lude ï¿½ l'aprï¿½s-midi d'un faune,5,4,5,3,5,3,1,2,2,,Ugkxw_ODJk-gald0IEzFtiGG9KHY9Ch9TmIg,classic,tracks/Ugkxw_ODJk-gald0IEzFtiGG9KHY9Ch9TmIg.mp3
-Ella Fitzgerald,The Nearness Of You,4,3,5,5,5,3,2,1,2,39CdOo5GPGSIdxWDvyyWkr,,jazz,tracks/39CdOo5GPGSIdxWDvyyWkr.mp3
-Mac Demarco,Salad Days,2,2,2,3,5,2,1,2,2,5VdaMUzoQetwxQwtWAd022,UgkxEzsxY4JhCdP_WCCAMgxR5_3sXfrhvJ6r,pop,tracks/UgkxEzsxY4JhCdP_WCCAMgxR5_3sXfrhvJ6r.mp3
-Stevie Wonder,I Just Called to Say I Love You,4,2,5,5,5,5,2,1,2,6RNDeRnWsRMjPdNVgupZCs,,funk_soul,tracks/6RNDeRnWsRMjPdNVgupZCs.mp3
-Travis Scott,Antidote,2,2,2,1,2,5,4,3,1,1wHZx0LgzFHyeIZkUydNXq,UgkxH_KgkMKJXtZ87XO7APEaNnSMxNi5L-3n,hip_hop,tracks/UgkxH_KgkMKJXtZ87XO7APEaNnSMxNi5L-3n.mp3
-Toto,Hold the Line,3,4,3,1,1,5,5,3,1,4aVuWgvD0X63hcOCnZtNFA,,rock,tracks/4aVuWgvD0X63hcOCnZtNFA.mp3
-Michael Jackson,Love Never Felt So Good,3,3,3,4,1,5,5,1,1,48td6xvpokdYwvbl3JIiXP,,funk_soul,tracks/48td6xvpokdYwvbl3JIiXP.mp3
-Lakeside,Fantastic Voyage,3,2,3,1,2,5,4,2,1,0rc9Uwm4vmnQEfx5omLWWF,,funk_soul,tracks/0rc9Uwm4vmnQEfx5omLWWF.mp3
-C.C. Catch,Strangers By Night,4,3,5,4,2,5,4,2,3,2fkWRtyjRGehSPjfWPxSjC,,pop,tracks/2fkWRtyjRGehSPjfWPxSjC.mp3
-Rihanna,Work,2,1,1,2,2,5,3,2,1,72TFWvU3wUYdUuxejTTIzt,Ugkx-Gw9o8IZlUypDB7WXEGl557bAxwpnJDF,pop,tracks/Ugkx-Gw9o8IZlUypDB7WXEGl557bAxwpnJDF.mp3
-Leona Lewis,Bleeding Love,3,2,5,5,4,4,5,1,3,7wZUrN8oemZfsEd1CGkbXE,,pop,tracks/7wZUrN8oemZfsEd1CGkbXE.mp3
-Above & Beyond,Alchemy,3,5,1,2,3,3,4,2,2,0Xm3H8qUhiUALrZYJyf61f,,electronic,tracks/0Xm3H8qUhiUALrZYJyf61f.mp3
-Ben E. King,Stand By Me,5,5,5,5,5,5,3,1,5,3SdTKo2uVsxFblQjpScoHy,,funk_soul,tracks/3SdTKo2uVsxFblQjpScoHy.mp3
-Oasis,Don't Look Back In Anger,3,2,5,4,4,4,1,2,2,7ppPZa3TRUSGKaks9wH7VT,UgkxGLHNNhV7rad3bX2cNrSRHsnwCODOvyfH,pop,tracks/UgkxGLHNNhV7rad3bX2cNrSRHsnwCODOvyfH.mp3
-Paul Davis,Cool Night,4,3,5,5,5,3,3,1,2,29KyVqHekckVGfxHn8QS7m,,rock,tracks/29KyVqHekckVGfxHn8QS7m.mp3
-Nicki Minaj,Moment 4 Life,2,4,1,1,1,5,5,2,1,1ia019RqDK2o4QiANR1Dyn,UgkxhOH25PgSEUkU5mNTRLHHQ-V3kL7OKMyU,hip_hop,tracks/UgkxhOH25PgSEUkU5mNTRLHHQ-V3kL7OKMyU.mp3
-Cheryl Lynn,Got To Be Real,3,2,4,2,2,5,4,3,1,58r4JuwHhXLAkttkaUZfLw,,funk_soul,tracks/58r4JuwHhXLAkttkaUZfLw.mp3
-Namika,Lieblingsmensch,4,2,3,3,4,5,2,1,1,6oHDvarQSp0mf5AD1SyNH0,UgkxqVu8pqoC_JLiPG0UHV9Ch31JWCxVjNSp,pop,tracks/UgkxqVu8pqoC_JLiPG0UHV9Ch31JWCxVjNSp.mp3
-Rachmaninow,Paganini Variations No. 18,5,2,5,4,5,4,1,1,1,,Ugkx-9RvVXKd6gOUhxagD894QCLuSQ29m1fU,classic,tracks/Ugkx-9RvVXKd6gOUhxagD894QCLuSQ29m1fU.mp3
-BBou,Kanona,2,1,1,2,1,2,2,3,1,,Ugkx_GQpNV2nvUVSHHAdncjVQHIqQ_7MUNwf,hip_hop,tracks/Ugkx_GQpNV2nvUVSHHAdncjVQHIqQ_7MUNwf.mp3
-N.E.R.D,Lemon,2,1,1,1,1,4,4,3,1,2LKlHBPHxLG5ArAXfF148n,UgkxZ_b33llhim3tA6TNrlUfEUDUNHizlvHW,hip_hop,tracks/UgkxZ_b33llhim3tA6TNrlUfEUDUNHizlvHW.mp3
-Chris Rea,Fool (If You Think It's Over),2,2,5,4,5,5,1,1,2,0UHiH4dy1hXULYl8CgNxRV,,rock,tracks/0UHiH4dy1hXULYl8CgNxRV.mp3
-Doris Day,Dream a Little Dream of Me,4,2,5,5,5,2,1,1,3,2HyPrPSANTIPkR6CfiytwY,,jazz,tracks/2HyPrPSANTIPkR6CfiytwY.mp3
-Lianne La Havas,What You Don't Do,3,2,1,3,2,5,3,2,1,4mityPmJpqtHea3y9qZLg6,UgkxddAnp6m4kzA6iMpgHBC-9slf5WbZaUXQ,pop,tracks/4mityPmJpqtHea3y9qZLg6.mp3
-Elton John,Don't Go Breaking My Heart,5,3,4,2,5,5,5,1,1,7HW5WIw7ZgZORCzUxv5gW5,UgkxZiqeddPuUzbbBI1OrBqMZdSXJJ9vcqrD,pop,tracks/UgkxZiqeddPuUzbbBI1OrBqMZdSXJJ9vcqrD.mp3
-Ellie Goulding,Burn,3,3,2,2,2,5,4,1,1,2GgxS8bUT5G25QJTsfSv0R,UgkxmuHMNHsXBXefloeDyAVJIFh_i5O8Qdxs,pop,tracks/UgkxmuHMNHsXBXefloeDyAVJIFh_i5O8Qdxs.mp3
-Perlla,No Meu Comando,2,2,1,2,1,4,3,2,1,4A1xnjGKCJWxa6VnUHKdvl,,funk_soul,tracks/4A1xnjGKCJWxa6VnUHKdvl.mp3
-Avril Lavigne,Complicated,2,3,5,2,3,5,4,1,2,5xEM5hIgJ1jjgcEBfpkt2F,UgkxuBVPqF9HZrtcJEF8rMIYYpIpE-L4pVku,pop,tracks/UgkxuBVPqF9HZrtcJEF8rMIYYpIpE-L4pVku.mp3
-Dexter,Everyday Like This,2,1,1,2,2,4,2,3,1,1IjtbDa43lCjIbClrprdrP,,hip_hop,tracks/1IjtbDa43lCjIbClrprdrP.mp3
-Chaka Khan,Tearin' It Up,4,3,4,2,2,5,5,2,1,7Hag038sye6QGKPZoJpXwU,,funk_soul,tracks/7Hag038sye6QGKPZoJpXwU.mp3
-ABBA,Lay All Your Love on Me,3,5,5,5,2,5,5,3,3,2245x0g1ft0HC7sf79zbYN,,pop,tracks/2245x0g1ft0HC7sf79zbYN.mp3
-Solitude Aeturnus,Seeds of the Desolate,1,2,2,1,1,1,3,5,1,7emF3lKU8NmkrlmDXUTYER,,rock,tracks/7emF3lKU8NmkrlmDXUTYER.mp3
-Akon,Lonely,4,1,5,3,3,4,1,1,3,4v7DCN09hgXkKazefkznDQ,Ugkx5Nbr6OxWbldg37V8L7Gmto0Ncrnq_rbv,pop,tracks/Ugkx5Nbr6OxWbldg37V8L7Gmto0Ncrnq_rbv.mp3
-Michael Bublï¿½,Feeling Good,2,2,5,3,4,2,2,2,1,3I09LQbHS3NSU46Ly3tPpR,,jazz,tracks/3I09LQbHS3NSU46Ly3tPpR.mp3
-Portishead,Glory Box,4,3,5,5,4,3,2,1,2,3Ty7OTBNSigGEpeW2PqcsC,,electronic,tracks/3Ty7OTBNSigGEpeW2PqcsC.mp3
-Good Charlotte,March On,3,2,2,2,4,2,1,1,4,5aj1QFI3B492gzMXgioTqe,,rock,tracks/5aj1QFI3B492gzMXgioTqe.mp3
-Nat King Cole,Orange Colored Sky,5,2,5,5,3,5,5,2,1,6fUDNcmsnnUVyOtEnA9xdC,,jazz,tracks/6fUDNcmsnnUVyOtEnA9xdC.mp3
-M2M,Don't Say You Love Me,2,2,4,4,3,5,1,1,1,65i1UPsUtPlEVzewEZR6sY,,pop,tracks/65i1UPsUtPlEVzewEZR6sY.mp3
-Ashlee Simpson,Beautifully Broken,3,2,3,3,2,4,3,1,3,0Z5TwodaWvDGq43AVdnKzn,,pop,tracks/0Z5TwodaWvDGq43AVdnKzn.mp3
-Bruno Mars,Treasure,4,2,4,3,2,5,5,2,1,55h7vJchibLdUkxdlX3fK7,,funk_soul,tracks/55h7vJchibLdUkxdlX3fK7.mp3
-Sarah Vaughan,He's My Guy,3,2,4,4,5,5,4,1,1,5Po3D0fxlUpQTciXYWOmnJ,,jazz,tracks/5Po3D0fxlUpQTciXYWOmnJ.mp3
-Cyne,One Day,2,2,2,2,3,5,4,2,1,46cmIQKXy7Ric5yNZ2tzde,,hip_hop,tracks/46cmIQKXy7Ric5yNZ2tzde.mp3
-Beethoven,"Sonate Nr. 8, 2. Satz",3,4,5,5,5,1,1,1,4,,UgkxMr_kC15HJ_96um1vERtcnQbVWTByXf_r,classic,tracks/UgkxMr_kC15HJ_96um1vERtcnQbVWTByXf_r.mp3
-Donna Summer,Autumn Changes,1,1,2,3,2,5,3,2,2,4LldsyhaiUL5tcP5uxDBkx,,funk_soul,tracks/4LldsyhaiUL5tcP5uxDBkx.mp3
-Shakira,Underneath your clothes,2,1,4,4,5,3,1,1,1,15f8Cv8RXUlOOCIf2oaceN,UgkxoXLglRH8n4Kx6C91YXsPk-v5_tk69Ba7,pop,tracks/UgkxoXLglRH8n4Kx6C91YXsPk-v5_tk69Ba7.mp3
-Puccini,Messa di Gloria,3,2,2,2,2,3,3,1,1,,UgkxGxCmVKzTT8XqOWWJlHGisGcOp_IpY5Kc,classic,tracks/UgkxGxCmVKzTT8XqOWWJlHGisGcOp_IpY5Kc.mp3
-Twentyone Pilots,Lane Boy,3,2,1,1,2,4,5,1,1,2P61EK6DMGyVyssLWS4fKy,Ugkx6eec1x4NPyH_99Itv46s6pLeG_41gm9x,hip_hop,tracks/Ugkx6eec1x4NPyH_99Itv46s6pLeG_41gm9x.mp3
-Zendaya,Only When You're Close,2,2,2,1,2,1,3,4,3,7BhxxlLcCCfvixzy8KExZv,,electronic,tracks/7BhxxlLcCCfvixzy8KExZv.mp3
-Schumann,Fantasie in C-Dur,4,4,5,3,5,3,2,1,1,,UgkxBPp9LjwU7gLOe1-5XELHnxiPMvjcs21p,classic,tracks/UgkxBPp9LjwU7gLOe1-5XELHnxiPMvjcs21p.mp3
-Dido,White Flag,2,3,5,4,5,3,1,2,2,6si71supnBUhddjR2FJc2L,UgkxnYU_OFSe4XiAc_DMg7cgtb4VSIZP6bC4,pop,tracks/UgkxnYU_OFSe4XiAc_DMg7cgtb4VSIZP6bC4.mp3
-Flux Pavilion,I Can't Stop,4,5,2,2,2,5,5,5,1,5WSL7UTa38jMWoBzObD4BD,,electronic,tracks/5WSL7UTa38jMWoBzObD4BD.mp3
-Sly & The Family Stone,Everyday People,3,2,5,5,5,5,5,2,2,7lL2lMWNtzOcf5HnEudNgn,,funk_soul,tracks/7lL2lMWNtzOcf5HnEudNgn.mp3
-Seal,Kiss From A Rose,4,4,5,5,5,4,4,2,2,3YKptz29AsOlm7WAVnztBh,,pop,tracks/3YKptz29AsOlm7WAVnztBh.mp3
-AedFX,Warning,2,2,1,1,2,5,3,5,1,3mHgqUyhKCBo2PKh18sWeo,,hip_hop,tracks/3mHgqUyhKCBo2PKh18sWeo.mp3
-Phoenix,1901,2,2,4,1,1,5,4,2,1,3FM33HqRlV7J1QJoPOnd2u,,pop,tracks/3FM33HqRlV7J1QJoPOnd2u.mp3
-Obie Trice,Got some Teeth,1,2,2,1,2,5,5,3,1,7tszeVkfxO5ISkjZWpIG88,UgkxwngwihkN9iE0tExYaydT7DaUT-rgeFqa,hip_hop,tracks/UgkxwngwihkN9iE0tExYaydT7DaUT-rgeFqa.mp3
-Sam Smith,Lay Me Down,4,4,5,5,5,1,1,1,5,74sb4Gib0cL3TQeCjYF8vh,UgkxS5U7oeRan4QoSfBpMwZjO23sGjBlHj3Z,pop,tracks/UgkxS5U7oeRan4QoSfBpMwZjO23sGjBlHj3Z.mp3
-Lauran Hibberd,Sugardaddy,1,2,3,3,3,5,3,2,1,6eXsSF9ufDWqnCJC4GVIsj,,pop,tracks/6eXsSF9ufDWqnCJC4GVIsj.mp3
-The Weeknd,The Town,4,3,2,3,2,2,3,4,2,7jGr8wzgwOVLuktY66qM5f,,electronic,tracks/7jGr8wzgwOVLuktY66qM5f.mp3
-Yung Hurn,Bianco,2,1,1,1,3,3,1,4,1,1vfVPUkl5v0HXWCEgQJHOf,Ugkx5iVePlCYZzdnY4V8kkaoil1K4vkCmpyC,hip_hop,tracks/Ugkx5iVePlCYZzdnY4V8kkaoil1K4vkCmpyC.mp3
-Avril Lavigne,SpongeBob SquarePants Theme,1,1,4,1,2,5,4,3,1,0il663f3f63cvsRJtGmdO2,,rock,tracks/0il663f3f63cvsRJtGmdO2.mp3
-Santigold,Disparate Youth,4,3,4,3,3,5,5,3,1,0t2QiRkpag0fAgs9zuCPlH,,electronic,tracks/0t2QiRkpag0fAgs9zuCPlH.mp3
-Jay-Z,99 Problems,2,2,1,1,2,5,5,3,1,7IdFdRlCjUi6kkhbPoRfnw,Ugkx57VaIZOdBBg6E3ZPJxd9Ej8E7jqqCyqQ,hip_hop,tracks/Ugkx57VaIZOdBBg6E3ZPJxd9Ej8E7jqqCyqQ.mp3
-Gnarls Barkley,Crazy,4,3,3,2,5,5,4,2,1,1vxw6aYJls2oq3gW0DujAo,UgkxURrovlQ8eMOBWDrOOu1soG2CoeI5XVan,pop,tracks/UgkxURrovlQ8eMOBWDrOOu1soG2CoeI5XVan.mp3
-Madeleine Peyroux,To Love You All Over Again,3,3,5,4,5,2,1,1,4,4EPwpBN0t11bIxjsAI8oaF,,jazz,tracks/4EPwpBN0t11bIxjsAI8oaF.mp3
-Legiï¿½o Urbana,Meninos E Meninas,2,3,4,2,1,5,3,2,1,22LN0RwHqTUJcIN4dzzB6N,,rock,tracks/22LN0RwHqTUJcIN4dzzB6N.mp3
-Lamb,Heaven,2,3,4,2,2,2,4,2,2,0bjTW3zBohWdYy2z1Sf5hJ,,electronic,tracks/0bjTW3zBohWdYy2z1Sf5hJ.mp3
-Blur,Girls & Boys,2,1,4,1,1,4,2,2,1,5CeL9C3bsoe4yzYS1Qz8cw,,pop,tracks/5CeL9C3bsoe4yzYS1Qz8cw.mp3
-Emma Bunton,Take My Breath Away,2,1,3,5,3,2,1,1,1,0wVPsQNQ4tsjTTf2LIdOA7,,pop,tracks/0wVPsQNQ4tsjTTf2LIdOA7.mp3
-Logic,Black Spiderman,2,2,2,2,2,5,3,3,1,7BKUWh5sdtdS17crohRe4L,Ugkxpj2Jw4BiyVImQSw49snNHiZqIGXXXYfX,hip_hop,tracks/Ugkxpj2Jw4BiyVImQSw49snNHiZqIGXXXYfX.mp3
-Vivaldi,Die 4 Jahreszeiten (Winter),4,4,2,1,2,4,4,4,1,,Ugkx-e3GiNyUxYwCNCIaH0akhND12-LBIbdL,classic,tracks/Ugkx-e3GiNyUxYwCNCIaH0akhND12-LBIbdL.mp3
-Djavan,Serrado,2,1,2,2,4,5,2,2,1,7EjRiBMib2EG0cdMEXavbC,,jazz,tracks/7EjRiBMib2EG0cdMEXavbC.mp3
-Summer Heart,I Wanna Go,4,5,5,3,4,5,3,1,2,3EA4HwrlLdDJ3b4cX7JfqC,,pop,tracks/3EA4HwrlLdDJ3b4cX7JfqC.mp3
-OutKast,Ms. Jackson,4,1,5,1,1,5,2,2,1,0I3q5fE6wg7LIfHGngUTnV,,hip_hop,tracks/0I3q5fE6wg7LIfHGngUTnV.mp3
-Cult of Luna,Finland,2,3,1,1,2,2,5,5,2,3N8cK1O5u0RawDBbP4a0hc,,rock,tracks/3N8cK1O5u0RawDBbP4a0hc.mp3
-Desiigner,Panda,5,2,1,2,2,5,5,2,1,275a9yzwGB6ncAW4SxY7q3,UgkxQz5bPiHchdgU1Ie2V9uYNUt_ovZ6pl5O,hip_hop,tracks/UgkxQz5bPiHchdgU1Ie2V9uYNUt_ovZ6pl5O.mp3
-Max Herre,1Ste Liebe,2,1,2,2,3,3,1,3,1,20xi5ZLlmFLqXtsoNlcqYs,UgkxPYKNzlOjeAyCaSpcaSrt1ej0Bag694wV,hip_hop,tracks/UgkxPYKNzlOjeAyCaSpcaSrt1ej0Bag694wV.mp3
-Thievery Corporation,The Richest Man in Babylon,2,2,2,2,4,5,4,2,1,20F3FcES8KU4kffMCkFgNN,,electronic,tracks/20F3FcES8KU4kffMCkFgNN.mp3
-Vivaldi,Die 4 Jahreszeiten (Herbst),4,3,3,2,4,3,2,2,1,,UgkxlAo-jlLlXTI6-6GND0QTMg_HTFHG71iu,classic,tracks/UgkxlAo-jlLlXTI6-6GND0QTMg_HTFHG71iu.mp3
-Chris Rea,And you my love,2,1,3,5,4,2,1,2,3,7iJmWC3h8tJOCK4OzPFZ2c,,rock,tracks/7iJmWC3h8tJOCK4OzPFZ2c.mp3
-Kanye West,Gold Digger,4,1,4,1,2,5,5,2,1,1PS1QMdUqOal0ai3Gt7sDQ,UgkxybNuZJ2bizLIpsayCS2Ic_hs6eynvZ3L,hip_hop,tracks/UgkxybNuZJ2bizLIpsayCS2Ic_hs6eynvZ3L.mp3
-Cï¿½u,Mais um Lamento,3,2,3,2,4,3,1,2,1,7Ms8NNySNGSNtjYtdBqrMD,,jazz,tracks/7Ms8NNySNGSNtjYtdBqrMD.mp3
-Tame Impala,The Less I Know The Better,4,2,5,3,5,4,2,1,1,6K4t31amVTZDgR3sKmwUJJ,UgkxCJJtlS2-YFNqRIhOvg1e_JqCaau9avkP,pop,tracks/UgkxCJJtlS2-YFNqRIhOvg1e_JqCaau9avkP.mp3
-Beethoven,Mondscheinsonate,5,5,5,3,5,3,1,2,4,,UgkxyBxVVsTTWAT-_fcdCX5fDYRneqptEysx,classic,tracks/UgkxyBxVVsTTWAT-_fcdCX5fDYRneqptEysx.mp3
-Amy Winehouse,I Heard Love Is Blind,4,2,3,4,5,5,1,1,1,3Li4nWTnkUu19vxkhNW9td,,jazz,tracks/3Li4nWTnkUu19vxkhNW9td.mp3
-Chico Buarque,Construï¿½ï¿½o,2,2,2,1,2,2,2,4,2,3FIuBxOxuQ6kYy8JO0gq2a,,jazz,tracks/3FIuBxOxuQ6kYy8JO0gq2a.mp3
-Amy Winehouse,Back To Black,4,3,5,4,4,4,3,1,1,3FAclTFfvUuQYnEsptbK8w,UgkxIuGIDESDyUqSy4h9o9z3eBocW-G2GWAz,pop,tracks/UgkxIuGIDESDyUqSy4h9o9z3eBocW-G2GWAz.mp3
-James Morrison,I Won't Let You Go,2,1,4,4,4,3,1,1,2,2TUzU4IkfH8kcvY2MUlsd2,UgkxXmZvBwLkvJDUaEv5UH6CjoJ8Tr0VkKlZ,pop,tracks/UgkxXmZvBwLkvJDUaEv5UH6CjoJ8Tr0VkKlZ.mp3
-Goldfrapp,Some People,4,2,4,4,4,2,2,3,4,0bB1VbAl9MctrLUOKf9WaS,,electronic,tracks/0bB1VbAl9MctrLUOKf9WaS.mp3
-Flunk,Six Seven Times,4,3,4,3,5,2,2,1,4,2jknEB3TLUX5vEaLI4gttE,,electronic,tracks/2jknEB3TLUX5vEaLI4gttE.mp3
-Wu-Tang Clan,Da Mystery Of Chessboxin',2,2,1,1,1,5,5,4,1,4xOTVtbCPcfxMs2hSt9D6i,UgkxPqDxvyBR6wzkoSa7KlaX4AXcGGFvDJRp,hip_hop,tracks/UgkxPqDxvyBR6wzkoSa7KlaX4AXcGGFvDJRp.mp3
-J. Cole,Wet Dreamz,5,2,3,3,4,5,4,2,1,4tqcoej1zPvwePZCzuAjJd,UgkxVxedlvq78WoVJgVDYux2zHCgEQ8IOTgq,hip_hop,tracks/UgkxVxedlvq78WoVJgVDYux2zHCgEQ8IOTgq.mp3
-Mozart,Laudate Dominum,4,5,1,1,2,3,4,4,1,,UgkxrGCMHNUQWcxptqe8G-fnKVDKK_MqC5wx,classic,tracks/UgkxrGCMHNUQWcxptqe8G-fnKVDKK_MqC5wx.mp3
-Vanessa da Mata,Eu Nï¿½o Tenho,2,1,2,3,3,3,1,1,1,3RfOd8VhrhsV7othWm5mNF,,jazz,tracks/3RfOd8VhrhsV7othWm5mNF.mp3
-Fergie,Big Girls Don't Cry,2,3,4,3,4,5,4,1,3,3Q4WeJmzxuDpzMu9QjQqbM,,pop,tracks/3Q4WeJmzxuDpzMu9QjQqbM.mp3
-Tim Maia,Pecado Capital,3,2,3,2,2,5,3,1,1,55g9c7lad0VCcg1PEdJaHl,,funk_soul,tracks/55g9c7lad0VCcg1PEdJaHl.mp3
-Lily Allen,Air Balloon,3,3,2,4,3,5,3,1,1,1DIS8YXZKxePLmY7Z8UC4I,,pop,tracks/1DIS8YXZKxePLmY7Z8UC4I.mp3
-Paradise Lost,Gone,3,2,4,2,4,2,4,2,5,7C05KE8DAyWoM4yoEOaq6m,,rock,tracks/7C05KE8DAyWoM4yoEOaq6m.mp3
-of Montreal,Oslo In The Summertime,2,2,2,2,3,4,2,3,2,3aWcuInJ6nPVUey0wDQQUL,,pop,tracks/3aWcuInJ6nPVUey0wDQQUL.mp3
-Usher,DJ Got Us Fallin' In Love,4,5,5,3,2,5,5,2,1,4356Typ82hUiFAynbLYbPn,,pop,tracks/4356Typ82hUiFAynbLYbPn.mp3
-Ed Sheeran,Shape Of You,5,3,5,4,3,5,3,2,1,7qiZfU4dY1lWllzX7mPBI3,Ugkx4cMxVQKskjH_07oSOjcVG2b0SQ05qPj5,pop,tracks/Ugkx4cMxVQKskjH_07oSOjcVG2b0SQ05qPj5.mp3
-Dinah Washington,Cry Me a River,4,4,5,5,5,4,4,2,5,4ydtQJImyQg6UDFFZBzgxp,,jazz,tracks/4ydtQJImyQg6UDFFZBzgxp.mp3
-Prince & The Revolution,Purple Rain,4,5,5,2,2,2,4,2,2,54X78diSLoUDI3joC2bjMz,,rock,tracks/54X78diSLoUDI3joC2bjMz.mp3
-Nat King Cole,Unforgettable,4,3,5,5,5,3,1,2,3,648TTtYB0bH0P8Hfy0FmkL,,jazz,tracks/648TTtYB0bH0P8Hfy0FmkL.mp3
-Brahms,Sinfonie Nr. 4,4,5,4,4,5,3,2,2,1,,Ugkx1vaUia7sOeAC90G3Wof5F_L2FzTf1EQU,classic,tracks/Ugkx1vaUia7sOeAC90G3Wof5F_L2FzTf1EQU.mp3
-Erykah Badu,Didn't Cha Know,2,2,4,4,5,3,1,1,2,7pv80uUHfocFqfTytu1MVi,,funk_soul,tracks/7pv80uUHfocFqfTytu1MVi.mp3
-50 Cent,In Da Club,2,1,2,1,3,5,4,2,1,7iL6o9tox1zgHpKUfh9vuC,UgkxPTUGD757NZE04L5T2DQ0oFPpRTI64qKI,hip_hop,tracks/UgkxPTUGD757NZE04L5T2DQ0oFPpRTI64qKI.mp3
-Kendrick Lamar,Alright,2,1,1,1,1,4,2,3,1,3iVcZ5G6tvkXZkZKlMpIUs,UgkxPHROtDPzARhhsdqX8YLXqcNPRExmYyGh,hip_hop,tracks/UgkxPHROtDPzARhhsdqX8YLXqcNPRExmYyGh.mp3
-50 Cent,Candy Shop,2,1,3,4,1,5,5,1,1,5D2mYZuzcgjpchVY1pmTPh,UgkxhZKaCibKVoF7D08iAtBOgJ6J7gBVqXh_,hip_hop,tracks/UgkxhZKaCibKVoF7D08iAtBOgJ6J7gBVqXh_.mp3
-Immortal Technique,Freedom Of Speech,2,1,1,1,2,4,2,4,1,6fx3RqwMuR3k7M1bCpUFKJ,,hip_hop,tracks/6fx3RqwMuR3k7M1bCpUFKJ.mp3
-Chopin,"3. Klaviersonate, 4. Satz",4,5,4,2,3,5,4,4,2,,UgkxuXKh_Cg-_ifVwhYq5x_Tka3iMqPQkOIb,classic,tracks/UgkxuXKh_Cg-_ifVwhYq5x_Tka3iMqPQkOIb.mp3
-Schumann,Kinderszenen,2,2,1,2,5,5,2,2,1,,Ugkx1wCT-CLUHGwzRcnGNdGJAm4MBm_L2YeX,classic,tracks/Ugkx1wCT-CLUHGwzRcnGNdGJAm4MBm_L2YeX.mp3
-Kelis,Rolling Through the Hood,1,1,3,2,4,3,3,1,2,7bjpWKh3teUpsNgdpcq7eb,,funk_soul,tracks/7bjpWKh3teUpsNgdpcq7eb.mp3
-Frank Ocean,Thinkin Bout You,3,1,3,3,4,3,1,3,1,5mphdlILgAq3vh1MSvAJTS,,pop,tracks/5mphdlILgAq3vh1MSvAJTS.mp3
-Mc Wm,Fuleragem,1,2,1,1,1,4,4,5,1,6tuzPD1zPPvwMbGiD0TBay,,funk_soul,tracks/6tuzPD1zPPvwMbGiD0TBay.mp3
-Daniel Powter,Bad Day,4,2,5,5,5,5,2,1,1,0mUyMawtxj1CJ76kn9gIZK,UgkxMYoWzQiOOQF8zBwxt7jFT2OSI6ZITlE8,pop,tracks/UgkxMYoWzQiOOQF8zBwxt7jFT2OSI6ZITlE8.mp3
-Mussorgsky,Bilder einer Ausstellung,5,4,1,1,1,5,5,5,1,,Ugkx91mTFEVcvkA0MA3pwqZq6LccGPuvSzCV,classic,tracks/Ugkx91mTFEVcvkA0MA3pwqZq6LccGPuvSzCV.mp3
-NAS,N.Y. State of Mind,1,2,1,1,1,4,4,5,1,0trHOzAhNpGCsGBEu7dOJo,UgkxcIw-zmh7aFX4IwPWGXjuVNMj17Xr2DKa,hip_hop,tracks/UgkxcIw-zmh7aFX4IwPWGXjuVNMj17Xr2DKa.mp3
-The Temptations,My Girl,3,2,5,5,4,5,3,1,2,745H5CctFr12Mo7cqa1BMH,,funk_soul,tracks/745H5CctFr12Mo7cqa1BMH.mp3
-Steely Dan,Blues Beach,3,2,3,4,2,5,3,1,1,1RHIgJN4USj9Buggihf2Pn,,rock,tracks/1RHIgJN4USj9Buggihf2Pn.mp3
-Armin van Buuren,Not Giving Up On Love,3,4,2,1,2,5,5,3,1,1frLUl7UjAs0eLL2FzJgmA,,electronic,tracks/1frLUl7UjAs0eLL2FzJgmA.mp3
-Belinda,Bailarï¿½a Sobre el Fuego,3,2,2,3,2,4,2,2,1,6OdBw3nV7nmGC5lSxf67p2,,electronic,tracks/6OdBw3nV7nmGC5lSxf67p2.mp3
-Ace of Base,All That She Wants,3,3,5,3,4,5,4,1,2,6kWJvPfC4DgUpRsXKNa9z9,,pop,tracks/6kWJvPfC4DgUpRsXKNa9z9.mp3
-Boys Like Girls,Thunder,4,2,5,4,4,3,3,1,3,1MrNveiYvWyKNAMiqn8xS8,,rock,tracks/1MrNveiYvWyKNAMiqn8xS8.mp3
-Geri Halliwell,Love Never Loved Me,3,3,2,4,2,5,5,1,1,2s7DRQ5KxfMd4p53VH0viU,,pop,tracks/2s7DRQ5KxfMd4p53VH0viU.mp3
-Count Basie,Shiny Stockings,2,2,5,3,5,4,1,1,1,5JZoHrIGklz4iUlUNjMBcs,,jazz,tracks/5JZoHrIGklz4iUlUNjMBcs.mp3
-2NE1,In the Club,4,2,2,3,2,3,4,2,2,6ZkNt6fWIMoqznNe5RRwRT,,pop,tracks/6ZkNt6fWIMoqznNe5RRwRT.mp3
-Jay-Z,Ni**as In Paris,3,2,3,1,1,5,5,4,1,4Li2WHPkuyCdtmokzW2007,UgkxAPRwScOtAsH7lNmTXrrFrOPHFa8aEtuP,hip_hop,tracks/UgkxAPRwScOtAsH7lNmTXrrFrOPHFa8aEtuP.mp3
-Strike,O Teu Olhar,2,2,2,1,1,5,5,4,1,4wGDJMUhcFy1j7XWo5ve4K,,rock,tracks/4wGDJMUhcFy1j7XWo5ve4K.mp3
-Metronomy,I'm Aquarius,2,2,2,2,3,3,1,2,1,3xEJ59GyjCjcJ69RQc2ej6,,pop,tracks/3xEJ59GyjCjcJ69RQc2ej6.mp3
-The Weather Girls,It's Raining Men,4,4,5,3,1,5,5,1,1,4caiYv89C9GZdDD1RzshWd,,funk_soul,tracks/4caiYv89C9GZdDD1RzshWd.mp3
-Christopher Cross,Ride Like the Wind,2,2,3,1,3,4,2,1,1,7gUMShP1l20tC0xf17Zplk,,rock,tracks/7gUMShP1l20tC0xf17Zplk.mp3
-Atomic Kitten,It's OK!,2,3,4,3,5,4,3,1,3,7fQrbv4s2XyMwVCIKenI26,,pop,tracks/7fQrbv4s2XyMwVCIKenI26.mp3
-Oli Brown,Speechless,2,1,2,2,3,5,3,2,1,6brUC8EwzQljB17IQpmxgW,,pop,tracks/6brUC8EwzQljB17IQpmxgW.mp3
-Atomic Kitten,Whole Again,4,2,5,3,2,5,1,1,1,16MJqq0vEuW6GRX6faetTm,UgkxRuEzjMw9YVumTIcZtXlLtf9ZE4JULUox,pop,tracks/UgkxRuEzjMw9YVumTIcZtXlLtf9ZE4JULUox.mp3
-Al Jarreau,Ain't No Sunshine,3,2,5,5,4,5,4,2,3,0Res4ooR61zc5T7m2Fswog,,jazz,tracks/0Res4ooR61zc5T7m2Fswog.mp3
-Bee Gees,Words,3,2,4,2,5,2,2,4,1,07PIhdmyYIw8dMeDMsx9FU,UgkxfOUjcMda4LaZVf_FI8GL9mrBRG3qu-sM,pop,tracks/UgkxfOUjcMda4LaZVf_FI8GL9mrBRG3qu-sM.mp3
-Yonderboi,Before you snap,3,2,2,1,2,1,4,5,2,1a9F0TEZ5fO4yWj0g9wojX,,electronic,tracks/1a9F0TEZ5fO4yWj0g9wojX.mp3
-Tschaikowski,Marsch (Nussknacker),4,2,4,1,3,5,5,1,1,,Ugkx4F31UGibkv7P0DjRbtyiIkZv-oHrFexd,classic,tracks/Ugkx4F31UGibkv7P0DjRbtyiIkZv-oHrFexd.mp3
-Duffy,Rockferry,2,2,3,3,4,1,2,1,3,78twQ5XCFJMTE37ZSU0gsj,,funk_soul,tracks/78twQ5XCFJMTE37ZSU0gsj.mp3
-Brahms,Klaviersonate Nr. 3 (Zwei Klaviere),3,4,2,3,3,3,5,3,2,,Ugkxni9QT2IVeo4E325b60MKpScPAdd-qcj_,classic,tracks/Ugkxni9QT2IVeo4E325b60MKpScPAdd-qcj_.mp3
-Leon Bridges,River,4,3,4,4,5,2,1,1,1,3hhbDnFUb2bicI2df6VurK,Ugkx0SGKkOhLVssE1_jINsxQmayREBED_VFK,pop,tracks/Ugkx0SGKkOhLVssE1_jINsxQmayREBED_VFK.mp3
-Candlemass,Solitude,2,4,1,1,1,2,5,5,3,0v3WyEt2g04WFpfVwcnfXm,,rock,tracks/0v3WyEt2g04WFpfVwcnfXm.mp3
-Apparat,Black Water,3,4,3,3,3,2,3,2,4,3mFu6HJLVeyyUyTS1EkHFP,,electronic,tracks/3mFu6HJLVeyyUyTS1EkHFP.mp3
-James Blake,Overgrown,2,2,3,3,5,1,1,2,4,2IqjKEBiz0CdLKdkXhxw84,,electronic,tracks/2IqjKEBiz0CdLKdkXhxw84.mp3
-Jorge Ben,Ponta de lanï¿½a africano (Umbabarauma),4,3,1,1,2,5,5,2,1,0jayFuH5lbwOOVeJnwDgGf,,jazz,tracks/0jayFuH5lbwOOVeJnwDgGf.mp3
-Stevie Wonder,I Wish,4,1,2,1,2,5,3,1,1,687YZan9Gol1UVvbpUSO6Y,UgkxlIhVwyJFYKbpaZtpwOKbvNoCej0Snbxd,pop,tracks/UgkxlIhVwyJFYKbpaZtpwOKbvNoCej0Snbxd.mp3
-Rilo Kiley,It Just Is,5,3,5,4,4,2,2,1,5,26tR002TUAcmtfBLR7hVnS,,pop,tracks/26tR002TUAcmtfBLR7hVnS.mp3
-Jamiroquai,Automaton,3,3,2,1,2,5,5,4,1,42dJ29C11xlJTLkRVmKty1,,funk_soul,tracks/42dJ29C11xlJTLkRVmKty1.mp3
-Sam Smith,Stay with Me,2,2,4,5,5,3,2,1,5,5Nm9ERjJZ5oyfXZTECKmRt,,funk_soul,tracks/5Nm9ERjJZ5oyfXZTECKmRt.mp3
-Gino Vannelli,Wheels Of Life,4,2,5,5,5,3,3,1,3,7uE9ZeScOg28zFE7OHQxuR,,jazz,tracks/7uE9ZeScOg28zFE7OHQxuR.mp3
-Gorillaz,Feel good Inc.,5,4,3,4,4,5,4,1,1,0d28khcov6AiegSCpG5TuT,UgkxH7E3iJmQ7z_oAHV9C-z0ntbODARuTc-0,pop,tracks/UgkxH7E3iJmQ7z_oAHV9C-z0ntbODARuTc-0.mp3
-Coolio,Gangsta's Paradise,5,3,4,1,2,5,5,2,1,1DIXPcTDzTj8ZMHt3PDt8p,,hip_hop,tracks/1DIXPcTDzTj8ZMHt3PDt8p.mp3
-Nina Simone,Feeling Good,3,4,4,4,4,5,5,1,1,6Rqn2GFlmvmV4w9Ala0I1e,UgkxcOl1VgzbVitwna_Kd3xIyvtcRJp-4xK_,pop,tracks/UgkxcOl1VgzbVitwna_Kd3xIyvtcRJp-4xK_.mp3
-Xatar,Meine Groï¿½e Liebe,2,4,1,2,1,4,4,1,1,7H1xPBRWYLhPGluTUDUYOw,UgkxFhBctjHXvMsHAcraQU2xMxEYvWxFm_wL,hip_hop,tracks/UgkxFhBctjHXvMsHAcraQU2xMxEYvWxFm_wL.mp3
-Loreen,My Heart Is Refusing Me,4,3,3,1,2,5,5,3,1,0sg9jTiFokw2U15qGK7wPK,,pop,tracks/0sg9jTiFokw2U15qGK7wPK.mp3
-Kendrick Lamar,i,1,1,1,1,1,4,2,4,1,7wdzLe2Gsx1RGqbvYZHASz,UgkxS_Zf6GeAQ5Wb_1Gfdz-EVBhrebmlb6Yn,hip_hop,tracks/UgkxS_Zf6GeAQ5Wb_1Gfdz-EVBhrebmlb6Yn.mp3
-Mayday Parade,Your Song,2,3,4,2,2,4,5,5,4,7va0FN5Fim1dNPi06sqxVx,,rock,tracks/7va0FN5Fim1dNPi06sqxVx.mp3
-Mark Ronson,Uptown Funk,5,2,2,1,4,5,5,2,1,32OlwWuMpZ6b0aN2RZOeMS,UgkxAtoariM8O0ql3atpeX96wd-ObqBs0aW_,funk_soul,tracks/UgkxAtoariM8O0ql3atpeX96wd-ObqBs0aW_.mp3
-Village People,Go West,2,1,5,2,2,5,5,2,1,5v67uga7IFT3FQhDDBgaY8,,funk_soul,tracks/5v67uga7IFT3FQhDDBgaY8.mp3
-Paramore,That's What You Get,2,2,5,2,1,5,5,2,1,1JdKrFyoU05abww0Zv0ayQ,,rock,tracks/1JdKrFyoU05abww0Zv0ayQ.mp3
-Sia,The Church of What's Happening Now,5,5,5,5,5,2,2,2,5,2NIq6qD7oM7SRT0C7kobr5,,electronic,tracks/2NIq6qD7oM7SRT0C7kobr5.mp3
-Vivaldi,Die 4 Jahreszeiten (Sommer),4,4,3,3,5,2,1,2,2,,UgkxsUbAkn64g0KksHbehhXYmDCvmZeHczH3,classic,tracks/UgkxsUbAkn64g0KksHbehhXYmDCvmZeHczH3.mp3
-Wrabel,The Village,5,3,3,4,5,3,2,1,3,6epvwUINain4iSHCTWA0sj,UgkxpnhiQPUtgAkHJTcKBqBX4YVnznIpklej,pop,tracks/UgkxpnhiQPUtgAkHJTcKBqBX4YVnznIpklej.mp3
-Ledisi,Alright,2,3,2,1,4,5,2,4,1,1wRQqmZwiF4thdQ8N7FiNv,,funk_soul,tracks/1wRQqmZwiF4thdQ8N7FiNv.mp3
-A*Teens,Rockin',2,1,3,2,2,5,2,1,1,66Ic3dIvBMBV7Oc4PUjw5w,,pop,tracks/66Ic3dIvBMBV7Oc4PUjw5w.mp3
-Billie Holiday,Lady Sings The Blues,2,2,4,4,4,1,1,1,3,6rX7Rgi2O5csTzLan7rL0c,,jazz,tracks/6rX7Rgi2O5csTzLan7rL0c.mp3
-Nat King Cole,Aquellos Ojos Verdes,2,2,4,5,5,2,1,1,1,35uu4l4jYnCLMh88URXqoX,,jazz,tracks/35uu4l4jYnCLMh88URXqoX.mp3
-Jose Gonzales,Heartbeats,5,3,5,5,5,1,2,1,2,11X4Gw3T4hoktVruLgTnm1,Ugkx7lMXD9hmHssWqqYZ9DMvrmwWMWV2PRwB,pop,tracks/Ugkx7lMXD9hmHssWqqYZ9DMvrmwWMWV2PRwB.mp3
-Elton John,Your Song,4,4,5,4,3,3,4,1,3,38zsOOcu31XbbYj9BIPUF1,UgkxdWGkpjrXKcJkU6bVakI-M3-q0x9VjUwl,pop,tracks/38zsOOcu31XbbYj9BIPUF1.mp3
-Gorillaz,Tomorrow Comes Today,4,4,4,2,4,4,3,1,4,3qdDjz9kOvquEFbvXBYOMQ,,electronic,tracks/3qdDjz9kOvquEFbvXBYOMQ.mp3
-Wild Cherry,Play That Funky Music,3,4,5,2,4,5,5,1,1,5uuJruktM9fMdN9Va0DUMl,,funk_soul,tracks/5uuJruktM9fMdN9Va0DUMl.mp3
-Carl Orff,O Fortuna (Carmina Burana),4,5,3,1,2,5,5,2,1,,UgkxXSbfxW58bYGu_rCHNm5qmvgW90Phkh-U,classic,tracks/UgkxXSbfxW58bYGu_rCHNm5qmvgW90Phkh-U.mp3
-Hot Chocolate,You Sexy Thing,4,2,5,4,4,5,4,1,1,714hERk9U1W8FMYkoC83CO,,funk_soul,tracks/714hERk9U1W8FMYkoC83CO.mp3
-Kandi,Don't Think I'm Not,1,1,3,4,2,4,3,1,2,487Dyzs7Xbbk4hIWYyYT80,,funk_soul,tracks/487Dyzs7Xbbk4hIWYyYT80.mp3
-Caetano Veloso,Alexandre,2,1,2,2,2,5,2,2,1,4fpHhkV7T4WEwdkpN5tL6R,,jazz,tracks/4fpHhkV7T4WEwdkpN5tL6R.mp3
-Kylie Minogue,Did It Again,2,2,4,2,3,5,2,2,1,06N6MhUlurBOamI1rK9u2U,,pop,tracks/06N6MhUlurBOamI1rK9u2U.mp3
-ATB,9pm (Till I Come),4,4,5,3,2,5,5,2,1,1CgbwsrNDlFrRuk2ebQ7zr,,electronic,tracks/1CgbwsrNDlFrRuk2ebQ7zr.mp3
-Kylie Minogue,Love at First Sight,2,2,2,2,1,5,5,2,1,6ua8mbyHXTHpAmGyGpFAS2,,pop,tracks/6ua8mbyHXTHpAmGyGpFAS2.mp3
-Suzanne Vega,In Liverpool,3,3,4,3,3,3,3,2,3,6HHspSEn21kZStPP4BN1xB,,rock,tracks/6HHspSEn21kZStPP4BN1xB.mp3
-Daddy Was A Milkman,Breathe In,3,2,3,4,5,2,1,1,2,0JD76XBC2uL6A5ZHTKIKHF,,electronic,tracks/0JD76XBC2uL6A5ZHTKIKHF.mp3
-Everything But the Girl,Low Tide Of The Night,4,4,5,4,5,4,2,1,1,06bJuoqZDzxSINQFREVLu0,,electronic,tracks/06bJuoqZDzxSINQFREVLu0.mp3
-Kelly Clarkson,Love So Soft,2,1,2,3,1,5,5,3,1,16QN8cBubEq706vNtPpOME,,funk_soul,tracks/16QN8cBubEq706vNtPpOME.mp3
-Bushido,Leben Und Tod Des Kenneth Glï¿½ckler,3,3,1,1,2,4,5,3,1,3ai0DFuYn5KnHPUbRjAkga,,hip_hop,tracks/3ai0DFuYn5KnHPUbRjAkga.mp3
-Bruno Mars,Just the Way You Are,3,2,5,5,3,5,3,1,2,7BqBn9nzAq8spo5e7cZ0dJ,,pop,tracks/7BqBn9nzAq8spo5e7cZ0dJ.mp3
-The Bug,Poison Dart,2,2,2,2,2,3,2,5,1,7k9XruEHhkEH1I2epEHERo,,electronic,tracks/7k9XruEHhkEH1I2epEHERo.mp3
-Bach,Brandenburgische Konzerte,3,4,2,2,3,4,4,3,1,,UgkxeLffTg_jPplOibtLpXdWG3rrOmkbu7dp,classic,tracks/UgkxeLffTg_jPplOibtLpXdWG3rrOmkbu7dp.mp3
-Prinz Pi,Laura,2,2,2,1,2,1,2,3,2,4pbTElMDaHrkLOfOv8nUdC,UgkxKywj4WMS6UIR12bQWx3DD6jYhjU0j1Em,hip_hop,tracks/UgkxKywj4WMS6UIR12bQWx3DD6jYhjU0j1Em.mp3
-Claptu,Aper,2,2,5,5,5,1,1,2,1,4tC89UWVzU3PqdqdiQbAdo,,hip_hop,tracks/4tC89UWVzU3PqdqdiQbAdo.mp3
-Onuka,Vsesvit,3,2,1,2,3,4,4,1,2,0ROyrrMf9crvLUImY1SoG6,,electronic,tracks/0ROyrrMf9crvLUImY1SoG6.mp3
-Beyonce,Halo,4,4,4,3,3,4,5,2,2,2MfOcbtgz2yTsiznFmVZUN,UgkxOQ0jGF0Dy7qev4oDn0V5sTNumm48WRwH,pop,tracks/UgkxOQ0jGF0Dy7qev4oDn0V5sTNumm48WRwH.mp3
-Descendents,Silly Girl,1,2,2,2,1,3,5,3,1,1o0cObpbURSTFEoXSgmL6a,,rock,tracks/1o0cObpbURSTFEoXSgmL6a.mp3
-Evelyn Thomas,High Energy,2,2,3,1,1,5,5,4,1,2O3JCRH7IvUUbzbxEvoVAi,,funk_soul,tracks/2O3JCRH7IvUUbzbxEvoVAi.mp3
-Yellowcard,Everywhere,4,5,5,1,1,5,5,2,2,4A3H0I1iSmYiHh5IScsBX5,,rock,tracks/4A3H0I1iSmYiHh5IScsBX5.mp3
-Joey Pecoraro,Your Favorite Place,4,5,4,5,5,3,2,2,1,2p6es5NEF5CBRrKC1lJHri,,hip_hop,tracks/2p6es5NEF5CBRrKC1lJHri.mp3
-The Fall of Every Season,From Below,1,2,1,1,1,2,4,5,1,6Cf2i3EYgQcglOmPcR3BDo,,rock,tracks/6Cf2i3EYgQcglOmPcR3BDo.mp3
-Brahms,"Klavierquartett Nr. 3 in C-Moll, 3. Satz",4,2,5,5,5,1,1,3,3,,UgkxEeJK_7M-PoHxZ3RnXvL5jlUpgeYEmPTt,classic,tracks/UgkxEeJK_7M-PoHxZ3RnXvL5jlUpgeYEmPTt.mp3
-Dr. Dre,Still D.R.E.,3,2,4,1,3,5,5,2,1,503OTo2dSqe7qk76rgsbep,UgkxdRaji-a4BT10TlHVMim4VkgyR10J4JTP,hip_hop,tracks/UgkxdRaji-a4BT10TlHVMim4VkgyR10J4JTP.mp3
-K.I.Z.,Ein Affe und ein Pferd,2,2,1,1,2,5,5,5,1,3qM75mSV84LHHJqlITqZsk,UgkxnE8-rmtVlOk9mjkXNUzj7cbG0RTr0goh,hip_hop,tracks/UgkxnE8-rmtVlOk9mjkXNUzj7cbG0RTr0goh.mp3
-Mr. Mister,Broken Wings,5,4,5,3,4,3,4,1,2,78FHUZRbFDCG6VkRAQdFLm,,rock,tracks/78FHUZRbFDCG6VkRAQdFLm.mp3
-Michael Kiwanuka,Rest,4,4,5,5,5,3,2,1,3,46ueNei78zAk47R2OOLInn,,funk_soul,tracks/46ueNei78zAk47R2OOLInn.mp3
-CunninLynguists,Valley of Death,3,4,3,1,1,4,3,2,1,3rvuvqoC0zvoUkog7EKLMv,,hip_hop,tracks/3rvuvqoC0zvoUkog7EKLMv.mp3
-Ice Cube,It Was A Good Day,1,1,2,1,3,3,2,3,1,2GrOq1y5gksYrqkc8Jzl9T,Ugkx7zgQVqyx27SS463zhiTuKgY6TFpsLk_D,hip_hop,tracks/Ugkx7zgQVqyx27SS463zhiTuKgY6TFpsLk_D.mp3
-Mozart,Eine kleine Nachtmusik: First movement,5,5,3,2,5,5,4,1,1,,UgkxZV0SHrZDy1AYZOZYFH8eCxgTMFI822sq,classic,tracks/UgkxZV0SHrZDy1AYZOZYFH8eCxgTMFI822sq.mp3
-Boy,Little Numbers,5,4,3,4,5,5,2,1,1,34UMrasAWi3VHMWpMePxGu,Ugkxay_pPRNk-jT2297d6fkFixYmAiEd8rmG,pop,tracks/Ugkxay_pPRNk-jT2297d6fkFixYmAiEd8rmG.mp3
-Robin Schulz,Sugar,3,2,2,2,3,5,5,2,1,5tf1VVWniHgryyumXyJM7w,UgkxQj7p_YA0FCZ6NeermmWRYGyr0lFUwGyS,pop,tracks/UgkxQj7p_YA0FCZ6NeermmWRYGyr0lFUwGyS.mp3
-Edwin McCain,I Could Not Ask for More,4,2,4,4,4,2,4,2,2,14J3PO0VnhtcRa31r7Aj1L,,rock,tracks/14J3PO0VnhtcRa31r7Aj1L.mp3
-Trailerpark,Schlechter Tag,4,5,1,2,1,5,1,3,1,,Ugkxf5fmFiQEz9AO6cjfIswgzRsJmSFsHTQ4,hip_hop,tracks/Ugkxf5fmFiQEz9AO6cjfIswgzRsJmSFsHTQ4.mp3
-Wayne Newton,Danke Schoen,2,2,5,3,2,4,3,2,1,1BfbdFWT4wirsQ5BNgmN52,,jazz,tracks/1BfbdFWT4wirsQ5BNgmN52.mp3
-OutKast,B.O.B.,2,2,1,1,2,5,5,4,1,3WibbMr6canxRJXhNtAvLU,UgkxubyVQJjx7WtuqLhLzUBEEkMSHEXoPqZH,hip_hop,tracks/UgkxubyVQJjx7WtuqLhLzUBEEkMSHEXoPqZH.mp3
-Moby,Porcelain,4,2,4,3,5,3,1,1,1,1hEh8Hc9lBAFWUghHBsCel,UgkxCeZp2xuJSLW0-0PZjBJt_V5-LaoVDjdx,pop,tracks/UgkxCeZp2xuJSLW0-0PZjBJt_V5-LaoVDjdx.mp3
-Scroobius Pip,Let 'Em Come,2,2,1,1,1,3,4,5,1,5iDkCenF5yMkweYTzvnxc0,UgkxNA0TGyZvRFpL5HfNxf5jL-Aos0_TMrjq,hip_hop,tracks/UgkxNA0TGyZvRFpL5HfNxf5jL-Aos0_TMrjq.mp3
-Dvorak,9. Sinfonie (II. Largo),5,5,5,5,5,2,1,1,4,,UgkxFAA69ye9sAY1N9WDpRz5SObKLpnyEKng,classic,tracks/UgkxFAA69ye9sAY1N9WDpRz5SObKLpnyEKng.mp3
-Beyoncï¿½,Blow Remix,2,2,3,4,3,5,5,2,1,0GjDYSp1bNyjggwPadwlyf,,funk_soul,tracks/0GjDYSp1bNyjggwPadwlyf.mp3
-Avril Lavigne,Girlfriend,2,2,5,3,2,5,5,3,1,45hOioMDJktr86iKDHC8gr,,pop,tracks/45hOioMDJktr86iKDHC8gr.mp3
-Emika,Drop the Other,4,5,3,2,3,4,5,4,2,1sHoqPtMfaZML6P77Q586a,,electronic,tracks/1sHoqPtMfaZML6P77Q586a.mp3
-Toquinho,Garota de Ipanema,2,1,4,2,4,5,2,2,1,0KtpvAIKMUD4wSsHv25IMn,,jazz,tracks/0KtpvAIKMUD4wSsHv25IMn.mp3
-Selena Gomez,Love You Like a Love Song,4,3,5,5,2,5,4,2,1,0laYHRpNTS6i8FXdupHkJ4,,pop,tracks/0laYHRpNTS6i8FXdupHkJ4.mp3
-Future,Mask Off,3,1,2,1,1,5,4,3,1,0VgkVdmE4gld66l8iyGjgx,Ugkx5J3xH7SZ9jDFtpl8pdxAnMiSb-GPCrhY,hip_hop,tracks/Ugkx5J3xH7SZ9jDFtpl8pdxAnMiSb-GPCrhY.mp3
-East 17,it's alright - the guvnor mix,1,2,1,1,1,5,2,3,1,0hiUOCWNdPefjaEAjcJ8Cq,,pop,tracks/0hiUOCWNdPefjaEAjcJ8Cq.mp3
-Ambrosia,You're the Only Woman,2,2,5,5,3,4,3,1,2,11qmuUlW5q5diLiVSOlsSF,,jazz,tracks/11qmuUlW5q5diLiVSOlsSF.mp3
-Cult of Luna,Thirtyfour,1,2,2,1,1,2,5,5,2,59mzCn4G9KcuIWoksoe2aq,,rock,tracks/59mzCn4G9KcuIWoksoe2aq.mp3
-Kings of Convenience,I'd Rather Dance With You,4,2,4,5,4,5,3,1,1,4hGOhC87bn7JBdYykOJJvJ,,pop,tracks/4hGOhC87bn7JBdYykOJJvJ.mp3
-John Mayer,Heartbreak Warfare,5,3,5,5,5,4,4,1,4,4gs07VlJST4bdxGbBsXVue,,rock,tracks/4gs07VlJST4bdxGbBsXVue.mp3
-Rihanna,Diamonds,5,3,5,4,4,5,5,1,1,1z9kQ14XBSN0r2v6fx4IdG,,pop,tracks/1z9kQ14XBSN0r2v6fx4IdG.mp3
-Take That,Love Ain't Here Anymore,3,2,4,4,4,1,1,1,4,1LtwwvNy05VlULpCTogigr,,pop,tracks/1LtwwvNy05VlULpCTogigr.mp3
-Roberta Sï¿½,Fogo E Gasolina,2,1,2,1,2,5,3,1,1,3z29d3vubYNEBeuuo2e8vE,,jazz,tracks/3z29d3vubYNEBeuuo2e8vE.mp3
-Alpine,Gasoline,3,2,3,3,4,4,3,1,1,1KHOOsJUHBy82PCZVV8Lmd,,pop,tracks/1KHOOsJUHBy82PCZVV8Lmd.mp3
-Missy Elliott,Work It,2,2,1,1,1,5,3,3,1,3jagJCUbdqhDSPuxP8cAqF,,hip_hop,tracks/3jagJCUbdqhDSPuxP8cAqF.mp3
-The Jackson 5,Who's Lovin You,4,2,5,5,5,4,2,1,1,6cZrsaNb4Zo9E5KHk7gcz5,,pop,tracks/6cZrsaNb4Zo9E5KHk7gcz5.mp3
-All American Rejects,Fallin Apart,4,3,2,2,4,5,5,2,1,3YoLDoNNTKb7R3Gc3yRrGK,UgkxDpumEt0h1YNhzNmcOcC_tpr896wgwGQa,pop,tracks/UgkxDpumEt0h1YNhzNmcOcC_tpr896wgwGQa.mp3
-DECAP,Panther,2,3,1,1,1,4,2,5,1,1WmdcotlVastYfmwlvK7x2,,hip_hop,tracks/1WmdcotlVastYfmwlvK7x2.mp3
-Submotion Orchestra,Eyeline,4,3,2,2,2,2,4,2,2,2sqeVVvHRuskC1E4nA1Xls,,electronic,tracks/2sqeVVvHRuskC1E4nA1Xls.mp3
-Melanie C,"Yeh, Yeh, Yeh",2,1,3,1,2,5,5,3,1,5gEkWBFaVUjzY7Y3sw35UU,,pop,tracks/5gEkWBFaVUjzY7Y3sw35UU.mp3
-Tamar Braxton,Sound of Love,2,2,1,1,2,2,2,5,2,1QSNwan8EvZeJhuDag0aqX,,funk_soul,tracks/1QSNwan8EvZeJhuDag0aqX.mp3
-Immortal Technique,Leaving the past,3,4,3,1,2,3,2,3,3,6msTUCqIfVOWe7pzWGzh6F,,hip_hop,tracks/6msTUCqIfVOWe7pzWGzh6F.mp3
-NAS,Doo Rags,5,5,4,5,4,5,5,1,1,2XQrvYopdCkOenX4Z5CdV7,UgkxHgPXHI3iwijH2ubl4ECPZWr71pOH2kNY,hip_hop,tracks/UgkxHgPXHI3iwijH2ubl4ECPZWr71pOH2kNY.mp3
-Shape of Despair,Descending Inner Night,3,4,2,1,3,2,5,5,3,6MlYQ2wTknOenhhYhofmdy,,rock,tracks/6MlYQ2wTknOenhhYhofmdy.mp3
-Justin Timberlake,My Love,3,2,2,4,3,5,4,2,1,4NeOWqHmlrGRuBvsLJC9rL,UgkxhOPsGjvMcvDrm4YVta_y5I3IDE07ggY2,pop,tracks/UgkxhOPsGjvMcvDrm4YVta_y5I3IDE07ggY2.mp3
-Avril Lavigne,Wish You Were Here,3,3,5,5,3,5,4,3,3,5XHf9PBxxHmJFuiDkGNIOA,,rock,tracks/5XHf9PBxxHmJFuiDkGNIOA.mp3
-Electric Wizard,The Chosen Few,2,3,2,2,2,2,4,4,2,5qN4DbKNNuIIe7xSlJPco0,,rock,tracks/5qN4DbKNNuIIe7xSlJPco0.mp3
-Belleruche,Anything You Want (Not That),2,2,3,2,3,4,2,2,1,41fe96o3cxCfvINxcxEe4R,,funk_soul,tracks/41fe96o3cxCfvINxcxEe4R.mp3
-Debussy,Clair de lune,4,4,5,5,5,1,1,1,2,,UgkxZqA9R-IZ4NlEqnnscZRcW-NU-PSfWw-Y,classic,tracks/UgkxZqA9R-IZ4NlEqnnscZRcW-NU-PSfWw-Y.mp3
-2Pac,Keep Ya Head Up,2,2,2,2,4,4,2,1,1,4Tttv4p2xuAq1LpQ7LI95E,,hip_hop,tracks/4Tttv4p2xuAq1LpQ7LI95E.mp3
-The Weeknd,Wicked Games,5,4,4,5,5,4,5,2,2,6VwBbL8CzPiC4QV66ay7oR,,electronic,tracks/6VwBbL8CzPiC4QV66ay7oR.mp3
-Lucky Twice,Lucky,2,2,4,3,2,5,5,2,1,4Td50xcLZQOrOHQeG0vULJ,,pop,tracks/4Td50xcLZQOrOHQeG0vULJ.mp3
-New Found Glory,This Disaster,2,3,3,1,1,5,5,4,2,2VHAQ84pzRe11YdMUDZzMZ,,rock,tracks/2VHAQ84pzRe11YdMUDZzMZ.mp3
-Alana Davis,32 Flavors,2,2,2,3,3,2,2,1,2,3o5dmw1M6ugfLpva7yTyDr,,rock,tracks/3o5dmw1M6ugfLpva7yTyDr.mp3
-Ella Fitzgerald,Dream A Little Dream Of Me,5,4,5,5,5,3,2,1,3,78MI7mu1LV1k4IA2HzKmHe,,jazz,tracks/78MI7mu1LV1k4IA2HzKmHe.mp3
-Ana Carolina,"Tï¿½ rindo, ï¿½?",2,2,3,4,4,4,3,2,1,65GmViOSKcP7jK0wNqRs8r,,jazz,tracks/65GmViOSKcP7jK0wNqRs8r.mp3
-Chaka Khan,La Flamme,1,1,3,2,1,4,4,3,1,2eov5RDWfwpixHgts4okh9,,funk_soul,tracks/2eov5RDWfwpixHgts4okh9.mp3
-Pitbull,Better On Me,2,2,2,3,4,5,3,2,1,0vLlEo1D4VRiGzMLxLbsh2,UgkxCR_Az098RiwjH07R9_uAqtt8bx0xOmNm,pop,tracks/UgkxCR_Az098RiwjH07R9_uAqtt8bx0xOmNm.mp3
-Katie Perry,I Kissed A Girl,5,2,4,1,2,5,5,2,1,14iN3o8ptQ8cFVZTEmyQRV,UgkxtorIr5hC1D3sL7KcJF9n4-lfiSpsir65,pop,tracks/UgkxtorIr5hC1D3sL7KcJF9n4-lfiSpsir65.mp3
-Elle King,Ex's &Oh's,5,3,3,2,2,5,5,2,1,70eDxAyAraNTiD6lx2ZEnH,Ugkx3wz3aVo_p1Uhr4T5tZitbHQC7eywoKY0,pop,tracks/Ugkx3wz3aVo_p1Uhr4T5tZitbHQC7eywoKY0.mp3
-Shpongle,I Am You,2,2,1,1,1,3,3,5,1,3k3RK6cRZa165izv0rTv4Z,,electronic,tracks/3k3RK6cRZa165izv0rTv4Z.mp3
-Michael Jackson,Ain't No Sunshine,3,2,4,3,2,3,4,2,2,6ac4lvV0LKQlbHYXJ7vTDb,,funk_soul,tracks/6ac4lvV0LKQlbHYXJ7vTDb.mp3
-Lasgo,Something,2,4,3,1,1,5,5,3,1,3e9L9HiHKcfYLAga28Vmcf,,electronic,tracks/3e9L9HiHKcfYLAga28Vmcf.mp3
-Stevie Nicks,Ghosts,1,1,2,1,1,2,3,5,1,6Cy4g8vU4WZJFYgwsAcG6K,,rock,tracks/6Cy4g8vU4WZJFYgwsAcG6K.mp3
-Rossini,Wilhelm Tell (Ouvertï¿½re),5,4,2,3,1,5,5,1,2,,UgkxybJ8kBJHnD0NH_qSCug2wTmq6BHK4VqE,classic,tracks/UgkxybJ8kBJHnD0NH_qSCug2wTmq6BHK4VqE.mp3
-En Vogue,Beat of Love,2,2,1,3,3,1,1,4,1,2CHSYLRP4AQgyKV17Qc9QO,,funk_soul,tracks/2CHSYLRP4AQgyKV17Qc9QO.mp3
-Draconian,"Death, Come Near Me",2,4,2,3,2,1,2,4,5,0xaf0rzKil2j5Yd2Fiz9SL,,rock,tracks/0xaf0rzKil2j5Yd2Fiz9SL.mp3
-SSIO,Sim-Karte,2,2,1,1,2,5,4,4,1,4boJTTrr04CNomqZj9SJ4f,UgkxysIgcy_4uD84L41xB_BHI_cyFy2D92pI,hip_hop,tracks/UgkxysIgcy_4uD84L41xB_BHI_cyFy2D92pI.mp3
-Alicia Keys,If I Ain't Got You,4,3,5,5,5,3,2,2,2,3XVBdLihbNbxUwZosxcGuJ,UgkxrPlnq-ux8G190EZ5mqQatzID-YW3YEvl,pop,tracks/UgkxrPlnq-ux8G190EZ5mqQatzID-YW3YEvl.mp3
-Madonna,Don't Tell Me,2,2,3,2,4,4,2,2,1,23EhTCPRTlLVM6VQUyh8bH,,pop,tracks/23EhTCPRTlLVM6VQUyh8bH.mp3
-Sixpence None the Richer,Kiss Me,2,1,5,5,4,4,1,1,1,754kgU5rWscRTfvlsuEwFp,,pop,tracks/754kgU5rWscRTfvlsuEwFp.mp3
-Ladyhawke,My Delirium,2,1,4,2,2,5,5,2,2,3vqSWOEMO4OOxa2QJHuitI,,pop,tracks/3vqSWOEMO4OOxa2QJHuitI.mp3
-Owl City,Lucid Dream,4,4,4,3,5,4,2,1,1,4icP6VWlKBLIHzl0bBD4xw,,electronic,tracks/4icP6VWlKBLIHzl0bBD4xw.mp3
-Frank Sinatra,Fly Me to the Moon,4,2,4,5,3,5,3,1,1,5b7OgznPJJr1vHNYGyvxau,,jazz,tracks/5b7OgznPJJr1vHNYGyvxau.mp3
-The Notorious B.I.G.,Juicy,3,2,2,2,4,5,3,1,1,2AP7m2dBb8ULTx4Gc1rdMc,UgkxrJMgPWDGPZXi53mg-mbkThj5shc2hAfc,hip_hop,tracks/UgkxrJMgPWDGPZXi53mg-mbkThj5shc2hAfc.mp3
-Lana Del Rey,Video Games,5,5,5,5,5,2,5,2,5,24jvD83UgLmrdGjhWTFslY,,pop,tracks/24jvD83UgLmrdGjhWTFslY.mp3
-blink-182,Online Songs,2,1,4,1,2,5,5,2,1,2DcxTfOm8y2UgeP81qdidR,,rock,tracks/2DcxTfOm8y2UgeP81qdidR.mp3
-Jorge Ben Jor,"Mas, Que Nada!",3,4,5,5,5,5,2,2,2,6U03Orwr5Dxt8jahLnQpYV,,jazz,tracks/6U03Orwr5Dxt8jahLnQpYV.mp3
-The Whitest Boy Alive,Keep a Secret,2,2,2,1,3,2,1,3,2,7pHWIlKBTQJM9oErC4OzSP,,pop,tracks/7pHWIlKBTQJM9oErC4OzSP.mp3
-Faurï¿½,Romance sans Paroles,3,4,5,5,5,2,1,1,1,,UgkxQPEqkpnGIK2-LLxuRimQ9MHxpkpmCeeg,classic,tracks/UgkxQPEqkpnGIK2-LLxuRimQ9MHxpkpmCeeg.mp3
-Eminem,Lose Yourself,4,3,4,2,3,5,5,2,1,7MJQ9Nfxzh8LPZ9e9u68Fq,UgkxpFGqBJ32ORfzd4DhgSOtxi95nKPJclM2,hip_hop,tracks/UgkxpFGqBJ32ORfzd4DhgSOtxi95nKPJclM2.mp3
-Dido,Don't Leave Home,5,3,5,5,5,3,3,1,4,4N7e9ltiDKb19Swu2CWqMB,,pop,tracks/4N7e9ltiDKb19Swu2CWqMB.mp3
-Lasgo,Alone,1,2,2,1,1,4,4,3,1,6hVdYM1RKjPIYv17KJ6Cll,,electronic,tracks/6hVdYM1RKjPIYv17KJ6Cll.mp3
-M.I.A.,Paper Planes,2,1,2,1,1,5,4,3,1,4YOH3cBrhf4F6T4iYFUdz5,UgkxybLbk7xO9Z4sFmjacBa0Ltbd5UZqfUhs,pop,tracks/UgkxybLbk7xO9Z4sFmjacBa0Ltbd5UZqfUhs.mp3
-SSIO,Nullkommaneun,2,3,1,1,1,5,3,5,1,3cLXgIlvugVKpWBmO5v9oy,UgkxIoxnqhDJAYNa8D04h4ErsP8RkqaPXWqW,hip_hop,tracks/UgkxIoxnqhDJAYNa8D04h4ErsP8RkqaPXWqW.mp3
-Astrud Gilberto,Agua De Beber,1,1,4,3,5,3,1,1,2,3QKJELWORZZ7rUZDWeMWSA,,jazz,tracks/3QKJELWORZZ7rUZDWeMWSA.mp3
-Elis Regina,Canto De Ossanha,2,1,3,2,3,3,2,2,1,7hli27iuIkMtJJMcLYou25,,jazz,tracks/7hli27iuIkMtJJMcLYou25.mp3
-Frank Sinatra,Like Someone in Love,5,4,5,5,5,4,3,1,4,0CaqEVnLB5plVzrlrMjfKT,,jazz,tracks/0CaqEVnLB5plVzrlrMjfKT.mp3
-Whitney Houston,I Wanna Dance With Somebody,5,2,5,3,4,5,5,1,1,2tUBqZG2AbRi7Q0BIrVrEj,Ugkxkl1P_hb1huEiQYoB8yrAOtHOcRhZSatO,pop,tracks/Ugkxkl1P_hb1huEiQYoB8yrAOtHOcRhZSatO.mp3
-Astrud Gilberto,And Roses And Roses,4,3,5,5,5,3,1,2,4,0BEn0rwSyzuvhKgZ7GLbyO,,jazz,tracks/0BEn0rwSyzuvhKgZ7GLbyO.mp3
-eRRdeKa,EdoppelR,2,1,1,1,2,4,2,3,1,,UgkxBl1mEDuDJTcfug2835bM33WCjugjBM_p,hip_hop,tracks/UgkxBl1mEDuDJTcfug2835bM33WCjugjBM_p.mp3
-Britney Spears,Where Are You Now,1,1,4,4,4,1,1,2,4,4MOBPIIRUgHTBAp0NpgLTm,,pop,tracks/4MOBPIIRUgHTBAp0NpgLTm.mp3
-Marvin Gaye,Sexual Healing,4,2,2,5,4,5,3,2,1,3VZmChrnVW8JK6ano4gSED,Ugkx80MBio8Ru7rwkMHlrJ0potrMvWLEoW0z,pop,tracks/Ugkx80MBio8Ru7rwkMHlrJ0potrMvWLEoW0z.mp3
-Modern Talking,"You're My Heart, You're My Soul",1,1,2,2,2,4,2,2,1,0Zn63G0XTiqXwr1KSmARWz,,pop,tracks/0Zn63G0XTiqXwr1KSmARWz.mp3
-LL Cool J,Around The Way Girl,3,2,2,3,5,5,3,1,1,4Qxv2L4JICAWLFrBV6QeH8,UgkxMbCDRF2FTSOAr1PU6OBHoM-fbiYzsRIR,hip_hop,tracks/UgkxMbCDRF2FTSOAr1PU6OBHoM-fbiYzsRIR.mp3
-Ella Fitzgerald,All of Me,2,2,5,2,2,5,3,1,1,0qZo9OzKPzg58Ts9ad4Bcy,,jazz,tracks/0qZo9OzKPzg58Ts9ad4Bcy.mp3
-Louis Prima,Buona Sera,3,1,4,3,3,5,4,2,1,0DXm5n7SBxCED9ssTvrx2J,,jazz,tracks/0DXm5n7SBxCED9ssTvrx2J.mp3
-Krewella,Marching On,3,2,2,3,3,4,4,2,2,5LVj9daVd1q6fjICKyvl7Y,,electronic,tracks/5LVj9daVd1q6fjICKyvl7Y.mp3
-Billie Holiday,The Man I Love,3,3,5,5,5,1,1,2,3,0ndEbK6LnERIPBG6t4gXDX,,jazz,tracks/0ndEbK6LnERIPBG6t4gXDX.mp3
-Britney Spears,Baby One More Time,4,2,4,3,2,5,4,2,1,3MjUtNVVq3C8Fn0MP3zhXa,UgkxuNNi-4AibDVoT7ps_OXBcRHSfbERCYCV,pop,tracks/UgkxuNNi-4AibDVoT7ps_OXBcRHSfbERCYCV.mp3
-Suff Daddy,K C Vodka,1,1,1,1,2,3,2,4,1,701ScIvdwIVub5swI6ObLG,,hip_hop,tracks/701ScIvdwIVub5swI6ObLG.mp3
-Zero 7,In the Waiting Line,3,3,4,5,5,4,2,2,2,5ARrtxJLVCeTv5TWo1oKgC,,electronic,tracks/5ARrtxJLVCeTv5TWo1oKgC.mp3
-DMX,X Gon' Give It To Ya,4,2,2,2,2,5,5,1,1,1zzxoZVylsna2BQB65Ppcb,UgkxMeHC_SJHx7meQn7dBLWcFSeJvrcjj8dO,hip_hop,tracks/UgkxMeHC_SJHx7meQn7dBLWcFSeJvrcjj8dO.mp3
-Chaka Khan,So Naughty,2,2,2,3,1,4,5,2,2,1CpsuBEVGtEMR8MqoCa3gK,,funk_soul,tracks/1CpsuBEVGtEMR8MqoCa3gK.mp3
-Nara Leï¿½o,Acender As Velas,3,3,4,4,4,3,1,1,2,51WPyWMsRCsQL1rLd0D6EO,,jazz,tracks/51WPyWMsRCsQL1rLd0D6EO.mp3
-Angus and Julia Stone,Big Jet Plane,3,2,4,3,5,2,1,1,2,3HedB2EwVAj5MAx8xFE1ea,Ugkxv_U_qXBVuH3ODIY2urwJsO0Rm6HEYYJB,pop,tracks/Ugkxv_U_qXBVuH3ODIY2urwJsO0Rm6HEYYJB.mp3
-Blumio,Lass Mal ï¿½ber Haie Reden,2,2,1,1,2,5,4,4,1,2cdXF2fdd1q3wXg7VnxzEJ,,hip_hop,tracks/2cdXF2fdd1q3wXg7VnxzEJ.mp3
-Chopin,Impromptu No. 2,4,4,5,5,5,4,1,1,2,,Ugkx05j3YY26icMuOHwlJJp28U55tS6W5DP7,classic,tracks/Ugkx05j3YY26icMuOHwlJJp28U55tS6W5DP7.mp3
-Freundeskreis,A-N-N-A,1,2,3,3,4,1,1,2,2,6EWtkdeKmVtRjmydTfIR0S,UgkxMgl6-aZs6hkIbjgGKbpferte9SbBUBnx,hip_hop,tracks/UgkxMgl6-aZs6hkIbjgGKbpferte9SbBUBnx.mp3
-Bruno Mars,Grenade,4,2,5,4,2,5,4,2,2,4lLtanYk6tkMvooU0tWzG8,Ugkx3jVwXevI7XbHnLHgOGEn0ZGfGnsqz2-I,pop,tracks/Ugkx3jVwXevI7XbHnLHgOGEn0ZGfGnsqz2-I.mp3
-Renee Olstead,A Love That Will Last,4,3,5,5,5,3,1,1,2,4bJbSERtCqK9D6DRUPMmMh,,jazz,tracks/4bJbSERtCqK9D6DRUPMmMh.mp3
-Green Day,Know Your Enemy,3,3,5,1,2,5,5,2,1,5qtwzv99vOr5UTwnTixn7j,,rock,tracks/5qtwzv99vOr5UTwnTixn7j.mp3
-Alex Clare,Too Close,4,4,5,3,4,5,5,2,2,4sK96UnGx3NjBaqvfTG2dm,,electronic,tracks/4sK96UnGx3NjBaqvfTG2dm.mp3
-The Head And The Heart,Rivers And Roads,4,2,5,5,5,2,1,1,4,4fN0dQGDaV4Hg7Gd7mBOE0,UgkxgMkVL3kN_NS4-C46e9EgbwNJj1aih8MD,pop,tracks/UgkxgMkVL3kN_NS4-C46e9EgbwNJj1aih8MD.mp3
-Heidi Montag,Love It or Leave It,2,2,2,1,2,4,3,3,1,25pVbxHtM3TdDA6hHwvLfW,,pop,tracks/25pVbxHtM3TdDA6hHwvLfW.mp3
-Chopin,Etï¿½de Op. 25 No. 1,4,4,4,5,5,3,2,1,1,,Ugkxios79TvKLDWBve4BpQ-gDXjkPQFhbbsT,classic,tracks/Ugkxios79TvKLDWBve4BpQ-gDXjkPQFhbbsT.mp3
-Billie Holiday,Strange Fruit,4,3,5,5,5,1,2,2,5,1CTex49P0iWwzUGsMNjgaV,,jazz,tracks/1CTex49P0iWwzUGsMNjgaV.mp3
-Panic! at the Disco,Nine In The Afternoon,4,3,3,3,3,5,4,2,1,1S30kHvkkdMkcuCTGSgS41,UgkxpMvawDtC--K3ew0T2xhMArA3w-vcvNHc,pop,tracks/UgkxpMvawDtC--K3ew0T2xhMArA3w-vcvNHc.mp3
-Black Eyed Peas,I Gotta Feeling,5,2,5,1,2,5,5,2,1,4kLLWz7srcuLKA7Et40PQR,UgkxHufLO18mbaTP7D7J51qS37IciumNGtZo,pop,tracks/UgkxHufLO18mbaTP7D7J51qS37IciumNGtZo.mp3
-Phil Collins,Two Hearts,2,1,5,4,2,5,3,1,1,0vDSWxRlWN0LWsSQdGIPuE,,rock,tracks/0vDSWxRlWN0LWsSQdGIPuE.mp3
-The Roots,You Got Me,3,2,4,3,3,2,2,2,2,4pdLZsxq0y5oJDb6Cxlokw,Ugkxu01TdXlyzUBaA1uxYlVxUTn3Z0cXaUh5,hip_hop,tracks/Ugkxu01TdXlyzUBaA1uxYlVxUTn3Z0cXaUh5.mp3
-Good Charlotte,I Don't Wanna Be In Love (Dance Floor Anthem),2,2,4,1,2,5,5,2,1,36UVZPoK8a1Oxh13cY8kOp,,rock,tracks/36UVZPoK8a1Oxh13cY8kOp.mp3
-Hot Chip,So Glad to See You,2,2,3,4,3,2,1,2,1,0PCYXSyESysJ1Eodxjyn9p,,electronic,tracks/0PCYXSyESysJ1Eodxjyn9p.mp3
-Bon Iver,Skinny Love,5,4,5,5,5,4,2,1,2,1HkOPLwAJH3kE8UnqgxF4s,,pop,tracks/1HkOPLwAJH3kE8UnqgxF4s.mp3
-Burial,Untrue,2,2,2,2,2,4,3,3,1,1aaIYTqoRDzRUilU2Q6vTe,,electronic,tracks/1aaIYTqoRDzRUilU2Q6vTe.mp3
-Candlemass,The Ebony Throne,2,2,3,1,1,1,4,5,2,710qdYprxjsTDzCyW2xUWQ,,rock,tracks/710qdYprxjsTDzCyW2xUWQ.mp3
-Busted,Over Now,3,2,5,3,2,4,4,2,4,70uvMWoagPhT9NeymzQxav,,rock,tracks/70uvMWoagPhT9NeymzQxav.mp3
-Claptu,sad octopus,3,2,5,4,5,1,1,1,1,6IGd96b2eVkKVhwCW1NJ1e,,hip_hop,tracks/6IGd96b2eVkKVhwCW1NJ1e.mp3
-Teena Marie,Revolution,1,3,3,1,2,4,3,1,2,7re1yRjy442DIAIVUgCaBN,,funk_soul,tracks/7re1yRjy442DIAIVUgCaBN.mp3
-Action Bronson,Actin Crazy,2,2,1,1,3,4,3,4,1,3clX2NMmjaAHmBjeTSa9vV,UgkxB6BmDvjHIlfMegxsTkAL3QsvWuGjqc8U,hip_hop,tracks/UgkxB6BmDvjHIlfMegxsTkAL3QsvWuGjqc8U.mp3
-Prince,Kiss,3,3,5,3,2,5,4,2,1,62LJFaYihsdVrrkgUOJC05,,funk_soul,tracks/62LJFaYihsdVrrkgUOJC05.mp3
-The Kooks,Naive,4,3,5,3,4,5,3,1,1,7BHPGtpuuWWsvE7cCaMuEU,UgkxIfqh2W_vjI850bs5t59AQ3eY3r_9m6ib,pop,tracks/UgkxIfqh2W_vjI850bs5t59AQ3eY3r_9m6ib.mp3
-B.O.B.,Nothing On You,5,3,4,4,4,5,3,1,1,4X5xWMINgGA6l0GoyYkMcr,UgkxCgXfMr1h4vSaB0uGDI1TrXKL-83WFZyR,pop,tracks/UgkxCgXfMr1h4vSaB0uGDI1TrXKL-83WFZyR.mp3
-Who Is Fancy,GOODBYE,4,2,2,4,3,3,2,2,2,6K5xY7EabiBLjd2HuBQIak,,pop,tracks/6K5xY7EabiBLjd2HuBQIak.mp3
-Backstreet Boys,Everybody,5,1,5,1,1,5,5,2,1,1di1BEgJYzPvXUuinsYJGP,UgkxLGSKI0SJjf-ZvA0lqIxxIBeF4wnzxeoA,pop,tracks/UgkxLGSKI0SJjf-ZvA0lqIxxIBeF4wnzxeoA.mp3
-Lighthouse Family,Ain't No Sunshine,5,4,5,5,5,4,2,2,5,435rQGMojc5C6xJbtjeynu,,funk_soul,tracks/435rQGMojc5C6xJbtjeynu.mp3
-Tschaikowski,Schwanensee,5,5,4,4,2,5,4,2,2,,UgkxXJNF8Uu-6OHEdFC3fpjZMqWeBtvWLTG-,classic,tracks/UgkxXJNF8Uu-6OHEdFC3fpjZMqWeBtvWLTG-.mp3
-Jennifer Hudson,Moan,4,4,5,5,5,3,5,1,4,5jpo5CggeyVEQSHoXVhBqh,,funk_soul,tracks/5jpo5CggeyVEQSHoXVhBqh.mp3
-Melody Gardot,Worrisome Heart,4,3,5,5,5,4,4,2,2,3zh5km8gPDYMiWvmLTsos0,,jazz,tracks/3zh5km8gPDYMiWvmLTsos0.mp3
-Public Enemy,Harder Than You Think,4,2,1,1,2,5,5,3,1,5YpZh8wfS4moRBk0ijNcXr,UgkxpVOO0TSOqDoD9F6HShVu3Th8Pvs-qxbq,hip_hop,tracks/UgkxpVOO0TSOqDoD9F6HShVu3Th8Pvs-qxbq.mp3
-Nero,My Eyes,3,4,2,1,2,3,5,5,1,4gMIZhJUOCjmQxo1fwhhnK,,electronic,tracks/4gMIZhJUOCjmQxo1fwhhnK.mp3
-Cathedral,Hopkins (The Witchfinder General),2,2,2,1,2,4,5,3,1,2BiEmhDluMGJyfG0Dd061S,,rock,tracks/2BiEmhDluMGJyfG0Dd061S.mp3
-Rihanna,Umbrella,5,2,5,2,2,5,2,2,1,49FYlytm3dAAraYgpoJZux,UgkxO7FJbeCJsFgWY8VO-TP6bTqL0CGLeQlV,pop,tracks/UgkxO7FJbeCJsFgWY8VO-TP6bTqL0CGLeQlV.mp3
-Beck,Tropicalia,3,2,4,3,2,4,2,2,1,6rx6Ew1sday1KvsnD4HNdI,,jazz,tracks/6rx6Ew1sday1KvsnD4HNdI.mp3
-Katie Tunstall,Suddenly I See,5,2,3,3,3,5,5,1,1,5p9XWUdvbUzmPCukOmwoU3,Ugkxiw2wzDrVBgD9-ufXze-4AHr4IZN8o3mo,pop,tracks/Ugkxiw2wzDrVBgD9-ufXze-4AHr4IZN8o3mo.mp3
-Arctic Monkeys,Do I Wanna Know,4,4,4,2,3,4,4,1,1,5FVd6KXrgO9B3JPmC8OPst,Ugkx3C93_K7mw93V4DJ7PUu7FluA0Qo_7WQf,pop,tracks/Ugkx3C93_K7mw93V4DJ7PUu7FluA0Qo_7WQf.mp3
-Lady Gaga,Pokerface,4,2,4,1,2,5,5,1,1,1QV6tiMFM6fSOKOGLMHYYg,UgkxkOxrG1xvuhSDYypwMKFCijhV_a-eYS77,pop,tracks/UgkxkOxrG1xvuhSDYypwMKFCijhV_a-eYS77.mp3
-Wiz Khalifa,"Young, Wild & Free",4,2,4,2,2,5,3,3,1,5HQVUIKwCEXpe7JIHyY734,UgkxCvIDJmDT3LI2bByGdPRUfLQcjUwxCj63,hip_hop,tracks/UgkxCvIDJmDT3LI2bByGdPRUfLQcjUwxCj63.mp3
-Rachmaninow,Prï¿½ludes op. 32 no. 5,4,2,5,5,5,2,1,1,1,,Ugkx61Zy9gilFKWKvUGJ-dkPTiaQXWSET-mg,classic,tracks/Ugkx61Zy9gilFKWKvUGJ-dkPTiaQXWSET-mg.mp3
-Alfvï¿½n,Midsommarvaka,5,5,2,5,5,4,3,1,1,6bnYnAVPzpWLqG4mqC9gc3,,classic,tracks/6bnYnAVPzpWLqG4mqC9gc3.mp3
-Elis Regina,Como Nossos Pais,3,3,3,4,2,3,3,2,3,2ZC8sdv4Kvuql7Q9T8Agzv,,jazz,tracks/2ZC8sdv4Kvuql7Q9T8Agzv.mp3
-Paul McCartney,The Lovely Linda,3,2,5,4,5,4,1,1,2,0Ca2mDERpTFmnttcSt9UcR,,rock,tracks/0Ca2mDERpTFmnttcSt9UcR.mp3
-Chance The Rapper,Summer Friends,1,1,1,2,3,4,1,3,1,2fl0B0OaXjWbjHCQFx2O8W,Ugkx3xlTENI-JXgKuo3V07OjMtslbm5vFWD5,hip_hop,tracks/Ugkx3xlTENI-JXgKuo3V07OjMtslbm5vFWD5.mp3
-Fletwood Mac,Dreams,3,3,5,4,5,4,1,1,1,0ofHAoxe9vBkTCp2UQIavz,UgkxQMbhr2z_eKAUDgf3qBfU2f1FvLS8GTTw,pop,tracks/UgkxQMbhr2z_eKAUDgf3qBfU2f1FvLS8GTTw.mp3
-Bizet,Carmen (Habanera),4,2,3,2,3,5,4,2,1,,UgkxH5OjhFpFt-iY89uRAYiUQnuGx9mBA4au,classic,tracks/UgkxH5OjhFpFt-iY89uRAYiUQnuGx9mBA4au.mp3
-Chinese Man,I've Got That Tune,4,2,2,2,4,5,4,2,1,6ZOeDXutLpSGqA1sSL6LrL,Ugkxl8V8xIDseh5mZvsg3Ry96BpP--D9opcP,hip_hop,tracks/Ugkxl8V8xIDseh5mZvsg3Ry96BpP--D9opcP.mp3
-Cerrone,Give Me Love,4,3,5,3,4,5,4,2,2,30EaKbkhCzCAxVccAaYzGA,,funk_soul,tracks/30EaKbkhCzCAxVccAaYzGA.mp3
-Santigold,The Keepers,2,3,3,1,2,4,4,2,2,1BaVwEV5FogbZuCzpSc7Jl,,electronic,tracks/1BaVwEV5FogbZuCzpSc7Jl.mp3
-Jamie Cullum,Mind Trick,4,3,5,4,5,5,4,1,1,1rLs5c68LOspqWKcCMdXKO,,jazz,tracks/1rLs5c68LOspqWKcCMdXKO.mp3
-Leftfield,Release the Pressure,3,2,2,2,4,5,3,2,2,6SpP5cpf4dY8AFFtXEfqmA,,electronic,tracks/6SpP5cpf4dY8AFFtXEfqmA.mp3
-t.A.T.u.,All the Things She Said,4,3,4,3,2,5,5,2,2,4bJygwUKrRgq1stlNXcgMg,,pop,tracks/4bJygwUKrRgq1stlNXcgMg.mp3
-Katatonia,Last Resort,1,2,4,1,2,3,3,5,4,2gtu8xsu1VGahuRJ2YZAHA,,rock,tracks/2gtu8xsu1VGahuRJ2YZAHA.mp3
-Sï¿½rgio Mendes,Mas que nada,2,3,3,2,4,5,3,2,1,6U7GUjtamt2P0LcFod1dBT,,jazz,tracks/6U7GUjtamt2P0LcFod1dBT.mp3
-Nina Simone,I Want a Little Sugar in My Bowl,4,3,5,5,5,3,2,1,4,3NcJu9876GBJuNU6vJOrbb,,jazz,tracks/3NcJu9876GBJuNU6vJOrbb.mp3
-The Jacksons,Blame It on the Boogie,5,4,5,3,2,5,5,1,1,3qI94hINNNeb4S7xQi18lS,,funk_soul,tracks/3qI94hINNNeb4S7xQi18lS.mp3
-The Cinematic Orchestra,Ma Fleur,3,2,4,4,5,2,2,2,3,3AqPL1n1wKc5DVFFnYuJhp,,electronic,tracks/3AqPL1n1wKc5DVFFnYuJhp.mp3
-Lalo,Symphonie espagnole,5,4,2,2,4,5,3,2,1,,UgkxUZYPzWKM30sUaKQw_uvovRYp978C0MYu,classic,tracks/UgkxUZYPzWKM30sUaKQw_uvovRYp978C0MYu.mp3
-Chopin,Waltz Op.69 No.2,4,2,4,4,5,4,1,2,1,,UgkxmgvSvVKZ8-sYhYcb76BaYxtKTXZp1F0Z,classic,tracks/UgkxmgvSvVKZ8-sYhYcb76BaYxtKTXZp1F0Z.mp3
-The Deli,5:32pm,2,3,5,4,5,2,1,2,1,7qrBYrivpvfXUPBMmqh3dA,,hip_hop,tracks/7qrBYrivpvfXUPBMmqh3dA.mp3
-Mark Ronson,Uptown Funk,2,3,4,3,1,5,5,2,1,32OlwWuMpZ6b0aN2RZOeMS,,funk_soul,tracks/32OlwWuMpZ6b0aN2RZOeMS.mp3
-Bobby Caldwell,Open Your Eyes,2,2,5,5,5,5,3,1,1,1Yrgyxebkguu4MGFkDoINo,,jazz,tracks/1Yrgyxebkguu4MGFkDoINo.mp3
-Yoav,Club Thing,1,3,2,3,3,3,3,3,1,7LDqph6mv9A5uzlzuXfhyL,,electronic,tracks/7LDqph6mv9A5uzlzuXfhyL.mp3
-Feed Me,One Click Headshot,2,1,3,1,2,4,3,3,1,4z7t5KsfkxMC1PdOLgog4V,,electronic,tracks/4z7t5KsfkxMC1PdOLgog4V.mp3
-Rancid,Time Bomb,1,1,3,1,1,5,4,3,1,41kg2RvdwBuIv0OPpvBS4v,,rock,tracks/41kg2RvdwBuIv0OPpvBS4v.mp3
-Macklemore,Same Love,5,3,5,5,4,5,2,1,1,01uqI4H13Gsd8Lyl1EYd8H,UgkxuB37w_IKefXDD5QrBIjRGgLlY6hrVi-H,pop,tracks/UgkxuB37w_IKefXDD5QrBIjRGgLlY6hrVi-H.mp3
-Skrjabin,Prï¿½ludes op. 11 no. 15,4,3,4,3,5,2,1,1,1,,UgkxC5w33irJhDDR6Iuf4qAPBh-TMkOaNTwS,classic,tracks/UgkxC5w33irJhDDR6Iuf4qAPBh-TMkOaNTwS.mp3
-Cï¿½line Dion,Je crois toi,4,4,4,5,4,1,2,2,4,3CehtvHVAVPaaukPIIL67r,,pop,tracks/3CehtvHVAVPaaukPIIL67r.mp3
-Eminem,Mockingbird,4,2,5,2,2,2,2,3,5,561jH07mF1jHuk7KlaeF0s,Ugkxgie5MI-cRMFrgZHXb5x44t3tkLgpM5CJ,hip_hop,tracks/Ugkxgie5MI-cRMFrgZHXb5x44t3tkLgpM5CJ.mp3
-Nicki Minaj,Starships,3,4,2,2,2,5,5,4,1,1oHNvJVbFkexQc0BpQp7Y4,,pop,tracks/1oHNvJVbFkexQc0BpQp7Y4.mp3
-Jam & Spoon,Right in the Night (Fall in Love With Music),3,4,4,3,4,5,5,2,2,6x6G0shZs4Qg4YLfLbhR7z,,electronic,tracks/6x6G0shZs4Qg4YLfLbhR7z.mp3
-Jeremy Kay,Have It All,4,2,3,5,4,4,3,1,2,2lt8MKIve6BMPAJ6xfH8bL,,pop,tracks/2lt8MKIve6BMPAJ6xfH8bL.mp3
-Darren Styles,Cutting Deep,2,4,1,1,1,5,5,4,1,2GOGJIN0VMUFrHtyKvmkQn,,electronic,tracks/2GOGJIN0VMUFrHtyKvmkQn.mp3
-Sara Gazarek,Yours,1,1,4,5,5,4,1,1,1,3STjN5FAkJiljtZzrSeE0I,,jazz,tracks/3STjN5FAkJiljtZzrSeE0I.mp3
-Beethoven,Sinfonie Nr. 6,5,3,2,4,4,4,2,1,1,,Ugkx1Ej3b9qA_WObxshPovM-pu8oSGSi9M72,classic,tracks/Ugkx1Ej3b9qA_WObxshPovM-pu8oSGSi9M72.mp3
-Submotion Orchestra,Variations,2,1,1,4,5,1,1,1,1,3qzxORCDY3UpbvT7p7WYIE,,electronic,tracks/3qzxORCDY3UpbvT7p7WYIE.mp3
-Der Junge mit der Gitarre,Hallo Worum Gehts Ich Bin Dagegen,3,2,1,1,1,5,4,2,1,2v9P6UeIJkWBz2NnvGvZIr,,pop,tracks/2v9P6UeIJkWBz2NnvGvZIr.mp3
-Anathema,Crestfallen,1,1,1,1,1,1,4,5,2,3Ca1PahHy0AowFpNwHzJM2,,rock,tracks/3Ca1PahHy0AowFpNwHzJM2.mp3
-Bruno Mars,Treasure,4,2,2,3,4,5,4,2,1,55h7vJchibLdUkxdlX3fK7,Ugkx-rrC5IaUoZr3-24uYboRqWLTaFxxw8ho,funk_soul,tracks/Ugkx-rrC5IaUoZr3-24uYboRqWLTaFxxw8ho.mp3
-Vanessa Carlton,A Thousand Miles,5,1,5,4,4,5,2,1,1,4w1lzcaoZ1IC2K5TwjalRP,UgkxQ2vunX6qRD62Hmm-iVMY0elLoFT-EIi6,pop,tracks/UgkxQ2vunX6qRD62Hmm-iVMY0elLoFT-EIi6.mp3
-Katatonia,Deliberation,2,2,2,1,1,2,4,5,2,3z7jm3G3rdp05oTzYWkHNi,,rock,tracks/3z7jm3G3rdp05oTzYWkHNi.mp3
-David Gray,Please Forgive me,3,2,2,1,3,3,1,2,1,2H0oiflYrs8PPjOxZ5TdIu,Ugkx5ik9HReAChsNTE22YWQIw-mB6CM4BcGX,pop,tracks/Ugkx5ik9HReAChsNTE22YWQIw-mB6CM4BcGX.mp3
-Jamiroquai,Virtual Insanity,5,2,4,3,4,5,5,1,1,2Bxt2qamL6iu0XN0Td484J,UgkxgVQ5ux4pXyn83sb16otHzXBiTCpTh2V-,pop,tracks/UgkxgVQ5ux4pXyn83sb16otHzXBiTCpTh2V-.mp3
-Lake of Tears,So Fell Autumn Rain,2,2,2,1,1,2,4,2,2,2sXOtMnG1wfnNsNUQ6oDPR,,rock,tracks/2sXOtMnG1wfnNsNUQ6oDPR.mp3
-Vinï¿½cius de Moraes,Samba em Prelï¿½dio,4,3,5,5,5,2,1,1,3,7yYKjc8k6UrqeBig0bDeFy,,jazz,tracks/7yYKjc8k6UrqeBig0bDeFy.mp3
-Babybird,If You'll Be Mine,3,1,3,4,5,3,2,1,1,5EMnZ3vruQchFxvGTxr0zH,,pop,tracks/5EMnZ3vruQchFxvGTxr0zH.mp3
-Aerosmith,I Don't Want To Miss A Thing,5,3,5,5,5,5,5,1,2,225xvV8r1yKMHErSWivnow,UgkxyD8sASPRaSOcUov9UHcKBrJOi3e8ktUQ,pop,tracks/UgkxyD8sASPRaSOcUov9UHcKBrJOi3e8ktUQ.mp3
-Marina and the Diamonds,Gold,4,2,2,4,3,5,2,1,1,31cL2Hdc40Rck0wH1sDEja,,pop,tracks/31cL2Hdc40Rck0wH1sDEja.mp3
-Cissy Houston,Think It Over,3,3,3,2,2,5,5,3,1,09HKieZL31JLWTb2s5tm6I,,funk_soul,tracks/09HKieZL31JLWTb2s5tm6I.mp3
-James Blake,Timeless,1,2,1,1,1,2,4,5,1,49jxn2Mdde8QZUx0AlbD0l,,electronic,tracks/49jxn2Mdde8QZUx0AlbD0l.mp3
-Alesso,Sweet Escape,4,5,3,2,2,5,5,3,1,6vPJvkEuWZPcv58NnQ3dBR,,electronic,tracks/6vPJvkEuWZPcv58NnQ3dBR.mp3
-Mattafix,Big City Life,4,3,3,2,4,5,3,2,1,4stm6lf1vQBSl7Eq4Npzr0,UgkxSGQfRxnFhbwBogiTRiiADnSJ5HdoUsYa,hip_hop,tracks/UgkxSGQfRxnFhbwBogiTRiiADnSJ5HdoUsYa.mp3
-Beastie Boys,Fight For Your Right,4,2,2,1,1,5,5,4,1,5NLuC70kZQv8q34QyQa1DP,UgkxLiBRjEcNV1_KdoYV9fExBB4JoIZqPXl1,hip_hop,tracks/UgkxLiBRjEcNV1_KdoYV9fExBB4JoIZqPXl1.mp3
-Sandy,Aquela dos 30,3,2,2,2,2,5,3,2,1,13P1ZQvK9lejmHM6h8Pnbk,,pop,tracks/13P1ZQvK9lejmHM6h8Pnbk.mp3
-David Guetta,Memories,2,1,2,1,1,5,4,3,1,5xYC48nOppVemY6U5GRGTb,UgkxeW-A20ALNhf8q1xKQEVG8JVOkcbXqygx,pop,tracks/UgkxeW-A20ALNhf8q1xKQEVG8JVOkcbXqygx.mp3
-My Dying Bride,For My Fallen Angel,5,4,4,5,5,1,3,2,5,5oVSFQUi1hBYYRiNeOwfWy,,rock,tracks/5oVSFQUi1hBYYRiNeOwfWy.mp3
-Imogen Heap,Hide and Seek,2,2,4,1,3,1,1,2,3,7mMlbJlXXo2mRtQ4R9sIzD,UgkxReRV3zEnaaqLnC9E3lodVi2eVKn2keyd,pop,tracks/UgkxReRV3zEnaaqLnC9E3lodVi2eVKn2keyd.mp3
-Hï¿½ndel,Lascia ch'io pianga,2,4,2,4,5,3,2,1,2,,UgkxYADFt-D1EmdXoVDO2KJ0fQlgTNRiB0J3,classic,tracks/UgkxYADFt-D1EmdXoVDO2KJ0fQlgTNRiB0J3.mp3
-Ashley Tisdale,Suddenly,4,4,4,5,5,2,3,1,4,6YD8kmD2SQw5uwQGFZ9W9n,,pop,tracks/6YD8kmD2SQw5uwQGFZ9W9n.mp3
-"Hamilton, Joe Frank & Reynolds",Don't Pull Your Love,2,2,3,5,4,4,2,2,1,7tJsTykoo4Jk5JguHTx9W7,,rock,tracks/7tJsTykoo4Jk5JguHTx9W7.mp3
-Bonobo,Nightlite,5,4,3,2,4,4,4,2,2,1gI1nC5E3ObyMtejdc8crP,,electronic,tracks/1gI1nC5E3ObyMtejdc8crP.mp3
-Kool & The Gang,Celebration,4,2,5,2,3,5,5,1,1,3K7Q9PHUWPTaknlbFPThn2,,funk_soul,tracks/3K7Q9PHUWPTaknlbFPThn2.mp3
-Brett Dennen,Closer To You,3,1,4,4,5,2,1,1,1,2NqSfApThFnUxlKaj4tnXB,UgkxZe58fNuASC2aCErF3xzGg5JqZFoV97YM,pop,tracks/UgkxZe58fNuASC2aCErF3xzGg5JqZFoV97YM.mp3
-Aretha Franklin,(You Make Me Feel Like) A Natural Woman,4,3,4,4,3,5,4,1,1,5K09WxKdlkroDyEVyOSySy,UgkxAxl_euy_NSiF65UEnOXUQ_rhHCK4doqc,pop,tracks/5K09WxKdlkroDyEVyOSySy.mp3
-D-12,Fight Music,1,2,1,1,1,5,5,4,1,3vBv2Tp0kHyBDUBZJr9GXQ,UgkxfSmvrq1hqByszPlR8lZYn7VfLMdBP7xj,hip_hop,tracks/UgkxfSmvrq1hqByszPlR8lZYn7VfLMdBP7xj.mp3
-Gary Jules,Mad World,4,2,5,2,4,1,1,1,5,3JOVTQ5h8HGFnDdp4VT3MP,UgkxtyssG62_onzp6HEPprFdOI9dOulolVnR,pop,tracks/3JOVTQ5h8HGFnDdp4VT3MP.mp3
-Paramore,The Only Exception,2,2,4,3,4,3,1,1,2,3ZHfX6kbiY7JVsB63lLOLu,UgkxnciX8ktBt6h1hcv0NlSR362q0NW7a92F,pop,tracks/UgkxnciX8ktBt6h1hcv0NlSR362q0NW7a92F.mp3
-Imagination,Music and Lights,4,3,5,5,3,5,4,1,1,3kEA66ZM9mCxwhynOxgsLh,,funk_soul,tracks/3kEA66ZM9mCxwhynOxgsLh.mp3
-Swing Out Sister,You On My Mind,1,2,2,2,3,4,2,2,1,4uYeKlfkLQMubZ9FhcbDfP,,jazz,tracks/4uYeKlfkLQMubZ9FhcbDfP.mp3
-Arctic Monkeys,Fluorescent Adolescent,5,2,3,2,3,5,4,1,1,2x8evxqUlF0eRabbW2JBJd,UgkxFpmf6nVY8mMY9E2qN1GPC8r7jZ7qaDVJ,pop,tracks/UgkxFpmf6nVY8mMY9E2qN1GPC8r7jZ7qaDVJ.mp3
-Marteria,Kids,1,2,1,1,2,5,2,3,1,6lxTIMeCLEkj48TlCRG3XX,UgkxkOCPBrbry70xR48trTHolY2-UZ16kstQ,hip_hop,tracks/UgkxkOCPBrbry70xR48trTHolY2-UZ16kstQ.mp3
-Enya,Only Time,4,5,5,4,5,3,3,1,3,6FLwmdmW77N1Pxb1aWsZmO,UgkxEUYgE850H2Vn3J6Mib6bW_dZNqnfvhCD,pop,tracks/UgkxEUYgE850H2Vn3J6Mib6bW_dZNqnfvhCD.mp3
-Verdi,Requiem (Dies Irae),3,5,1,1,1,4,5,5,1,,Ugkxna9k57bVYBGKF6_S-xrUOUyKFjnPclD-,classic,tracks/Ugkxna9k57bVYBGKF6_S-xrUOUyKFjnPclD-.mp3
-Why SL Know Plug,Rite Back,2,2,1,1,1,5,3,2,1,5c2LdL9xlXX0CyPry5UDIR,UgkxtqzDFHjQIkX5tSVrUyjyEoXFIbxKSV7b,hip_hop,tracks/UgkxtqzDFHjQIkX5tSVrUyjyEoXFIbxKSV7b.mp3
-Lord Finesse,Midas Era,3,3,2,1,4,5,2,3,1,6v0AYQ5YoF51yzGY0v0Dyg,,hip_hop,tracks/6v0AYQ5YoF51yzGY0v0Dyg.mp3
-The Pharcyde,Passin' Me By,3,1,1,2,2,5,3,4,1,4G3dZN9o3o2X4VKwt4CLts,,hip_hop,tracks/4G3dZN9o3o2X4VKwt4CLts.mp3
-No Spirit,Glowing Lights,1,2,3,3,5,1,1,1,1,3KunPHIvhxrUaHny2Z1J9w,,hip_hop,tracks/3KunPHIvhxrUaHny2Z1J9w.mp3
-Panic! at the Disco,Death of a Bachelor,2,1,2,4,3,2,1,2,1,1BECwm5qkaBwlbfo4kpYx8,,jazz,tracks/1BECwm5qkaBwlbfo4kpYx8.mp3
-Justin Bieber,Love Yourself,3,2,4,5,5,4,1,1,2,50kpGaPAhYJ3sGmk6vplg0,UgkxfJUeujTh66zSIpNMqkr_TTNR2NSL0Oiz,pop,tracks/UgkxfJUeujTh66zSIpNMqkr_TTNR2NSL0Oiz.mp3
-Grace Jones,Scary But Fun,1,1,2,1,2,2,3,3,3,6ulf6TKwgoeKjNM7GPHmII,,funk_soul,tracks/6ulf6TKwgoeKjNM7GPHmII.mp3
-Eric Clapton,Tears In Heaven,5,4,5,5,5,1,1,1,4,7utRJ4BeYx85khzP3lKoBX,UgkxxEFa8-Gy3pVOySexdjb0g18Q75s0Le1z,pop,tracks/UgkxxEFa8-Gy3pVOySexdjb0g18Q75s0Le1z.mp3
-Pinball,Come Into My Dream,3,2,2,2,2,5,4,3,1,2JPFEnjLROchH7qqoRy9Vl,,electronic,tracks/2JPFEnjLROchH7qqoRy9Vl.mp3
-Babybird,You're Gorgeous,2,1,2,1,4,4,1,1,1,5COBer69wpwkCPPaLr1gFb,,pop,tracks/5COBer69wpwkCPPaLr1gFb.mp3
-Laura Pausini,Jenny,3,3,3,5,4,2,2,1,3,51ulZ6HIucARLOODM8smpU,,pop,tracks/51ulZ6HIucARLOODM8smpU.mp3
-Demi Lovato,Without the Love,2,1,3,2,1,4,5,3,3,4YD5RuRjByJ6Sz0srp5Aii,,pop,tracks/4YD5RuRjByJ6Sz0srp5Aii.mp3
-Chet Baker,The Thrill Is Gone,5,4,5,5,5,1,1,1,5,0kKQreifydSOeqZzHkNW67,,jazz,tracks/0kKQreifydSOeqZzHkNW67.mp3
-Drake,Too Much,3,2,4,2,3,3,3,2,1,5LnXWeA9tuWKI2C1H74iiJ,UgkxwsSGKlnDB4tYHlE1dMUzGlV0JJVOL7ce,hip_hop,tracks/5LnXWeA9tuWKI2C1H74iiJ.mp3
-Boney M.,Rasputin,2,3,5,1,2,5,5,2,1,5jkFvD4UJrmdoezzT1FRoP,,funk_soul,tracks/5jkFvD4UJrmdoezzT1FRoP.mp3
+Unnamed: 0,artist,title,Wonder,Transcendence,Nostalgia,Tenderness,Peacefulness,Joy,Power,Tension,Sadness,Spotify ID,Youtube ID,genre,Path
+549,Five for fighting,Easy Tonight,2,3,5,4,4,4,2,2,1,57PHqrPsX6E7OX9LeKSo9Q,UgkxM7QItiIp2cz1B295WAqIJIkGqlE7qAyn,pop,tracks/UgkxM7QItiIp2cz1B295WAqIJIkGqlE7qAyn.mp3
+147,Nina Simone,That's All I Ask,4,3,5,5,4,2,3,1,5,5uI8omnLtzW4xTqJ5AoQtT,,jazz,tracks/5uI8omnLtzW4xTqJ5AoQtT.mp3
+480,Tracy Chapman,Fast Car,4,3,5,5,5,3,1,1,2,2M9ro2krNb7nr7HSprkEgo,UgkxFYKP3k8jH6kNkXl5mgSK7Ag_DrqVs8C4,pop,tracks/UgkxFYKP3k8jH6kNkXl5mgSK7Ag_DrqVs8C4.mp3
+428,Santigold,You'll Find A Way,5,3,2,1,2,5,5,4,1,1ZUj6t3goYbtWrCKFnwzIf,,electronic,tracks/1ZUj6t3goYbtWrCKFnwzIf.mp3
+245,Eminem,Shake That,2,1,2,1,2,5,2,2,1,0fGh0trRN1xz3s41r7V5ce,WrjwGPb0Hvw?start=167,hip_hop,tracks/0fGh0trRN1xz3s41r7V5ce.mp3
+601,The Moody Blues,Melancholy Man,3,4,3,2,3,4,5,3,2,1NeQzAqahRYI09bgLbhVFN,,rock,tracks/1NeQzAqahRYI09bgLbhVFN.mp3
+600,Infected Mushroom,Here We Go Go Go,3,4,2,1,1,5,5,3,1,5wTudWQXd6Sjy6nH22fsYv,,electronic,tracks/5wTudWQXd6Sjy6nH22fsYv.mp3
+608,Fall Out Boy,Get Busy Living or Get Busy Dying (Do Your Part to Save the Scene and Stop Going to Shows),2,3,1,2,1,5,5,3,1,4903HFfvLIQ8ujvQ0ARNGI,,rock,tracks/4903HFfvLIQ8ujvQ0ARNGI.mp3
+632,Girls Aloud,I'll Stand by You,5,5,5,5,5,4,5,2,4,5AEAf1PGC0B6Z1iVE1j8oY,,pop,tracks/5AEAf1PGC0B6Z1iVE1j8oY.mp3
+382,Beethoven,Sinfonie Nr. 7,2,3,5,3,5,1,2,1,2,,UgkxVWL1RdWZqv5Co5Obf6nvZUrtWrunrGeJ,classic,tracks/UgkxVWL1RdWZqv5Co5Obf6nvZUrtWrunrGeJ.mp3
+667,Imogen Heap,Loose Ends,1,1,2,3,1,5,3,3,2,48Z9C1l1LfgpPxuQpfW2n6,,electronic,tracks/48Z9C1l1LfgpPxuQpfW2n6.mp3
+318,Karma Fields,Build The Cities (feat. Kerli),1,2,1,1,1,4,5,4,1,50fO3coGeBVITFxiYlHSDs,,electronic,tracks/50fO3coGeBVITFxiYlHSDs.mp3
+173,Salt-N-Pepa,Shoop,3,2,2,1,2,5,5,1,1,0Pu71wxadDlB8fJXfjIjeJ,UgkxI8XA0Ss2SLFsfghG7NqcNGfMsRxxpZYv,hip_hop,tracks/UgkxI8XA0Ss2SLFsfghG7NqcNGfMsRxxpZYv.mp3
+641,Gnarls Barkley,Just a Thought,3,2,3,2,2,2,3,5,5,5xNUIReo5O6W1LRp2OKJty,,funk_soul,tracks/5xNUIReo5O6W1LRp2OKJty.mp3
+121,Neurosis,Fear and Sickness,2,2,1,1,1,1,5,5,1,2sXYiWVdddj45DruzNKJGC,,rock,tracks/2sXYiWVdddj45DruzNKJGC.mp3
+659,Madonna,He's a Man,1,1,2,2,2,2,3,2,2,4714JHYV5kiMKsuo8eP41E,,jazz,tracks/4714JHYV5kiMKsuo8eP41E.mp3
+746,Jamie Woon,Shoulda,2,2,3,5,5,2,1,2,3,6I39hUKfIBsPBLX42jE3Dk,,electronic,tracks/6I39hUKfIBsPBLX42jE3Dk.mp3
+49,The Whispers,And the Beat Goes On,4,2,4,3,4,5,4,2,1,7oQ1wkBmYSBEC2x7U08dvn,,funk_soul,tracks/7oQ1wkBmYSBEC2x7U08dvn.mp3
+31,Sarah Vaughan,Misty,2,1,4,2,4,5,2,2,1,7gHFBNy0Qn86xGKJ9OdFTw,,jazz,tracks/7gHFBNy0Qn86xGKJ9OdFTw.mp3
+364,Rachmaninow,"3. Klavierkonzert, 3. Satz",3,3,2,1,1,4,4,5,1,,UgkxtUia2ykcbGRBiNUvQhYOLsnIvm9IlsWW,classic,tracks/UgkxtUia2ykcbGRBiNUvQhYOLsnIvm9IlsWW.mp3
+753,Savage Garden,Hold Me,2,1,4,3,2,3,3,1,1,5z7UgjxvvKBTf3qZMDvddZ,,pop,tracks/5z7UgjxvvKBTf3qZMDvddZ.mp3
+408,Sly & The Family Stone,(You Caught Me) Smilin',1,1,3,2,3,4,3,2,2,5XTiyBLVLjqhAGRcJBUC5F,,funk_soul,tracks/5XTiyBLVLjqhAGRcJBUC5F.mp3
+273,Dj Shadow,Building Steam With A Grain of Salt,2,2,1,1,2,3,2,5,1,4cucslsiEgezV2o900Ykg3,,hip_hop,tracks/4cucslsiEgezV2o900Ykg3.mp3
+628,Eliane Elias,Time Alone,2,2,4,5,5,1,1,1,3,1hYd1uyB9HQpf4icjtBQoB,,jazz,tracks/1hYd1uyB9HQpf4icjtBQoB.mp3
+277,Philanthrope,pueblo,2,3,4,3,5,2,1,1,1,3oYUtjjvbSxN40CQ71ZvTd,,hip_hop,tracks/3oYUtjjvbSxN40CQ71ZvTd.mp3
+299,Air Supply,The One That You Love,3,3,4,5,3,3,2,1,4,3FDAd5vW4P7xe1GBNOLyfD,,rock,tracks/3FDAd5vW4P7xe1GBNOLyfD.mp3
+698,Sia,Don't Bring Me Down,3,3,3,3,3,2,2,2,5,4XSBnZBRdrIQzbIvmysvuC,,electronic,tracks/4XSBnZBRdrIQzbIvmysvuC.mp3
+116,Morcheeba,Rome Wasn't Built in a Day,4,3,5,5,5,4,3,2,2,6lsumzVFKP9SnfKcuGwqVp,,pop,tracks/6lsumzVFKP9SnfKcuGwqVp.mp3
+639,"Earth, Wind & Fire",Let's Groove,5,4,5,5,4,5,5,2,1,3koCCeSaVUyrRo3N2gHrd8,,funk_soul,tracks/3koCCeSaVUyrRo3N2gHrd8.mp3
+95,The Format,I'm Actual,3,3,5,4,2,3,4,2,3,2eHZ6UoAycNv99qKz4PVPg,,pop,tracks/2eHZ6UoAycNv99qKz4PVPg.mp3
+373,Ravel,Bolï¿½ro,2,3,2,2,3,3,4,2,1,,UgkxIHGrjKJm-19dI7CqzycTYSj-Yi11Ex34,classic,tracks/UgkxIHGrjKJm-19dI7CqzycTYSj-Yi11Ex34.mp3
+582,The Beatles,Let It Be,5,4,5,5,5,4,2,1,2,7iN1s7xHE4ifF5povM6A48,UgkxeQzl6iTLYXcapbCRDdFnu72hh36c4zrh,pop,tracks/7iN1s7xHE4ifF5povM6A48.mp3
+677,Mayday Parade,Even Robots Need Blankets,3,3,5,5,3,4,3,1,2,1NivdSEUqwvnC6MzO8VZiG,,rock,tracks/1NivdSEUqwvnC6MzO8VZiG.mp3
+555,Bon Jovi,Livin On A Prayer,4,2,4,1,2,5,5,2,1,37ZJ0p5Jm13JPevGcx4SkF,Ugkx1Hg6Vaur-0wpdBAYuTD9Axnx8hIk9Txb,pop,tracks/Ugkx1Hg6Vaur-0wpdBAYuTD9Axnx8hIk9Txb.mp3
+703,Lykke Li,I Follow Rivers,3,3,2,4,5,5,4,2,2,4Jv7lweGIUOFQ7Oq2AtAh9,,pop,tracks/4Jv7lweGIUOFQ7Oq2AtAh9.mp3
+62,Deee-Lite,Apple Juice Kissing,2,1,2,4,2,2,2,2,1,7fh5bhI5rzRBcSX9IKFNir,,electronic,tracks/7fh5bhI5rzRBcSX9IKFNir.mp3
+518,Jeff Buckley,Hallelujah,5,5,5,5,5,2,1,1,4,3pRaLNL3b8x5uBOcsgvdqM,Ugkx3Nc814TcxO-G_AXns5Xue2NuEcobit8S,pop,tracks/Ugkx3Nc814TcxO-G_AXns5Xue2NuEcobit8S.mp3
+527,OutKast,Roses,3,1,2,1,3,5,3,2,1,6bUNEbXT7HovLW6BgPCBsb,Ugkxi_bJRX4Fid-vQZze8VEWJCL281moKEan,pop,tracks/Ugkxi_bJRX4Fid-vQZze8VEWJCL281moKEan.mp3
+486,Carlos Santana,Smooth,3,1,2,2,2,5,4,2,1,0n2SEXB2qoRQg171q7XqeW,Ugkxa9WPgW3Wr2q5p7RbL6ZNiDjGkWWpCEFk,pop,tracks/Ugkxa9WPgW3Wr2q5p7RbL6ZNiDjGkWWpCEFk.mp3
+494,Black Eyed Peas,Just Can't Get Enough,2,2,3,2,3,4,2,1,1,3JA9Jsuxr4xgHXEawAdCp4,UgkxuQwwZ90ruj0orcBQAjAnFL3mkurIBlLs,pop,tracks/UgkxuQwwZ90ruj0orcBQAjAnFL3mkurIBlLs.mp3
+721,Tok Tok Tok,Walk on the Wild Side,5,4,5,4,5,5,4,2,1,78G0LEqrs8HmEwhb75nYXQ,,jazz,tracks/78G0LEqrs8HmEwhb75nYXQ.mp3
+350,Brahms,"Sonate Nr. 2 fï¿½r Klarinette, 1. Satz",3,4,5,5,5,3,1,1,1,,Ugkxm14v7zN8tkTO9rb9PQWL08fFY_zEkLRy,classic,tracks/Ugkxm14v7zN8tkTO9rb9PQWL08fFY_zEkLRy.mp3
+622,Karrin Allyson,Moanin',4,3,4,3,5,5,2,2,1,2FcKhzTwtj5wKdri7bXBMK,,jazz,tracks/2FcKhzTwtj5wKdri7bXBMK.mp3
+29,John Farnham,Age of Reason,3,2,3,2,3,4,3,2,1,3LQde40NABYOH14hWse0Yi,,rock,tracks/3LQde40NABYOH14hWse0Yi.mp3
+54,Al Green,Let's Stay Together,4,4,5,5,5,5,3,1,1,63xdwScd1Ai1GigAwQxE8y,,funk_soul,tracks/63xdwScd1Ai1GigAwQxE8y.mp3
+311,Sarah McLachlan,Elsewhere,3,2,5,5,5,1,1,1,5,1hBi66N1p1QyvFTHjnH2jv,,rock,tracks/1hBi66N1p1QyvFTHjnH2jv.mp3
+404,Chris de Burgh,The Lady in Red,5,4,5,5,5,2,2,1,5,1GeNWyZtCHbcp3ZWp8GTOO,,rock,tracks/1GeNWyZtCHbcp3ZWp8GTOO.mp3
+146,Phil Collins,Against All Odds (Take a Look at Me Now),5,3,5,5,5,3,3,1,3,63CHa6rmamv9OsehkRD8oz,,rock,tracks/63CHa6rmamv9OsehkRD8oz.mp3
+442,OutKast,Hey Ya!,2,1,5,1,2,5,5,1,1,2PpruBYCo4H7WOBJ7Q2EwM,,funk_soul,tracks/2PpruBYCo4H7WOBJ7Q2EwM.mp3
+525,Steely Dan,Do It Again,3,1,3,2,3,5,3,1,1,2BstRQGodshjGpeDGQiNgo,Ugkx3zDuvKgpZ8dufXa5tiAnYFUgRm-hcxQw,pop,tracks/Ugkx3zDuvKgpZ8dufXa5tiAnYFUgRm-hcxQw.mp3
+669,Burial,Broken Home,1,2,2,1,2,1,2,5,1,69P4h7GB5xQlIU6v1Qv7GN,,electronic,tracks/69P4h7GB5xQlIU6v1Qv7GN.mp3
+368,Vivaldi,Die 4 Jahreszeiten (Frï¿½hling),3,3,4,1,3,4,4,2,1,,UgkxYglz416a9J3po5WfsLRcI_YPLpPtQsdb,classic,tracks/UgkxYglz416a9J3po5WfsLRcI_YPLpPtQsdb.mp3
+165,Duke Ellington,Sophisticated Lady,3,3,5,5,5,3,2,2,2,2ua1p76h5Yy2u3dVZ9Qb0l,,jazz,tracks/2ua1p76h5Yy2u3dVZ9Qb0l.mp3
+80,MFSB,T.S.O.P. (The Sound Of Philadelphia),3,3,4,2,2,5,5,2,1,7kllQQPam6HumbUCIPSvHJ,,funk_soul,tracks/7kllQQPam6HumbUCIPSvHJ.mp3
+414,Lily Allen,Smile,3,2,5,3,5,5,2,1,2,4aR9bPMAOFySBuQSbVWF3d,,pop,tracks/4aR9bPMAOFySBuQSbVWF3d.mp3
+259,Dr. Dre,Nuthin' But A G thang,3,1,2,1,3,5,4,2,1,4YtoipFgf4k0AfD17ZfD5X,,hip_hop,tracks/4YtoipFgf4k0AfD17ZfD5X.mp3
+9,Warning,Echoes,2,3,2,1,1,2,5,3,2,3GU59OzCMZvscGqSG4Lg0y,,rock,tracks/3GU59OzCMZvscGqSG4Lg0y.mp3
+521,Taylor Swift,Look What You Made Me Do,2,2,1,2,1,5,5,3,1,1P17dC1amhFzptugyAO7Il,UgkxhNIkx010o6POamLFkc2AvaoO7G626kbK,pop,tracks/UgkxhNIkx010o6POamLFkc2AvaoO7G626kbK.mp3
+358,Beethoven,Sinfonie Nr. 9,4,3,4,3,5,2,1,1,1,,UgkxvVpIoaNTe9zVvrjJp3fYNI_-qohSQHrz,classic,tracks/UgkxvVpIoaNTe9zVvrjJp3fYNI_-qohSQHrz.mp3
+603,Maria Bethï¿½nia,Olhos Nos Olhos,4,2,3,5,5,2,2,1,4,1UBJvypv5W1GNoplpc2EYl,,jazz,tracks/1UBJvypv5W1GNoplpc2EYl.mp3
+179,Gucci Mane,Tone It Down,2,2,1,2,3,5,4,4,1,0iTCmKvuU1ReULiQB0rI7n,Ugkxf33sURscVNsNOPhtXYIqdKQs0QgGv_hU,hip_hop,tracks/Ugkxf33sURscVNsNOPhtXYIqdKQs0QgGv_hU.mp3
+481,Leslie Clio,I Couldnt Care Less,3,1,1,2,4,5,3,2,1,7kX5DiuPwRlYwPAHoOHFOg,UgkxGMWXLNbHAOlKnOYIo79nGA58qYbtqoDD,pop,tracks/UgkxGMWXLNbHAOlKnOYIo79nGA58qYbtqoDD.mp3
+530,Hey Judeschka!,ImmerwiederSommertag,3,2,3,4,5,2,1,1,2,0Us9gRoh9xyD6aPSo1SBIR,UgkxWLVqzZ11njLTSueB2OPYpS2MgTWdFEDZ,pop,tracks/0Us9gRoh9xyD6aPSo1SBIR.mp3
+293,Kylie Minogue,Skirt,2,2,2,2,1,5,5,4,1,4HS4veWZYPzHvEmVxrVEoy,,electronic,tracks/4HS4veWZYPzHvEmVxrVEoy.mp3
+363,Vivaldi,L'Estro Armonico (Concerto No. 9),4,5,4,3,5,5,2,2,1,,UgkxNHh8ncrNUahwZ7U7s7JrSXY1o46PTT90,classic,tracks/UgkxNHh8ncrNUahwZ7U7s7JrSXY1o46PTT90.mp3
+5,Ace of Base,Lucky Love,4,3,5,2,3,5,5,2,1,2O5MugeVVDlVs4ThMCy1Lm,,pop,tracks/2O5MugeVVDlVs4ThMCy1Lm.mp3
+197,Eminem,Rap God,5,4,2,2,2,5,5,4,1,6or1bKJiZ06IlK0vFvY75k,UgkxrDhQWgXdqNyuTc7tw5ecNLbYAppxo_jj,hip_hop,tracks/UgkxrDhQWgXdqNyuTc7tw5ecNLbYAppxo_jj.mp3
+604,Daft Punk,Give Life Back to Music,2,1,2,1,3,5,4,1,1,0dEIca2nhcxDUV8C5QkPYb,,funk_soul,tracks/0dEIca2nhcxDUV8C5QkPYb.mp3
+602,Britney Spears,"I'm Not a Girl, Not Yet a Woman",5,5,5,5,4,5,5,2,3,1xg1yGPy1Y3YUf44s6TB1o,,pop,tracks/1xg1yGPy1Y3YUf44s6TB1o.mp3
+463,Brett Dennen,She's Mine,3,2,3,5,5,4,1,2,1,5MnmTKjatNTY3BJ2DURVjE,UgkxGwAT62Ys-ElYvHeVhfu4CnuzlwX2YIta,pop,tracks/UgkxGwAT62Ys-ElYvHeVhfu4CnuzlwX2YIta.mp3
+261,Die Orsons,Ventilator,2,1,1,1,1,4,1,3,1,5j9djud18VQob3Ec3FUoy0,UgkxGRvWV0EKHd0SfJ1IW6htTS0h35VmxMga,hip_hop,tracks/UgkxGRvWV0EKHd0SfJ1IW6htTS0h35VmxMga.mp3
+339,Albinoni,"Concerto a cinque No. 2, Op. 9",4,4,4,4,5,4,4,1,1,0Ouz5wpLFbtXjAdxLRydQq,Ugkx7QaRr74MIB_wCxjYWqJA7eGohu68O2Gq,classic,tracks/Ugkx7QaRr74MIB_wCxjYWqJA7eGohu68O2Gq.mp3
+452,Ed Sheeran,Happier,4,2,5,4,4,1,1,2,5,2RttW7RAu5nOAfq6YFvApB,,rock,tracks/2RttW7RAu5nOAfq6YFvApB.mp3
+614,Beverley Knight,Hurricane Jane,4,3,5,5,5,4,4,1,1,4zcSLDrG6E0GkysBuh2fD3,,funk_soul,tracks/4zcSLDrG6E0GkysBuh2fD3.mp3
+38,Donna Summer,Winter Melody,4,4,5,5,5,5,4,1,2,1zHOjqf8DqjNq6OB7Y5mrF,,funk_soul,tracks/1zHOjqf8DqjNq6OB7Y5mrF.mp3
+657,Knife Party,Centipede,2,2,2,1,1,4,4,5,1,0u2AIKDVafHwCFQ9LDnqxH,,electronic,tracks/0u2AIKDVafHwCFQ9LDnqxH.mp3
+445,B.J. Thomas,Rock And Roll Lullaby,2,2,5,4,5,3,1,1,2,3aVNV6pawEERvfdurW66ZT,,rock,tracks/3aVNV6pawEERvfdurW66ZT.mp3
+584,Lola Marsh,Wishing Girl,3,3,2,2,4,3,1,2,1,2iawlVRHk4Q9aPg0OgG20D,UgkxryzdwbzDKWLWBfxb50LhzI49iot0WfJg,pop,tracks/UgkxryzdwbzDKWLWBfxb50LhzI49iot0WfJg.mp3
+162,Passion Pit,Sleepyhead,2,2,2,1,2,5,3,3,1,4prEPl61C8qZpeo3IkYSMl,,electronic,tracks/4prEPl61C8qZpeo3IkYSMl.mp3
+67,Itamar Assumpï¿½ï¿½o,Beijo na Boca,3,1,2,2,4,5,3,1,1,034M638G8hvIQ5WfSxJ9gS,,funk_soul,tracks/034M638G8hvIQ5WfSxJ9gS.mp3
+124,Michael Learns to Rock,Paint My Love,3,2,5,5,5,3,1,1,3,523iOSL6R2OomhVMGcfxdy,,pop,tracks/523iOSL6R2OomhVMGcfxdy.mp3
+39,Tonight Alive,Let It Land,2,4,5,1,2,5,5,3,2,3aKPJyIFrJAPTPWs2yy0IX,,rock,tracks/3aKPJyIFrJAPTPWs2yy0IX.mp3
+4,Kylie Minogue,Please Stay (7th District Radio Mix),2,2,2,1,2,5,5,3,1,5MqHbBqicUU0wyXwk7TJR7,,pop,tracks/5MqHbBqicUU0wyXwk7TJR7.mp3
+33,October Tide,Blackness Devours,3,4,1,1,1,2,5,5,3,5KjDr2aEWTdOxdOs4gcuac,,rock,tracks/5KjDr2aEWTdOxdOs4gcuac.mp3
+605,Boys Like Girls,Leaving California,4,3,4,5,5,2,2,1,5,0Vm3wrODAsNdUvCcy15aZT,,rock,tracks/0Vm3wrODAsNdUvCcy15aZT.mp3
+280,Tom Doolie,Blue Book,2,2,5,4,5,2,1,2,1,3E4LT4SvrEhGKIzyAeezEa,,hip_hop,tracks/3E4LT4SvrEhGKIzyAeezEa.mp3
+533,Chain Smokers,Paris,4,1,5,4,4,4,2,1,1,15vzANxN8G9wWfwAJLLMCg,UgkxVjM_EF_78oGI1czS-hLHl4C7_Y9IRM80,pop,tracks/UgkxVjM_EF_78oGI1czS-hLHl4C7_Y9IRM80.mp3
+99,Lana Del Rey,Born to Die,3,2,5,4,4,1,2,2,5,487OPlneJNni3NWC8SYqhW,,pop,tracks/487OPlneJNni3NWC8SYqhW.mp3
+718,Bjï¿½rk,Enjoy,4,3,3,2,1,2,5,5,2,6JQVN9gi04NCK1tiz0aQA1,,electronic,tracks/6JQVN9gi04NCK1tiz0aQA1.mp3
+579,Bag Raiders,Shooting Stars,5,2,4,2,4,5,3,2,1,0UeYCHOETPfai02uskjJ3x,UgkxAR8m_aazONenJf1M02Bo3_Zb65m0lLtH,pop,tracks/UgkxAR8m_aazONenJf1M02Bo3_Zb65m0lLtH.mp3
+236,A$AP Rocky,Fashion Killa,1,2,2,2,2,3,2,3,1,0O3TAouZE4vL9dM5SyxgvH,Ugkxu0uQao7t41a26OSEZ7X5EmP5WVH8UbUs,hip_hop,tracks/Ugkxu0uQao7t41a26OSEZ7X5EmP5WVH8UbUs.mp3
+385,Mariah Carey,Want You,2,2,3,3,4,3,4,2,2,0bYg9bo50gSsH3LtXe2SQn,,funk_soul,tracks/0bYg9bo50gSsH3LtXe2SQn.mp3
+433,Katy B,Katy on a Mission,2,2,1,1,1,2,4,2,1,47uhrF6IvyE2eUyyfLAEzf,,electronic,tracks/47uhrF6IvyE2eUyyfLAEzf.mp3
+345,Grieg,Norwegische Tï¿½nze,4,5,1,1,2,5,5,5,1,,Ugkxcc9YKG2q1GfRf8iIrnDt57MeAktVbXQ4,classic,tracks/Ugkxcc9YKG2q1GfRf8iIrnDt57MeAktVbXQ4.mp3
+355,Verdi,der Troubadour,3,3,1,2,3,5,4,2,1,,UgkxKBHZ5fuExQ4dwhTRRQtwxOKePzXeczYe,classic,tracks/UgkxKBHZ5fuExQ4dwhTRRQtwxOKePzXeczYe.mp3
+459,Neil Diamind,Sweet Caroline,5,4,4,3,1,5,3,1,1,62AuGbAkt8Ox2IrFFb8GKV,UgkxjzSMRMlrs2X84JF4whcxtQHzyLmCcxVw,pop,tracks/UgkxjzSMRMlrs2X84JF4whcxtQHzyLmCcxVw.mp3
+415,Christina Aguilera,I Got Trouble,2,2,4,4,5,4,4,2,1,6eRY1OgTVUeqtyEviApFaw,,jazz,tracks/6eRY1OgTVUeqtyEviApFaw.mp3
+507,Gotye,Somebody That I Used To Know,4,3,5,3,4,5,2,1,3,6md4w95cnKaW64JyEQ3A0L,UgkxsFY5Is4EMbq6uLHMb3uhqEaJ4CP6_bkH,pop,tracks/UgkxsFY5Is4EMbq6uLHMb3uhqEaJ4CP6_bkH.mp3
+186,Killer Mike,A.D.I.D.A.S.,3,1,1,1,3,5,2,2,1,3ghaPXI1bdNDeYpfCEv1Gw,UgkxiSdeQAHTlSYSQp1Dzp5rOMLKzJAF_m_3,hip_hop,tracks/UgkxiSdeQAHTlSYSQp1Dzp5rOMLKzJAF_m_3.mp3
+467,Keane,Everybodys Changing,4,3,5,2,5,5,2,1,2,0yac0FPhLRH9i9lOng3f81,UgkxfFTfgRA8-ahZmKesCxkX_XPNf-1VVkZT,pop,tracks/UgkxfFTfgRA8-ahZmKesCxkX_XPNf-1VVkZT.mp3
+524,Luis Fonsi,Despacito,4,2,3,4,1,5,4,2,1,6habFhsOp2NvshLv26DqMb,Ugkx3aqdcQliJn9s6shIu043MT1wM_GcAsyy,pop,tracks/Ugkx3aqdcQliJn9s6shIu043MT1wM_GcAsyy.mp3
+693,Chico Buarque,Tatuagem,2,1,2,3,5,1,1,1,2,2eNz0RVTnVhleCBrZETeDG,,jazz,tracks/2eNz0RVTnVhleCBrZETeDG.mp3
+260,Soul Position,Priceless,2,1,1,1,3,5,1,2,1,7I4ozG1g4D5H7FvKkMe27n,UgkxYUpu9BAz8-d7_Q0IPPLGibsj2-B7BOm8,hip_hop,tracks/UgkxYUpu9BAz8-d7_Q0IPPLGibsj2-B7BOm8.mp3
+509,Theo Katzman,Hard Work,5,2,2,1,4,5,4,2,1,3gaQbhacVKwcsatM0FlSa9,UgkxyJdSony6HQWT6pYQpQ9dGRDLBtYb_ecO,pop,tracks/UgkxyJdSony6HQWT6pYQpQ9dGRDLBtYb_ecO.mp3
+333,Debussy,Prï¿½lude ï¿½ l'aprï¿½s-midi d'un faune,5,4,5,3,5,3,1,2,2,,Ugkxw_ODJk-gald0IEzFtiGG9KHY9Ch9TmIg,classic,tracks/Ugkxw_ODJk-gald0IEzFtiGG9KHY9Ch9TmIg.mp3
+153,Ella Fitzgerald,The Nearness Of You,4,3,5,5,5,3,2,1,2,39CdOo5GPGSIdxWDvyyWkr,,jazz,tracks/39CdOo5GPGSIdxWDvyyWkr.mp3
+528,Mac Demarco,Salad Days,2,2,2,3,5,2,1,2,2,5VdaMUzoQetwxQwtWAd022,UgkxEzsxY4JhCdP_WCCAMgxR5_3sXfrhvJ6r,pop,tracks/UgkxEzsxY4JhCdP_WCCAMgxR5_3sXfrhvJ6r.mp3
+304,Stevie Wonder,I Just Called to Say I Love You,4,2,5,5,5,5,2,1,2,6RNDeRnWsRMjPdNVgupZCs,,funk_soul,tracks/6RNDeRnWsRMjPdNVgupZCs.mp3
+200,Travis Scott,Antidote,2,2,2,1,2,5,4,3,1,1wHZx0LgzFHyeIZkUydNXq,UgkxH_KgkMKJXtZ87XO7APEaNnSMxNi5L-3n,hip_hop,tracks/UgkxH_KgkMKJXtZ87XO7APEaNnSMxNi5L-3n.mp3
+729,Toto,Hold the Line,3,4,3,1,1,5,5,3,1,4aVuWgvD0X63hcOCnZtNFA,,rock,tracks/4aVuWgvD0X63hcOCnZtNFA.mp3
+78,Michael Jackson,Love Never Felt So Good,3,3,3,4,1,5,5,1,1,48td6xvpokdYwvbl3JIiXP,,funk_soul,tracks/48td6xvpokdYwvbl3JIiXP.mp3
+312,Lakeside,Fantastic Voyage,3,2,3,1,2,5,4,2,1,0rc9Uwm4vmnQEfx5omLWWF,,funk_soul,tracks/0rc9Uwm4vmnQEfx5omLWWF.mp3
+692,C.C. Catch,Strangers By Night,4,3,5,4,2,5,4,2,3,2fkWRtyjRGehSPjfWPxSjC,,pop,tracks/2fkWRtyjRGehSPjfWPxSjC.mp3
+560,Rihanna,Work,2,1,1,2,2,5,3,2,1,72TFWvU3wUYdUuxejTTIzt,Ugkx-Gw9o8IZlUypDB7WXEGl557bAxwpnJDF,pop,tracks/Ugkx-Gw9o8IZlUypDB7WXEGl557bAxwpnJDF.mp3
+42,Leona Lewis,Bleeding Love,3,2,5,5,4,4,5,1,3,7wZUrN8oemZfsEd1CGkbXE,,pop,tracks/7wZUrN8oemZfsEd1CGkbXE.mp3
+133,Above & Beyond,Alchemy,3,5,1,2,3,3,4,2,2,0Xm3H8qUhiUALrZYJyf61f,,electronic,tracks/0Xm3H8qUhiUALrZYJyf61f.mp3
+426,Ben E. King,Stand By Me,5,5,5,5,5,5,3,1,5,3SdTKo2uVsxFblQjpScoHy,,funk_soul,tracks/3SdTKo2uVsxFblQjpScoHy.mp3
+587,Oasis,Don't Look Back In Anger,3,2,5,4,4,4,1,2,2,7ppPZa3TRUSGKaks9wH7VT,UgkxGLHNNhV7rad3bX2cNrSRHsnwCODOvyfH,pop,tracks/UgkxGLHNNhV7rad3bX2cNrSRHsnwCODOvyfH.mp3
+624,Paul Davis,Cool Night,4,3,5,5,5,3,3,1,2,29KyVqHekckVGfxHn8QS7m,,rock,tracks/29KyVqHekckVGfxHn8QS7m.mp3
+250,Nicki Minaj,Moment 4 Life,2,4,1,1,1,5,5,2,1,1ia019RqDK2o4QiANR1Dyn,UgkxhOH25PgSEUkU5mNTRLHHQ-V3kL7OKMyU,hip_hop,tracks/UgkxhOH25PgSEUkU5mNTRLHHQ-V3kL7OKMyU.mp3
+661,Cheryl Lynn,Got To Be Real,3,2,4,2,2,5,4,3,1,58r4JuwHhXLAkttkaUZfLw,,funk_soul,tracks/58r4JuwHhXLAkttkaUZfLw.mp3
+539,Namika,Lieblingsmensch,4,2,3,3,4,5,2,1,1,6oHDvarQSp0mf5AD1SyNH0,UgkxqVu8pqoC_JLiPG0UHV9Ch31JWCxVjNSp,pop,tracks/UgkxqVu8pqoC_JLiPG0UHV9Ch31JWCxVjNSp.mp3
+361,Rachmaninow,Paganini Variations No. 18,5,2,5,4,5,4,1,1,1,,Ugkx-9RvVXKd6gOUhxagD894QCLuSQ29m1fU,classic,tracks/Ugkx-9RvVXKd6gOUhxagD894QCLuSQ29m1fU.mp3
+192,BBou,Kanona,2,1,1,2,1,2,2,3,1,,Ugkx_GQpNV2nvUVSHHAdncjVQHIqQ_7MUNwf,hip_hop,tracks/Ugkx_GQpNV2nvUVSHHAdncjVQHIqQ_7MUNwf.mp3
+220,N.E.R.D,Lemon,2,1,1,1,1,4,4,3,1,2LKlHBPHxLG5ArAXfF148n,UgkxZ_b33llhim3tA6TNrlUfEUDUNHizlvHW,hip_hop,tracks/UgkxZ_b33llhim3tA6TNrlUfEUDUNHizlvHW.mp3
+432,Chris Rea,Fool (If You Think It's Over),2,2,5,4,5,5,1,1,2,0UHiH4dy1hXULYl8CgNxRV,,rock,tracks/0UHiH4dy1hXULYl8CgNxRV.mp3
+670,Doris Day,Dream a Little Dream of Me,4,2,5,5,5,2,1,1,3,2HyPrPSANTIPkR6CfiytwY,,jazz,tracks/2HyPrPSANTIPkR6CfiytwY.mp3
+575,Lianne La Havas,What You Don't Do,3,2,1,3,2,5,3,2,1,4mityPmJpqtHea3y9qZLg6,UgkxddAnp6m4kzA6iMpgHBC-9slf5WbZaUXQ,pop,tracks/4mityPmJpqtHea3y9qZLg6.mp3
+473,Elton John,Don't Go Breaking My Heart,5,3,4,2,5,5,5,1,1,7HW5WIw7ZgZORCzUxv5gW5,UgkxZiqeddPuUzbbBI1OrBqMZdSXJJ9vcqrD,pop,tracks/UgkxZiqeddPuUzbbBI1OrBqMZdSXJJ9vcqrD.mp3
+522,Ellie Goulding,Burn,3,3,2,2,2,5,4,1,1,2GgxS8bUT5G25QJTsfSv0R,UgkxmuHMNHsXBXefloeDyAVJIFh_i5O8Qdxs,pop,tracks/UgkxmuHMNHsXBXefloeDyAVJIFh_i5O8Qdxs.mp3
+157,Perlla,No Meu Comando,2,2,1,2,1,4,3,2,1,4A1xnjGKCJWxa6VnUHKdvl,,funk_soul,tracks/4A1xnjGKCJWxa6VnUHKdvl.mp3
+550,Avril Lavigne,Complicated,2,3,5,2,3,5,4,1,2,5xEM5hIgJ1jjgcEBfpkt2F,UgkxuBVPqF9HZrtcJEF8rMIYYpIpE-L4pVku,pop,tracks/UgkxuBVPqF9HZrtcJEF8rMIYYpIpE-L4pVku.mp3
+272,Dexter,Everyday Like This,2,1,1,2,2,4,2,3,1,1IjtbDa43lCjIbClrprdrP,,hip_hop,tracks/1IjtbDa43lCjIbClrprdrP.mp3
+735,Chaka Khan,Tearin' It Up,4,3,4,2,2,5,5,2,1,7Hag038sye6QGKPZoJpXwU,,funk_soul,tracks/7Hag038sye6QGKPZoJpXwU.mp3
+647,ABBA,Lay All Your Love on Me,3,5,5,5,2,5,5,3,3,2245x0g1ft0HC7sf79zbYN,,pop,tracks/2245x0g1ft0HC7sf79zbYN.mp3
+306,Solitude Aeturnus,Seeds of the Desolate,1,2,2,1,1,1,3,5,1,7emF3lKU8NmkrlmDXUTYER,,rock,tracks/7emF3lKU8NmkrlmDXUTYER.mp3
+577,Akon,Lonely,4,1,5,3,3,4,1,1,3,4v7DCN09hgXkKazefkznDQ,Ugkx5Nbr6OxWbldg37V8L7Gmto0Ncrnq_rbv,pop,tracks/Ugkx5Nbr6OxWbldg37V8L7Gmto0Ncrnq_rbv.mp3
+102,Michael Bublï¿½,Feeling Good,2,2,5,3,4,2,2,2,1,3I09LQbHS3NSU46Ly3tPpR,,jazz,tracks/3I09LQbHS3NSU46Ly3tPpR.mp3
+52,Portishead,Glory Box,4,3,5,5,4,3,2,1,2,3Ty7OTBNSigGEpeW2PqcsC,,electronic,tracks/3Ty7OTBNSigGEpeW2PqcsC.mp3
+156,Good Charlotte,March On,3,2,2,2,4,2,1,1,4,5aj1QFI3B492gzMXgioTqe,,rock,tracks/5aj1QFI3B492gzMXgioTqe.mp3
+687,Nat King Cole,Orange Colored Sky,5,2,5,5,3,5,5,2,1,6fUDNcmsnnUVyOtEnA9xdC,,jazz,tracks/6fUDNcmsnnUVyOtEnA9xdC.mp3
+422,M2M,Don't Say You Love Me,2,2,4,4,3,5,1,1,1,65i1UPsUtPlEVzewEZR6sY,,pop,tracks/65i1UPsUtPlEVzewEZR6sY.mp3
+97,Ashlee Simpson,Beautifully Broken,3,2,3,3,2,4,3,1,3,0Z5TwodaWvDGq43AVdnKzn,,pop,tracks/0Z5TwodaWvDGq43AVdnKzn.mp3
+637,Bruno Mars,Treasure,4,2,4,3,2,5,5,2,1,55h7vJchibLdUkxdlX3fK7,,funk_soul,tracks/55h7vJchibLdUkxdlX3fK7.mp3
+128,Sarah Vaughan,He's My Guy,3,2,4,4,5,5,4,1,1,5Po3D0fxlUpQTciXYWOmnJ,,jazz,tracks/5Po3D0fxlUpQTciXYWOmnJ.mp3
+177,Cyne,One Day,2,2,2,2,3,5,4,2,1,46cmIQKXy7Ric5yNZ2tzde,,hip_hop,tracks/46cmIQKXy7Ric5yNZ2tzde.mp3
+347,Beethoven,"Sonate Nr. 8, 2. Satz",3,4,5,5,5,1,1,1,4,,UgkxMr_kC15HJ_96um1vERtcnQbVWTByXf_r,classic,tracks/UgkxMr_kC15HJ_96um1vERtcnQbVWTByXf_r.mp3
+110,Donna Summer,Autumn Changes,1,1,2,3,2,5,3,2,2,4LldsyhaiUL5tcP5uxDBkx,,funk_soul,tracks/4LldsyhaiUL5tcP5uxDBkx.mp3
+573,Shakira,Underneath your clothes,2,1,4,4,5,3,1,1,1,15f8Cv8RXUlOOCIf2oaceN,UgkxoXLglRH8n4Kx6C91YXsPk-v5_tk69Ba7,pop,tracks/UgkxoXLglRH8n4Kx6C91YXsPk-v5_tk69Ba7.mp3
+379,Puccini,Messa di Gloria,3,2,2,2,2,3,3,1,1,,UgkxGxCmVKzTT8XqOWWJlHGisGcOp_IpY5Kc,classic,tracks/UgkxGxCmVKzTT8XqOWWJlHGisGcOp_IpY5Kc.mp3
+191,Twentyone Pilots,Lane Boy,3,2,1,1,2,4,5,1,1,2P61EK6DMGyVyssLWS4fKy,Ugkx6eec1x4NPyH_99Itv46s6pLeG_41gm9x,hip_hop,tracks/Ugkx6eec1x4NPyH_99Itv46s6pLeG_41gm9x.mp3
+396,Zendaya,Only When You're Close,2,2,2,1,2,1,3,4,3,7BhxxlLcCCfvixzy8KExZv,,electronic,tracks/7BhxxlLcCCfvixzy8KExZv.mp3
+343,Schumann,Fantasie in C-Dur,4,4,5,3,5,3,2,1,1,,UgkxBPp9LjwU7gLOe1-5XELHnxiPMvjcs21p,classic,tracks/UgkxBPp9LjwU7gLOe1-5XELHnxiPMvjcs21p.mp3
+554,Dido,White Flag,2,3,5,4,5,3,1,2,2,6si71supnBUhddjR2FJc2L,UgkxnYU_OFSe4XiAc_DMg7cgtb4VSIZP6bC4,pop,tracks/UgkxnYU_OFSe4XiAc_DMg7cgtb4VSIZP6bC4.mp3
+142,Flux Pavilion,I Can't Stop,4,5,2,2,2,5,5,5,1,5WSL7UTa38jMWoBzObD4BD,,electronic,tracks/5WSL7UTa38jMWoBzObD4BD.mp3
+617,Sly & The Family Stone,Everyday People,3,2,5,5,5,5,5,2,2,7lL2lMWNtzOcf5HnEudNgn,,funk_soul,tracks/7lL2lMWNtzOcf5HnEudNgn.mp3
+6,Seal,Kiss From A Rose,4,4,5,5,5,4,4,2,2,3YKptz29AsOlm7WAVnztBh,,pop,tracks/3YKptz29AsOlm7WAVnztBh.mp3
+267,AedFX,Warning,2,2,1,1,2,5,3,5,1,3mHgqUyhKCBo2PKh18sWeo,,hip_hop,tracks/3mHgqUyhKCBo2PKh18sWeo.mp3
+691,Phoenix,1901,2,2,4,1,1,5,4,2,1,3FM33HqRlV7J1QJoPOnd2u,,pop,tracks/3FM33HqRlV7J1QJoPOnd2u.mp3
+237,Obie Trice,Got some Teeth,1,2,2,1,2,5,5,3,1,7tszeVkfxO5ISkjZWpIG88,UgkxwngwihkN9iE0tExYaydT7DaUT-rgeFqa,hip_hop,tracks/UgkxwngwihkN9iE0tExYaydT7DaUT-rgeFqa.mp3
+512,Sam Smith,Lay Me Down,4,4,5,5,5,1,1,1,5,74sb4Gib0cL3TQeCjYF8vh,UgkxS5U7oeRan4QoSfBpMwZjO23sGjBlHj3Z,pop,tracks/UgkxS5U7oeRan4QoSfBpMwZjO23sGjBlHj3Z.mp3
+383,Lauran Hibberd,Sugardaddy,1,2,3,3,3,5,3,2,1,6eXsSF9ufDWqnCJC4GVIsj,,pop,tracks/6eXsSF9ufDWqnCJC4GVIsj.mp3
+58,The Weeknd,The Town,4,3,2,3,2,2,3,4,2,7jGr8wzgwOVLuktY66qM5f,,electronic,tracks/7jGr8wzgwOVLuktY66qM5f.mp3
+232,Yung Hurn,Bianco,2,1,1,1,3,3,1,4,1,1vfVPUkl5v0HXWCEgQJHOf,Ugkx5iVePlCYZzdnY4V8kkaoil1K4vkCmpyC,hip_hop,tracks/Ugkx5iVePlCYZzdnY4V8kkaoil1K4vkCmpyC.mp3
+701,Avril Lavigne,SpongeBob SquarePants Theme,1,1,4,1,2,5,4,3,1,0il663f3f63cvsRJtGmdO2,,rock,tracks/0il663f3f63cvsRJtGmdO2.mp3
+630,Santigold,Disparate Youth,4,3,4,3,3,5,5,3,1,0t2QiRkpag0fAgs9zuCPlH,,electronic,tracks/0t2QiRkpag0fAgs9zuCPlH.mp3
+203,Jay-Z,99 Problems,2,2,1,1,2,5,5,3,1,7IdFdRlCjUi6kkhbPoRfnw,Ugkx57VaIZOdBBg6E3ZPJxd9Ej8E7jqqCyqQ,hip_hop,tracks/Ugkx57VaIZOdBBg6E3ZPJxd9Ej8E7jqqCyqQ.mp3
+543,Gnarls Barkley,Crazy,4,3,3,2,5,5,4,2,1,1vxw6aYJls2oq3gW0DujAo,UgkxURrovlQ8eMOBWDrOOu1soG2CoeI5XVan,pop,tracks/UgkxURrovlQ8eMOBWDrOOu1soG2CoeI5XVan.mp3
+284,Madeleine Peyroux,To Love You All Over Again,3,3,5,4,5,2,1,1,4,4EPwpBN0t11bIxjsAI8oaF,,jazz,tracks/4EPwpBN0t11bIxjsAI8oaF.mp3
+672,Legiï¿½o Urbana,Meninos E Meninas,2,3,4,2,1,5,3,2,1,22LN0RwHqTUJcIN4dzzB6N,,rock,tracks/22LN0RwHqTUJcIN4dzzB6N.mp3
+2,Lamb,Heaven,2,3,4,2,2,2,4,2,2,0bjTW3zBohWdYy2z1Sf5hJ,,electronic,tracks/0bjTW3zBohWdYy2z1Sf5hJ.mp3
+756,Blur,Girls & Boys,2,1,4,1,1,4,2,2,1,5CeL9C3bsoe4yzYS1Qz8cw,,pop,tracks/5CeL9C3bsoe4yzYS1Qz8cw.mp3
+434,Emma Bunton,Take My Breath Away,2,1,3,5,3,2,1,1,1,0wVPsQNQ4tsjTTf2LIdOA7,,pop,tracks/0wVPsQNQ4tsjTTf2LIdOA7.mp3
+217,Logic,Black Spiderman,2,2,2,2,2,5,3,3,1,7BKUWh5sdtdS17crohRe4L,Ugkxpj2Jw4BiyVImQSw49snNHiZqIGXXXYfX,hip_hop,tracks/Ugkxpj2Jw4BiyVImQSw49snNHiZqIGXXXYfX.mp3
+360,Vivaldi,Die 4 Jahreszeiten (Winter),4,4,2,1,2,4,4,4,1,,Ugkx-e3GiNyUxYwCNCIaH0akhND12-LBIbdL,classic,tracks/Ugkx-e3GiNyUxYwCNCIaH0akhND12-LBIbdL.mp3
+46,Djavan,Serrado,2,1,2,2,4,5,2,2,1,7EjRiBMib2EG0cdMEXavbC,,jazz,tracks/7EjRiBMib2EG0cdMEXavbC.mp3
+734,Summer Heart,I Wanna Go,4,5,5,3,4,5,3,1,2,3EA4HwrlLdDJ3b4cX7JfqC,,pop,tracks/3EA4HwrlLdDJ3b4cX7JfqC.mp3
+225,OutKast,Ms. Jackson,4,1,5,1,1,5,2,2,1,0I3q5fE6wg7LIfHGngUTnV,,hip_hop,tracks/0I3q5fE6wg7LIfHGngUTnV.mp3
+18,Cult of Luna,Finland,2,3,1,1,2,2,5,5,2,3N8cK1O5u0RawDBbP4a0hc,,rock,tracks/3N8cK1O5u0RawDBbP4a0hc.mp3
+168,Desiigner,Panda,5,2,1,2,2,5,5,2,1,275a9yzwGB6ncAW4SxY7q3,UgkxQz5bPiHchdgU1Ie2V9uYNUt_ovZ6pl5O,hip_hop,tracks/UgkxQz5bPiHchdgU1Ie2V9uYNUt_ovZ6pl5O.mp3
+228,Max Herre,1Ste Liebe,2,1,2,2,3,3,1,3,1,20xi5ZLlmFLqXtsoNlcqYs,UgkxPYKNzlOjeAyCaSpcaSrt1ej0Bag694wV,hip_hop,tracks/UgkxPYKNzlOjeAyCaSpcaSrt1ej0Bag694wV.mp3
+292,Thievery Corporation,The Richest Man in Babylon,2,2,2,2,4,5,4,2,1,20F3FcES8KU4kffMCkFgNN,,electronic,tracks/20F3FcES8KU4kffMCkFgNN.mp3
+377,Vivaldi,Die 4 Jahreszeiten (Herbst),4,3,3,2,4,3,2,2,1,,UgkxlAo-jlLlXTI6-6GND0QTMg_HTFHG71iu,classic,tracks/UgkxlAo-jlLlXTI6-6GND0QTMg_HTFHG71iu.mp3
+397,Chris Rea,And you my love,2,1,3,5,4,2,1,2,3,7iJmWC3h8tJOCK4OzPFZ2c,,rock,tracks/7iJmWC3h8tJOCK4OzPFZ2c.mp3
+227,Kanye West,Gold Digger,4,1,4,1,2,5,5,2,1,1PS1QMdUqOal0ai3Gt7sDQ,UgkxybNuZJ2bizLIpsayCS2Ic_hs6eynvZ3L,hip_hop,tracks/UgkxybNuZJ2bizLIpsayCS2Ic_hs6eynvZ3L.mp3
+642,Cï¿½u,Mais um Lamento,3,2,3,2,4,3,1,2,1,7Ms8NNySNGSNtjYtdBqrMD,,jazz,tracks/7Ms8NNySNGSNtjYtdBqrMD.mp3
+578,Tame Impala,The Less I Know The Better,4,2,5,3,5,4,2,1,1,6K4t31amVTZDgR3sKmwUJJ,UgkxCJJtlS2-YFNqRIhOvg1e_JqCaau9avkP,pop,tracks/UgkxCJJtlS2-YFNqRIhOvg1e_JqCaau9avkP.mp3
+328,Beethoven,Mondscheinsonate,5,5,5,3,5,3,1,2,4,,UgkxyBxVVsTTWAT-_fcdCX5fDYRneqptEysx,classic,tracks/UgkxyBxVVsTTWAT-_fcdCX5fDYRneqptEysx.mp3
+283,Amy Winehouse,I Heard Love Is Blind,4,2,3,4,5,5,1,1,1,3Li4nWTnkUu19vxkhNW9td,,jazz,tracks/3Li4nWTnkUu19vxkhNW9td.mp3
+711,Chico Buarque,Construï¿½ï¿½o,2,2,2,1,2,2,2,4,2,3FIuBxOxuQ6kYy8JO0gq2a,,jazz,tracks/3FIuBxOxuQ6kYy8JO0gq2a.mp3
+591,Amy Winehouse,Back To Black,4,3,5,4,4,4,3,1,1,3FAclTFfvUuQYnEsptbK8w,UgkxIuGIDESDyUqSy4h9o9z3eBocW-G2GWAz,pop,tracks/UgkxIuGIDESDyUqSy4h9o9z3eBocW-G2GWAz.mp3
+574,James Morrison,I Won't Let You Go,2,1,4,4,4,3,1,1,2,2TUzU4IkfH8kcvY2MUlsd2,UgkxXmZvBwLkvJDUaEv5UH6CjoJ8Tr0VkKlZ,pop,tracks/UgkxXmZvBwLkvJDUaEv5UH6CjoJ8Tr0VkKlZ.mp3
+723,Goldfrapp,Some People,4,2,4,4,4,2,2,3,4,0bB1VbAl9MctrLUOKf9WaS,,electronic,tracks/0bB1VbAl9MctrLUOKf9WaS.mp3
+93,Flunk,Six Seven Times,4,3,4,3,5,2,2,1,4,2jknEB3TLUX5vEaLI4gttE,,electronic,tracks/2jknEB3TLUX5vEaLI4gttE.mp3
+213,Wu-Tang Clan,Da Mystery Of Chessboxin',2,2,1,1,1,5,5,4,1,4xOTVtbCPcfxMs2hSt9D6i,UgkxPqDxvyBR6wzkoSa7KlaX4AXcGGFvDJRp,hip_hop,tracks/UgkxPqDxvyBR6wzkoSa7KlaX4AXcGGFvDJRp.mp3
+258,J. Cole,Wet Dreamz,5,2,3,3,4,5,4,2,1,4tqcoej1zPvwePZCzuAjJd,UgkxVxedlvq78WoVJgVDYux2zHCgEQ8IOTgq,hip_hop,tracks/UgkxVxedlvq78WoVJgVDYux2zHCgEQ8IOTgq.mp3
+337,Mozart,Laudate Dominum,4,5,1,1,2,3,4,4,1,,UgkxrGCMHNUQWcxptqe8G-fnKVDKK_MqC5wx,classic,tracks/UgkxrGCMHNUQWcxptqe8G-fnKVDKK_MqC5wx.mp3
+425,Vanessa da Mata,Eu Nï¿½o Tenho,2,1,2,3,3,3,1,1,1,3RfOd8VhrhsV7othWm5mNF,,jazz,tracks/3RfOd8VhrhsV7othWm5mNF.mp3
+291,Fergie,Big Girls Don't Cry,2,3,4,3,4,5,4,1,3,3Q4WeJmzxuDpzMu9QjQqbM,,pop,tracks/3Q4WeJmzxuDpzMu9QjQqbM.mp3
+612,Tim Maia,Pecado Capital,3,2,3,2,2,5,3,1,1,55g9c7lad0VCcg1PEdJaHl,,funk_soul,tracks/55g9c7lad0VCcg1PEdJaHl.mp3
+106,Lily Allen,Air Balloon,3,3,2,4,3,5,3,1,1,1DIS8YXZKxePLmY7Z8UC4I,,pop,tracks/1DIS8YXZKxePLmY7Z8UC4I.mp3
+115,Paradise Lost,Gone,3,2,4,2,4,2,4,2,5,7C05KE8DAyWoM4yoEOaq6m,,rock,tracks/7C05KE8DAyWoM4yoEOaq6m.mp3
+158,of Montreal,Oslo In The Summertime,2,2,2,2,3,4,2,3,2,3aWcuInJ6nPVUey0wDQQUL,,pop,tracks/3aWcuInJ6nPVUey0wDQQUL.mp3
+759,Usher,DJ Got Us Fallin' In Love,4,5,5,3,2,5,5,2,1,4356Typ82hUiFAynbLYbPn,,pop,tracks/4356Typ82hUiFAynbLYbPn.mp3
+493,Ed Sheeran,Shape Of You,5,3,5,4,3,5,3,2,1,7qiZfU4dY1lWllzX7mPBI3,Ugkx4cMxVQKskjH_07oSOjcVG2b0SQ05qPj5,pop,tracks/Ugkx4cMxVQKskjH_07oSOjcVG2b0SQ05qPj5.mp3
+36,Dinah Washington,Cry Me a River,4,4,5,5,5,4,4,2,5,4ydtQJImyQg6UDFFZBzgxp,,jazz,tracks/4ydtQJImyQg6UDFFZBzgxp.mp3
+105,Prince & The Revolution,Purple Rain,4,5,5,2,2,2,4,2,2,54X78diSLoUDI3joC2bjMz,,rock,tracks/54X78diSLoUDI3joC2bjMz.mp3
+395,Nat King Cole,Unforgettable,4,3,5,5,5,3,1,2,3,648TTtYB0bH0P8Hfy0FmkL,,jazz,tracks/648TTtYB0bH0P8Hfy0FmkL.mp3
+362,Brahms,Sinfonie Nr. 4,4,5,4,4,5,3,2,2,1,,Ugkx1vaUia7sOeAC90G3Wof5F_L2FzTf1EQU,classic,tracks/Ugkx1vaUia7sOeAC90G3Wof5F_L2FzTf1EQU.mp3
+739,Erykah Badu,Didn't Cha Know,2,2,4,4,5,3,1,1,2,7pv80uUHfocFqfTytu1MVi,,funk_soul,tracks/7pv80uUHfocFqfTytu1MVi.mp3
+204,50 Cent,In Da Club,2,1,2,1,3,5,4,2,1,7iL6o9tox1zgHpKUfh9vuC,UgkxPTUGD757NZE04L5T2DQ0oFPpRTI64qKI,hip_hop,tracks/UgkxPTUGD757NZE04L5T2DQ0oFPpRTI64qKI.mp3
+244,Kendrick Lamar,Alright,2,1,1,1,1,4,2,3,1,3iVcZ5G6tvkXZkZKlMpIUs,UgkxPHROtDPzARhhsdqX8YLXqcNPRExmYyGh,hip_hop,tracks/UgkxPHROtDPzARhhsdqX8YLXqcNPRExmYyGh.mp3
+221,50 Cent,Candy Shop,2,1,3,4,1,5,5,1,1,5D2mYZuzcgjpchVY1pmTPh,UgkxhZKaCibKVoF7D08iAtBOgJ6J7gBVqXh_,hip_hop,tracks/UgkxhZKaCibKVoF7D08iAtBOgJ6J7gBVqXh_.mp3
+246,Immortal Technique,Freedom Of Speech,2,1,1,1,2,4,2,4,1,6fx3RqwMuR3k7M1bCpUFKJ,,hip_hop,tracks/6fx3RqwMuR3k7M1bCpUFKJ.mp3
+365,Chopin,"3. Klaviersonate, 4. Satz",4,5,4,2,3,5,4,4,2,,UgkxuXKh_Cg-_ifVwhYq5x_Tka3iMqPQkOIb,classic,tracks/UgkxuXKh_Cg-_ifVwhYq5x_Tka3iMqPQkOIb.mp3
+344,Schumann,Kinderszenen,2,2,1,2,5,5,2,2,1,,Ugkx1wCT-CLUHGwzRcnGNdGJAm4MBm_L2YeX,classic,tracks/Ugkx1wCT-CLUHGwzRcnGNdGJAm4MBm_L2YeX.mp3
+441,Kelis,Rolling Through the Hood,1,1,3,2,4,3,3,1,2,7bjpWKh3teUpsNgdpcq7eb,,funk_soul,tracks/7bjpWKh3teUpsNgdpcq7eb.mp3
+570,Frank Ocean,Thinkin Bout You,3,1,3,3,4,3,1,3,1,5mphdlILgAq3vh1MSvAJTS,,pop,tracks/5mphdlILgAq3vh1MSvAJTS.mp3
+736,Mc Wm,Fuleragem,1,2,1,1,1,4,4,5,1,6tuzPD1zPPvwMbGiD0TBay,,funk_soul,tracks/6tuzPD1zPPvwMbGiD0TBay.mp3
+558,Daniel Powter,Bad Day,4,2,5,5,5,5,2,1,1,0mUyMawtxj1CJ76kn9gIZK,UgkxMYoWzQiOOQF8zBwxt7jFT2OSI6ZITlE8,pop,tracks/UgkxMYoWzQiOOQF8zBwxt7jFT2OSI6ZITlE8.mp3
+351,Mussorgsky,Bilder einer Ausstellung,5,4,1,1,1,5,5,5,1,,Ugkx91mTFEVcvkA0MA3pwqZq6LccGPuvSzCV,classic,tracks/Ugkx91mTFEVcvkA0MA3pwqZq6LccGPuvSzCV.mp3
+249,NAS,N.Y. State of Mind,1,2,1,1,1,4,4,5,1,0trHOzAhNpGCsGBEu7dOJo,UgkxcIw-zmh7aFX4IwPWGXjuVNMj17Xr2DKa,hip_hop,tracks/UgkxcIw-zmh7aFX4IwPWGXjuVNMj17Xr2DKa.mp3
+122,The Temptations,My Girl,3,2,5,5,4,5,3,1,2,745H5CctFr12Mo7cqa1BMH,,funk_soul,tracks/745H5CctFr12Mo7cqa1BMH.mp3
+625,Steely Dan,Blues Beach,3,2,3,4,2,5,3,1,1,1RHIgJN4USj9Buggihf2Pn,,rock,tracks/1RHIgJN4USj9Buggihf2Pn.mp3
+406,Armin van Buuren,Not Giving Up On Love,3,4,2,1,2,5,5,3,1,1frLUl7UjAs0eLL2FzJgmA,,electronic,tracks/1frLUl7UjAs0eLL2FzJgmA.mp3
+727,Belinda,Bailarï¿½a Sobre el Fuego,3,2,2,3,2,4,2,2,1,6OdBw3nV7nmGC5lSxf67p2,,electronic,tracks/6OdBw3nV7nmGC5lSxf67p2.mp3
+164,Ace of Base,All That She Wants,3,3,5,3,4,5,4,1,2,6kWJvPfC4DgUpRsXKNa9z9,,pop,tracks/6kWJvPfC4DgUpRsXKNa9z9.mp3
+685,Boys Like Girls,Thunder,4,2,5,4,4,3,3,1,3,1MrNveiYvWyKNAMiqn8xS8,,rock,tracks/1MrNveiYvWyKNAMiqn8xS8.mp3
+671,Geri Halliwell,Love Never Loved Me,3,3,2,4,2,5,5,1,1,2s7DRQ5KxfMd4p53VH0viU,,pop,tracks/2s7DRQ5KxfMd4p53VH0viU.mp3
+710,Count Basie,Shiny Stockings,2,2,5,3,5,4,1,1,1,5JZoHrIGklz4iUlUNjMBcs,,jazz,tracks/5JZoHrIGklz4iUlUNjMBcs.mp3
+634,2NE1,In the Club,4,2,2,3,2,3,4,2,2,6ZkNt6fWIMoqznNe5RRwRT,,pop,tracks/6ZkNt6fWIMoqznNe5RRwRT.mp3
+239,Jay-Z,Ni**as In Paris,3,2,3,1,1,5,5,4,1,4Li2WHPkuyCdtmokzW2007,UgkxAPRwScOtAsH7lNmTXrrFrOPHFa8aEtuP,hip_hop,tracks/UgkxAPRwScOtAsH7lNmTXrrFrOPHFa8aEtuP.mp3
+83,Strike,O Teu Olhar,2,2,2,1,1,5,5,4,1,4wGDJMUhcFy1j7XWo5ve4K,,rock,tracks/4wGDJMUhcFy1j7XWo5ve4K.mp3
+611,Metronomy,I'm Aquarius,2,2,2,2,3,3,1,2,1,3xEJ59GyjCjcJ69RQc2ej6,,pop,tracks/3xEJ59GyjCjcJ69RQc2ej6.mp3
+295,The Weather Girls,It's Raining Men,4,4,5,3,1,5,5,1,1,4caiYv89C9GZdDD1RzshWd,,funk_soul,tracks/4caiYv89C9GZdDD1RzshWd.mp3
+649,Christopher Cross,Ride Like the Wind,2,2,3,1,3,4,2,1,1,7gUMShP1l20tC0xf17Zplk,,rock,tracks/7gUMShP1l20tC0xf17Zplk.mp3
+70,Atomic Kitten,It's OK!,2,3,4,3,5,4,3,1,3,7fQrbv4s2XyMwVCIKenI26,,pop,tracks/7fQrbv4s2XyMwVCIKenI26.mp3
+519,Oli Brown,Speechless,2,1,2,2,3,5,3,2,1,6brUC8EwzQljB17IQpmxgW,,pop,tracks/6brUC8EwzQljB17IQpmxgW.mp3
+483,Atomic Kitten,Whole Again,4,2,5,3,2,5,1,1,1,16MJqq0vEuW6GRX6faetTm,UgkxRuEzjMw9YVumTIcZtXlLtf9ZE4JULUox,pop,tracks/UgkxRuEzjMw9YVumTIcZtXlLtf9ZE4JULUox.mp3
+98,Al Jarreau,Ain't No Sunshine,3,2,5,5,4,5,4,2,3,0Res4ooR61zc5T7m2Fswog,,jazz,tracks/0Res4ooR61zc5T7m2Fswog.mp3
+511,Bee Gees,Words,3,2,4,2,5,2,2,4,1,07PIhdmyYIw8dMeDMsx9FU,UgkxfOUjcMda4LaZVf_FI8GL9mrBRG3qu-sM,pop,tracks/UgkxfOUjcMda4LaZVf_FI8GL9mrBRG3qu-sM.mp3
+706,Yonderboi,Before you snap,3,2,2,1,2,1,4,5,2,1a9F0TEZ5fO4yWj0g9wojX,,electronic,tracks/1a9F0TEZ5fO4yWj0g9wojX.mp3
+359,Tschaikowski,Marsch (Nussknacker),4,2,4,1,3,5,5,1,1,,Ugkx4F31UGibkv7P0DjRbtyiIkZv-oHrFexd,classic,tracks/Ugkx4F31UGibkv7P0DjRbtyiIkZv-oHrFexd.mp3
+30,Duffy,Rockferry,2,2,3,3,4,1,2,1,3,78twQ5XCFJMTE37ZSU0gsj,,funk_soul,tracks/78twQ5XCFJMTE37ZSU0gsj.mp3
+340,Brahms,Klaviersonate Nr. 3 (Zwei Klaviere),3,4,2,3,3,3,5,3,2,,Ugkxni9QT2IVeo4E325b60MKpScPAdd-qcj_,classic,tracks/Ugkxni9QT2IVeo4E325b60MKpScPAdd-qcj_.mp3
+487,Leon Bridges,River,4,3,4,4,5,2,1,1,1,3hhbDnFUb2bicI2df6VurK,Ugkx0SGKkOhLVssE1_jINsxQmayREBED_VFK,pop,tracks/Ugkx0SGKkOhLVssE1_jINsxQmayREBED_VFK.mp3
+94,Candlemass,Solitude,2,4,1,1,1,2,5,5,3,0v3WyEt2g04WFpfVwcnfXm,,rock,tracks/0v3WyEt2g04WFpfVwcnfXm.mp3
+127,Apparat,Black Water,3,4,3,3,3,2,3,2,4,3mFu6HJLVeyyUyTS1EkHFP,,electronic,tracks/3mFu6HJLVeyyUyTS1EkHFP.mp3
+643,James Blake,Overgrown,2,2,3,3,5,1,1,2,4,2IqjKEBiz0CdLKdkXhxw84,,electronic,tracks/2IqjKEBiz0CdLKdkXhxw84.mp3
+1,Jorge Ben,Ponta de lanï¿½a africano (Umbabarauma),4,3,1,1,2,5,5,2,1,0jayFuH5lbwOOVeJnwDgGf,,jazz,tracks/0jayFuH5lbwOOVeJnwDgGf.mp3
+498,Stevie Wonder,I Wish,4,1,2,1,2,5,3,1,1,687YZan9Gol1UVvbpUSO6Y,UgkxlIhVwyJFYKbpaZtpwOKbvNoCej0Snbxd,pop,tracks/UgkxlIhVwyJFYKbpaZtpwOKbvNoCej0Snbxd.mp3
+27,Rilo Kiley,It Just Is,5,3,5,4,4,2,2,1,5,26tR002TUAcmtfBLR7hVnS,,pop,tracks/26tR002TUAcmtfBLR7hVnS.mp3
+89,Jamiroquai,Automaton,3,3,2,1,2,5,5,4,1,42dJ29C11xlJTLkRVmKty1,,funk_soul,tracks/42dJ29C11xlJTLkRVmKty1.mp3
+308,Sam Smith,Stay with Me,2,2,4,5,5,3,2,1,5,5Nm9ERjJZ5oyfXZTECKmRt,,funk_soul,tracks/5Nm9ERjJZ5oyfXZTECKmRt.mp3
+73,Gino Vannelli,Wheels Of Life,4,2,5,5,5,3,3,1,3,7uE9ZeScOg28zFE7OHQxuR,,jazz,tracks/7uE9ZeScOg28zFE7OHQxuR.mp3
+453,Gorillaz,Feel good Inc.,5,4,3,4,4,5,4,1,1,0d28khcov6AiegSCpG5TuT,UgkxH7E3iJmQ7z_oAHV9C-z0ntbODARuTc-0,pop,tracks/UgkxH7E3iJmQ7z_oAHV9C-z0ntbODARuTc-0.mp3
+184,Coolio,Gangsta's Paradise,5,3,4,1,2,5,5,2,1,1DIXPcTDzTj8ZMHt3PDt8p,,hip_hop,tracks/1DIXPcTDzTj8ZMHt3PDt8p.mp3
+504,Nina Simone,Feeling Good,3,4,4,4,4,5,5,1,1,6Rqn2GFlmvmV4w9Ala0I1e,UgkxcOl1VgzbVitwna_Kd3xIyvtcRJp-4xK_,pop,tracks/UgkxcOl1VgzbVitwna_Kd3xIyvtcRJp-4xK_.mp3
+171,Xatar,Meine Groï¿½e Liebe,2,4,1,2,1,4,4,1,1,7H1xPBRWYLhPGluTUDUYOw,UgkxFhBctjHXvMsHAcraQU2xMxEYvWxFm_wL,hip_hop,tracks/UgkxFhBctjHXvMsHAcraQU2xMxEYvWxFm_wL.mp3
+417,Loreen,My Heart Is Refusing Me,4,3,3,1,2,5,5,3,1,0sg9jTiFokw2U15qGK7wPK,,pop,tracks/0sg9jTiFokw2U15qGK7wPK.mp3
+226,Kendrick Lamar,i,1,1,1,1,1,4,2,4,1,7wdzLe2Gsx1RGqbvYZHASz,UgkxS_Zf6GeAQ5Wb_1Gfdz-EVBhrebmlb6Yn,hip_hop,tracks/UgkxS_Zf6GeAQ5Wb_1Gfdz-EVBhrebmlb6Yn.mp3
+607,Mayday Parade,Your Song,2,3,4,2,2,4,5,5,4,7va0FN5Fim1dNPi06sqxVx,,rock,tracks/7va0FN5Fim1dNPi06sqxVx.mp3
+581,Mark Ronson,Uptown Funk,5,2,2,1,4,5,5,2,1,32OlwWuMpZ6b0aN2RZOeMS,UgkxAtoariM8O0ql3atpeX96wd-ObqBs0aW_,funk_soul,tracks/UgkxAtoariM8O0ql3atpeX96wd-ObqBs0aW_.mp3
+112,Village People,Go West,2,1,5,2,2,5,5,2,1,5v67uga7IFT3FQhDDBgaY8,,funk_soul,tracks/5v67uga7IFT3FQhDDBgaY8.mp3
+91,Paramore,That's What You Get,2,2,5,2,1,5,5,2,1,1JdKrFyoU05abww0Zv0ayQ,,rock,tracks/1JdKrFyoU05abww0Zv0ayQ.mp3
+294,Sia,The Church of What's Happening Now,5,5,5,5,5,2,2,2,5,2NIq6qD7oM7SRT0C7kobr5,,electronic,tracks/2NIq6qD7oM7SRT0C7kobr5.mp3
+370,Vivaldi,Die 4 Jahreszeiten (Sommer),4,4,3,3,5,2,1,2,2,,UgkxsUbAkn64g0KksHbehhXYmDCvmZeHczH3,classic,tracks/UgkxsUbAkn64g0KksHbehhXYmDCvmZeHczH3.mp3
+529,Wrabel,The Village,5,3,3,4,5,3,2,1,3,6epvwUINain4iSHCTWA0sj,UgkxpnhiQPUtgAkHJTcKBqBX4YVnznIpklej,pop,tracks/UgkxpnhiQPUtgAkHJTcKBqBX4YVnznIpklej.mp3
+663,Ledisi,Alright,2,3,2,1,4,5,2,4,1,1wRQqmZwiF4thdQ8N7FiNv,,funk_soul,tracks/1wRQqmZwiF4thdQ8N7FiNv.mp3
+125,A*Teens,Rockin',2,1,3,2,2,5,2,1,1,66Ic3dIvBMBV7Oc4PUjw5w,,pop,tracks/66Ic3dIvBMBV7Oc4PUjw5w.mp3
+423,Billie Holiday,Lady Sings The Blues,2,2,4,4,4,1,1,1,3,6rX7Rgi2O5csTzLan7rL0c,,jazz,tracks/6rX7Rgi2O5csTzLan7rL0c.mp3
+741,Nat King Cole,Aquellos Ojos Verdes,2,2,4,5,5,2,1,1,1,35uu4l4jYnCLMh88URXqoX,,jazz,tracks/35uu4l4jYnCLMh88URXqoX.mp3
+455,Jose Gonzales,Heartbeats,5,3,5,5,5,1,2,1,2,11X4Gw3T4hoktVruLgTnm1,Ugkx7lMXD9hmHssWqqYZ9DMvrmwWMWV2PRwB,pop,tracks/Ugkx7lMXD9hmHssWqqYZ9DMvrmwWMWV2PRwB.mp3
+460,Elton John,Your Song,4,4,5,4,3,3,4,1,3,38zsOOcu31XbbYj9BIPUF1,UgkxdWGkpjrXKcJkU6bVakI-M3-q0x9VjUwl,pop,tracks/38zsOOcu31XbbYj9BIPUF1.mp3
+410,Gorillaz,Tomorrow Comes Today,4,4,4,2,4,4,3,1,4,3qdDjz9kOvquEFbvXBYOMQ,,electronic,tracks/3qdDjz9kOvquEFbvXBYOMQ.mp3
+315,Wild Cherry,Play That Funky Music,3,4,5,2,4,5,5,1,1,5uuJruktM9fMdN9Va0DUMl,,funk_soul,tracks/5uuJruktM9fMdN9Va0DUMl.mp3
+376,Carl Orff,O Fortuna (Carmina Burana),4,5,3,1,2,5,5,2,1,,UgkxXSbfxW58bYGu_rCHNm5qmvgW90Phkh-U,classic,tracks/UgkxXSbfxW58bYGu_rCHNm5qmvgW90Phkh-U.mp3
+12,Hot Chocolate,You Sexy Thing,4,2,5,4,4,5,4,1,1,714hERk9U1W8FMYkoC83CO,,funk_soul,tracks/714hERk9U1W8FMYkoC83CO.mp3
+664,Kandi,Don't Think I'm Not,1,1,3,4,2,4,3,1,2,487Dyzs7Xbbk4hIWYyYT80,,funk_soul,tracks/487Dyzs7Xbbk4hIWYyYT80.mp3
+438,Caetano Veloso,Alexandre,2,1,2,2,2,5,2,2,1,4fpHhkV7T4WEwdkpN5tL6R,,jazz,tracks/4fpHhkV7T4WEwdkpN5tL6R.mp3
+673,Kylie Minogue,Did It Again,2,2,4,2,3,5,2,2,1,06N6MhUlurBOamI1rK9u2U,,pop,tracks/06N6MhUlurBOamI1rK9u2U.mp3
+150,ATB,9pm (Till I Come),4,4,5,3,2,5,5,2,1,1CgbwsrNDlFrRuk2ebQ7zr,,electronic,tracks/1CgbwsrNDlFrRuk2ebQ7zr.mp3
+764,Kylie Minogue,Love at First Sight,2,2,2,2,1,5,5,2,1,6ua8mbyHXTHpAmGyGpFAS2,,pop,tracks/6ua8mbyHXTHpAmGyGpFAS2.mp3
+699,Suzanne Vega,In Liverpool,3,3,4,3,3,3,3,2,3,6HHspSEn21kZStPP4BN1xB,,rock,tracks/6HHspSEn21kZStPP4BN1xB.mp3
+409,Daddy Was A Milkman,Breathe In,3,2,3,4,5,2,1,1,2,0JD76XBC2uL6A5ZHTKIKHF,,electronic,tracks/0JD76XBC2uL6A5ZHTKIKHF.mp3
+143,Everything But the Girl,Low Tide Of The Night,4,4,5,4,5,4,2,1,1,06bJuoqZDzxSINQFREVLu0,,electronic,tracks/06bJuoqZDzxSINQFREVLu0.mp3
+658,Kelly Clarkson,Love So Soft,2,1,2,3,1,5,5,3,1,16QN8cBubEq706vNtPpOME,,funk_soul,tracks/16QN8cBubEq706vNtPpOME.mp3
+208,Bushido,Leben Und Tod Des Kenneth Glï¿½ckler,3,3,1,1,2,4,5,3,1,3ai0DFuYn5KnHPUbRjAkga,,hip_hop,tracks/3ai0DFuYn5KnHPUbRjAkga.mp3
+440,Bruno Mars,Just the Way You Are,3,2,5,5,3,5,3,1,2,7BqBn9nzAq8spo5e7cZ0dJ,,pop,tracks/7BqBn9nzAq8spo5e7cZ0dJ.mp3
+131,The Bug,Poison Dart,2,2,2,2,2,3,2,5,1,7k9XruEHhkEH1I2epEHERo,,electronic,tracks/7k9XruEHhkEH1I2epEHERo.mp3
+380,Bach,Brandenburgische Konzerte,3,4,2,2,3,4,4,3,1,,UgkxeLffTg_jPplOibtLpXdWG3rrOmkbu7dp,classic,tracks/UgkxeLffTg_jPplOibtLpXdWG3rrOmkbu7dp.mp3
+174,Prinz Pi,Laura,2,2,2,1,2,1,2,3,2,4pbTElMDaHrkLOfOv8nUdC,UgkxKywj4WMS6UIR12bQWx3DD6jYhjU0j1Em,hip_hop,tracks/UgkxKywj4WMS6UIR12bQWx3DD6jYhjU0j1Em.mp3
+270,Claptu,Aper,2,2,5,5,5,1,1,2,1,4tC89UWVzU3PqdqdiQbAdo,,hip_hop,tracks/4tC89UWVzU3PqdqdiQbAdo.mp3
+407,Onuka,Vsesvit,3,2,1,2,3,4,4,1,2,0ROyrrMf9crvLUImY1SoG6,,electronic,tracks/0ROyrrMf9crvLUImY1SoG6.mp3
+546,Beyonce,Halo,4,4,4,3,3,4,5,2,2,2MfOcbtgz2yTsiznFmVZUN,UgkxOQ0jGF0Dy7qev4oDn0V5sTNumm48WRwH,pop,tracks/UgkxOQ0jGF0Dy7qev4oDn0V5sTNumm48WRwH.mp3
+123,Descendents,Silly Girl,1,2,2,2,1,3,5,3,1,1o0cObpbURSTFEoXSgmL6a,,rock,tracks/1o0cObpbURSTFEoXSgmL6a.mp3
+138,Evelyn Thomas,High Energy,2,2,3,1,1,5,5,4,1,2O3JCRH7IvUUbzbxEvoVAi,,funk_soul,tracks/2O3JCRH7IvUUbzbxEvoVAi.mp3
+51,Yellowcard,Everywhere,4,5,5,1,1,5,5,2,2,4A3H0I1iSmYiHh5IScsBX5,,rock,tracks/4A3H0I1iSmYiHh5IScsBX5.mp3
+275,Joey Pecoraro,Your Favorite Place,4,5,4,5,5,3,2,2,1,2p6es5NEF5CBRrKC1lJHri,,hip_hop,tracks/2p6es5NEF5CBRrKC1lJHri.mp3
+740,The Fall of Every Season,From Below,1,2,1,1,1,2,4,5,1,6Cf2i3EYgQcglOmPcR3BDo,,rock,tracks/6Cf2i3EYgQcglOmPcR3BDo.mp3
+342,Brahms,"Klavierquartett Nr. 3 in C-Moll, 3. Satz",4,2,5,5,5,1,1,3,3,,UgkxEeJK_7M-PoHxZ3RnXvL5jlUpgeYEmPTt,classic,tracks/UgkxEeJK_7M-PoHxZ3RnXvL5jlUpgeYEmPTt.mp3
+256,Dr. Dre,Still D.R.E.,3,2,4,1,3,5,5,2,1,503OTo2dSqe7qk76rgsbep,UgkxdRaji-a4BT10TlHVMim4VkgyR10J4JTP,hip_hop,tracks/UgkxdRaji-a4BT10TlHVMim4VkgyR10J4JTP.mp3
+182,K.I.Z.,Ein Affe und ein Pferd,2,2,1,1,2,5,5,5,1,3qM75mSV84LHHJqlITqZsk,UgkxnE8-rmtVlOk9mjkXNUzj7cbG0RTr0goh,hip_hop,tracks/UgkxnE8-rmtVlOk9mjkXNUzj7cbG0RTr0goh.mp3
+300,Mr. Mister,Broken Wings,5,4,5,3,4,3,4,1,2,78FHUZRbFDCG6VkRAQdFLm,,rock,tracks/78FHUZRbFDCG6VkRAQdFLm.mp3
+757,Michael Kiwanuka,Rest,4,4,5,5,5,3,2,1,3,46ueNei78zAk47R2OOLInn,,funk_soul,tracks/46ueNei78zAk47R2OOLInn.mp3
+240,CunninLynguists,Valley of Death,3,4,3,1,1,4,3,2,1,3rvuvqoC0zvoUkog7EKLMv,,hip_hop,tracks/3rvuvqoC0zvoUkog7EKLMv.mp3
+230,Ice Cube,It Was A Good Day,1,1,2,1,3,3,2,3,1,2GrOq1y5gksYrqkc8Jzl9T,Ugkx7zgQVqyx27SS463zhiTuKgY6TFpsLk_D,hip_hop,tracks/Ugkx7zgQVqyx27SS463zhiTuKgY6TFpsLk_D.mp3
+326,Mozart,Eine kleine Nachtmusik: First movement,5,5,3,2,5,5,4,1,1,,UgkxZV0SHrZDy1AYZOZYFH8eCxgTMFI822sq,classic,tracks/UgkxZV0SHrZDy1AYZOZYFH8eCxgTMFI822sq.mp3
+458,Boy,Little Numbers,5,4,3,4,5,5,2,1,1,34UMrasAWi3VHMWpMePxGu,Ugkxay_pPRNk-jT2297d6fkFixYmAiEd8rmG,pop,tracks/Ugkxay_pPRNk-jT2297d6fkFixYmAiEd8rmG.mp3
+465,Robin Schulz,Sugar,3,2,2,2,3,5,5,2,1,5tf1VVWniHgryyumXyJM7w,UgkxQj7p_YA0FCZ6NeermmWRYGyr0lFUwGyS,pop,tracks/UgkxQj7p_YA0FCZ6NeermmWRYGyr0lFUwGyS.mp3
+163,Edwin McCain,I Could Not Ask for More,4,2,4,4,4,2,4,2,2,14J3PO0VnhtcRa31r7Aj1L,,rock,tracks/14J3PO0VnhtcRa31r7Aj1L.mp3
+167,Trailerpark,Schlechter Tag,4,5,1,2,1,5,1,3,1,,Ugkxf5fmFiQEz9AO6cjfIswgzRsJmSFsHTQ4,hip_hop,tracks/Ugkxf5fmFiQEz9AO6cjfIswgzRsJmSFsHTQ4.mp3
+145,Wayne Newton,Danke Schoen,2,2,5,3,2,4,3,2,1,1BfbdFWT4wirsQ5BNgmN52,,jazz,tracks/1BfbdFWT4wirsQ5BNgmN52.mp3
+206,OutKast,B.O.B.,2,2,1,1,2,5,5,4,1,3WibbMr6canxRJXhNtAvLU,UgkxubyVQJjx7WtuqLhLzUBEEkMSHEXoPqZH,hip_hop,tracks/UgkxubyVQJjx7WtuqLhLzUBEEkMSHEXoPqZH.mp3
+500,Moby,Porcelain,4,2,4,3,5,3,1,1,1,1hEh8Hc9lBAFWUghHBsCel,UgkxCeZp2xuJSLW0-0PZjBJt_V5-LaoVDjdx,pop,tracks/UgkxCeZp2xuJSLW0-0PZjBJt_V5-LaoVDjdx.mp3
+188,Scroobius Pip,Let 'Em Come,2,2,1,1,1,3,4,5,1,5iDkCenF5yMkweYTzvnxc0,UgkxNA0TGyZvRFpL5HfNxf5jL-Aos0_TMrjq,hip_hop,tracks/UgkxNA0TGyZvRFpL5HfNxf5jL-Aos0_TMrjq.mp3
+324,Dvorak,9. Sinfonie (II. Largo),5,5,5,5,5,2,1,1,4,,UgkxFAA69ye9sAY1N9WDpRz5SObKLpnyEKng,classic,tracks/UgkxFAA69ye9sAY1N9WDpRz5SObKLpnyEKng.mp3
+650,Beyoncï¿½,Blow Remix,2,2,3,4,3,5,5,2,1,0GjDYSp1bNyjggwPadwlyf,,funk_soul,tracks/0GjDYSp1bNyjggwPadwlyf.mp3
+684,Avril Lavigne,Girlfriend,2,2,5,3,2,5,5,3,1,45hOioMDJktr86iKDHC8gr,,pop,tracks/45hOioMDJktr86iKDHC8gr.mp3
+79,Emika,Drop the Other,4,5,3,2,3,4,5,4,2,1sHoqPtMfaZML6P77Q586a,,electronic,tracks/1sHoqPtMfaZML6P77Q586a.mp3
+618,Toquinho,Garota de Ipanema,2,1,4,2,4,5,2,2,1,0KtpvAIKMUD4wSsHv25IMn,,jazz,tracks/0KtpvAIKMUD4wSsHv25IMn.mp3
+690,Selena Gomez,Love You Like a Love Song,4,3,5,5,2,5,4,2,1,0laYHRpNTS6i8FXdupHkJ4,,pop,tracks/0laYHRpNTS6i8FXdupHkJ4.mp3
+229,Future,Mask Off,3,1,2,1,1,5,4,3,1,0VgkVdmE4gld66l8iyGjgx,Ugkx5J3xH7SZ9jDFtpl8pdxAnMiSb-GPCrhY,hip_hop,tracks/Ugkx5J3xH7SZ9jDFtpl8pdxAnMiSb-GPCrhY.mp3
+593,East 17,it's alright - the guvnor mix,1,2,1,1,1,5,2,3,1,0hiUOCWNdPefjaEAjcJ8Cq,,pop,tracks/0hiUOCWNdPefjaEAjcJ8Cq.mp3
+100,Ambrosia,You're the Only Woman,2,2,5,5,3,4,3,1,2,11qmuUlW5q5diLiVSOlsSF,,jazz,tracks/11qmuUlW5q5diLiVSOlsSF.mp3
+290,Cult of Luna,Thirtyfour,1,2,2,1,1,2,5,5,2,59mzCn4G9KcuIWoksoe2aq,,rock,tracks/59mzCn4G9KcuIWoksoe2aq.mp3
+444,Kings of Convenience,I'd Rather Dance With You,4,2,4,5,4,5,3,1,1,4hGOhC87bn7JBdYykOJJvJ,,pop,tracks/4hGOhC87bn7JBdYykOJJvJ.mp3
+725,John Mayer,Heartbreak Warfare,5,3,5,5,5,4,4,1,4,4gs07VlJST4bdxGbBsXVue,,rock,tracks/4gs07VlJST4bdxGbBsXVue.mp3
+53,Rihanna,Diamonds,5,3,5,4,4,5,5,1,1,1z9kQ14XBSN0r2v6fx4IdG,,pop,tracks/1z9kQ14XBSN0r2v6fx4IdG.mp3
+391,Take That,Love Ain't Here Anymore,3,2,4,4,4,1,1,1,4,1LtwwvNy05VlULpCTogigr,,pop,tracks/1LtwwvNy05VlULpCTogigr.mp3
+738,Roberta Sï¿½,Fogo E Gasolina,2,1,2,1,2,5,3,1,1,3z29d3vubYNEBeuuo2e8vE,,jazz,tracks/3z29d3vubYNEBeuuo2e8vE.mp3
+763,Alpine,Gasoline,3,2,3,3,4,4,3,1,1,1KHOOsJUHBy82PCZVV8Lmd,,pop,tracks/1KHOOsJUHBy82PCZVV8Lmd.mp3
+251,Missy Elliott,Work It,2,2,1,1,1,5,3,3,1,3jagJCUbdqhDSPuxP8cAqF,,hip_hop,tracks/3jagJCUbdqhDSPuxP8cAqF.mp3
+499,The Jackson 5,Who's Lovin You,4,2,5,5,5,4,2,1,1,6cZrsaNb4Zo9E5KHk7gcz5,,pop,tracks/6cZrsaNb4Zo9E5KHk7gcz5.mp3
+475,All American Rejects,Fallin Apart,4,3,2,2,4,5,5,2,1,3YoLDoNNTKb7R3Gc3yRrGK,UgkxDpumEt0h1YNhzNmcOcC_tpr896wgwGQa,pop,tracks/UgkxDpumEt0h1YNhzNmcOcC_tpr896wgwGQa.mp3
+271,DECAP,Panther,2,3,1,1,1,4,2,5,1,1WmdcotlVastYfmwlvK7x2,,hip_hop,tracks/1WmdcotlVastYfmwlvK7x2.mp3
+44,Submotion Orchestra,Eyeline,4,3,2,2,2,2,4,2,2,2sqeVVvHRuskC1E4nA1Xls,,electronic,tracks/2sqeVVvHRuskC1E4nA1Xls.mp3
+113,Melanie C,"Yeh, Yeh, Yeh",2,1,3,1,2,5,5,3,1,5gEkWBFaVUjzY7Y3sw35UU,,pop,tracks/5gEkWBFaVUjzY7Y3sw35UU.mp3
+24,Tamar Braxton,Sound of Love,2,2,1,1,2,2,2,5,2,1QSNwan8EvZeJhuDag0aqX,,funk_soul,tracks/1QSNwan8EvZeJhuDag0aqX.mp3
+211,Immortal Technique,Leaving the past,3,4,3,1,2,3,2,3,3,6msTUCqIfVOWe7pzWGzh6F,,hip_hop,tracks/6msTUCqIfVOWe7pzWGzh6F.mp3
+169,NAS,Doo Rags,5,5,4,5,4,5,5,1,1,2XQrvYopdCkOenX4Z5CdV7,UgkxHgPXHI3iwijH2ubl4ECPZWr71pOH2kNY,hip_hop,tracks/UgkxHgPXHI3iwijH2ubl4ECPZWr71pOH2kNY.mp3
+743,Shape of Despair,Descending Inner Night,3,4,2,1,3,2,5,5,3,6MlYQ2wTknOenhhYhofmdy,,rock,tracks/6MlYQ2wTknOenhhYhofmdy.mp3
+520,Justin Timberlake,My Love,3,2,2,4,3,5,4,2,1,4NeOWqHmlrGRuBvsLJC9rL,UgkxhOPsGjvMcvDrm4YVta_y5I3IDE07ggY2,pop,tracks/UgkxhOPsGjvMcvDrm4YVta_y5I3IDE07ggY2.mp3
+32,Avril Lavigne,Wish You Were Here,3,3,5,5,3,5,4,3,3,5XHf9PBxxHmJFuiDkGNIOA,,rock,tracks/5XHf9PBxxHmJFuiDkGNIOA.mp3
+109,Electric Wizard,The Chosen Few,2,3,2,2,2,2,4,4,2,5qN4DbKNNuIIe7xSlJPco0,,rock,tracks/5qN4DbKNNuIIe7xSlJPco0.mp3
+136,Belleruche,Anything You Want (Not That),2,2,3,2,3,4,2,2,1,41fe96o3cxCfvINxcxEe4R,,funk_soul,tracks/41fe96o3cxCfvINxcxEe4R.mp3
+330,Debussy,Clair de lune,4,4,5,5,5,1,1,1,2,,UgkxZqA9R-IZ4NlEqnnscZRcW-NU-PSfWw-Y,classic,tracks/UgkxZqA9R-IZ4NlEqnnscZRcW-NU-PSfWw-Y.mp3
+222,2Pac,Keep Ya Head Up,2,2,2,2,4,4,2,1,1,4Tttv4p2xuAq1LpQ7LI95E,,hip_hop,tracks/4Tttv4p2xuAq1LpQ7LI95E.mp3
+28,The Weeknd,Wicked Games,5,4,4,5,5,4,5,2,2,6VwBbL8CzPiC4QV66ay7oR,,electronic,tracks/6VwBbL8CzPiC4QV66ay7oR.mp3
+287,Lucky Twice,Lucky,2,2,4,3,2,5,5,2,1,4Td50xcLZQOrOHQeG0vULJ,,pop,tracks/4Td50xcLZQOrOHQeG0vULJ.mp3
+55,New Found Glory,This Disaster,2,3,3,1,1,5,5,4,2,2VHAQ84pzRe11YdMUDZzMZ,,rock,tracks/2VHAQ84pzRe11YdMUDZzMZ.mp3
+675,Alana Davis,32 Flavors,2,2,2,3,3,2,2,1,2,3o5dmw1M6ugfLpva7yTyDr,,rock,tracks/3o5dmw1M6ugfLpva7yTyDr.mp3
+688,Ella Fitzgerald,Dream A Little Dream Of Me,5,4,5,5,5,3,2,1,3,78MI7mu1LV1k4IA2HzKmHe,,jazz,tracks/78MI7mu1LV1k4IA2HzKmHe.mp3
+48,Ana Carolina,"Tï¿½ rindo, ï¿½?",2,2,3,4,4,4,3,2,1,65GmViOSKcP7jK0wNqRs8r,,jazz,tracks/65GmViOSKcP7jK0wNqRs8r.mp3
+748,Chaka Khan,La Flamme,1,1,3,2,1,4,4,3,1,2eov5RDWfwpixHgts4okh9,,funk_soul,tracks/2eov5RDWfwpixHgts4okh9.mp3
+545,Pitbull,Better On Me,2,2,2,3,4,5,3,2,1,0vLlEo1D4VRiGzMLxLbsh2,UgkxCR_Az098RiwjH07R9_uAqtt8bx0xOmNm,pop,tracks/UgkxCR_Az098RiwjH07R9_uAqtt8bx0xOmNm.mp3
+477,Katie Perry,I Kissed A Girl,5,2,4,1,2,5,5,2,1,14iN3o8ptQ8cFVZTEmyQRV,UgkxtorIr5hC1D3sL7KcJF9n4-lfiSpsir65,pop,tracks/UgkxtorIr5hC1D3sL7KcJF9n4-lfiSpsir65.mp3
+547,Elle King,Ex's &Oh's,5,3,3,2,2,5,5,2,1,70eDxAyAraNTiD6lx2ZEnH,Ugkx3wz3aVo_p1Uhr4T5tZitbHQC7eywoKY0,pop,tracks/Ugkx3wz3aVo_p1Uhr4T5tZitbHQC7eywoKY0.mp3
+63,Shpongle,I Am You,2,2,1,1,1,3,3,5,1,3k3RK6cRZa165izv0rTv4Z,,electronic,tracks/3k3RK6cRZa165izv0rTv4Z.mp3
+413,Michael Jackson,Ain't No Sunshine,3,2,4,3,2,3,4,2,2,6ac4lvV0LKQlbHYXJ7vTDb,,funk_soul,tracks/6ac4lvV0LKQlbHYXJ7vTDb.mp3
+384,Lasgo,Something,2,4,3,1,1,5,5,3,1,3e9L9HiHKcfYLAga28Vmcf,,electronic,tracks/3e9L9HiHKcfYLAga28Vmcf.mp3
+679,Stevie Nicks,Ghosts,1,1,2,1,1,2,3,5,1,6Cy4g8vU4WZJFYgwsAcG6K,,rock,tracks/6Cy4g8vU4WZJFYgwsAcG6K.mp3
+322,Rossini,Wilhelm Tell (Ouvertï¿½re),5,4,2,3,1,5,5,1,2,,UgkxybJ8kBJHnD0NH_qSCug2wTmq6BHK4VqE,classic,tracks/UgkxybJ8kBJHnD0NH_qSCug2wTmq6BHK4VqE.mp3
+451,En Vogue,Beat of Love,2,2,1,3,3,1,1,4,1,2CHSYLRP4AQgyKV17Qc9QO,,funk_soul,tracks/2CHSYLRP4AQgyKV17Qc9QO.mp3
+596,Draconian,"Death, Come Near Me",2,4,2,3,2,1,2,4,5,0xaf0rzKil2j5Yd2Fiz9SL,,rock,tracks/0xaf0rzKil2j5Yd2Fiz9SL.mp3
+234,SSIO,Sim-Karte,2,2,1,1,2,5,4,4,1,4boJTTrr04CNomqZj9SJ4f,UgkxysIgcy_4uD84L41xB_BHI_cyFy2D92pI,hip_hop,tracks/UgkxysIgcy_4uD84L41xB_BHI_cyFy2D92pI.mp3
+557,Alicia Keys,If I Ain't Got You,4,3,5,5,5,3,2,2,2,3XVBdLihbNbxUwZosxcGuJ,UgkxrPlnq-ux8G190EZ5mqQatzID-YW3YEvl,pop,tracks/UgkxrPlnq-ux8G190EZ5mqQatzID-YW3YEvl.mp3
+462,Madonna,Don't Tell Me,2,2,3,2,4,4,2,2,1,23EhTCPRTlLVM6VQUyh8bH,,pop,tracks/23EhTCPRTlLVM6VQUyh8bH.mp3
+424,Sixpence None the Richer,Kiss Me,2,1,5,5,4,4,1,1,1,754kgU5rWscRTfvlsuEwFp,,pop,tracks/754kgU5rWscRTfvlsuEwFp.mp3
+674,Ladyhawke,My Delirium,2,1,4,2,2,5,5,2,2,3vqSWOEMO4OOxa2QJHuitI,,pop,tracks/3vqSWOEMO4OOxa2QJHuitI.mp3
+303,Owl City,Lucid Dream,4,4,4,3,5,4,2,1,1,4icP6VWlKBLIHzl0bBD4xw,,electronic,tracks/4icP6VWlKBLIHzl0bBD4xw.mp3
+676,Frank Sinatra,Fly Me to the Moon,4,2,4,5,3,5,3,1,1,5b7OgznPJJr1vHNYGyvxau,,jazz,tracks/5b7OgznPJJr1vHNYGyvxau.mp3
+219,The Notorious B.I.G.,Juicy,3,2,2,2,4,5,3,1,1,2AP7m2dBb8ULTx4Gc1rdMc,UgkxrJMgPWDGPZXi53mg-mbkThj5shc2hAfc,hip_hop,tracks/UgkxrJMgPWDGPZXi53mg-mbkThj5shc2hAfc.mp3
+666,Lana Del Rey,Video Games,5,5,5,5,5,2,5,2,5,24jvD83UgLmrdGjhWTFslY,,pop,tracks/24jvD83UgLmrdGjhWTFslY.mp3
+296,blink-182,Online Songs,2,1,4,1,2,5,5,2,1,2DcxTfOm8y2UgeP81qdidR,,rock,tracks/2DcxTfOm8y2UgeP81qdidR.mp3
+21,Jorge Ben Jor,"Mas, Que Nada!",3,4,5,5,5,5,2,2,2,6U03Orwr5Dxt8jahLnQpYV,,jazz,tracks/6U03Orwr5Dxt8jahLnQpYV.mp3
+420,The Whitest Boy Alive,Keep a Secret,2,2,2,1,3,2,1,3,2,7pHWIlKBTQJM9oErC4OzSP,,pop,tracks/7pHWIlKBTQJM9oErC4OzSP.mp3
+325,Faurï¿½,Romance sans Paroles,3,4,5,5,5,2,1,1,1,,UgkxQPEqkpnGIK2-LLxuRimQ9MHxpkpmCeeg,classic,tracks/UgkxQPEqkpnGIK2-LLxuRimQ9MHxpkpmCeeg.mp3
+199,Eminem,Lose Yourself,4,3,4,2,3,5,5,2,1,7MJQ9Nfxzh8LPZ9e9u68Fq,UgkxpFGqBJ32ORfzd4DhgSOtxi95nKPJclM2,hip_hop,tracks/UgkxpFGqBJ32ORfzd4DhgSOtxi95nKPJclM2.mp3
+450,Dido,Don't Leave Home,5,3,5,5,5,3,3,1,4,4N7e9ltiDKb19Swu2CWqMB,,pop,tracks/4N7e9ltiDKb19Swu2CWqMB.mp3
+137,Lasgo,Alone,1,2,2,1,1,4,4,3,1,6hVdYM1RKjPIYv17KJ6Cll,,electronic,tracks/6hVdYM1RKjPIYv17KJ6Cll.mp3
+536,M.I.A.,Paper Planes,2,1,2,1,1,5,4,3,1,4YOH3cBrhf4F6T4iYFUdz5,UgkxybLbk7xO9Z4sFmjacBa0Ltbd5UZqfUhs,pop,tracks/UgkxybLbk7xO9Z4sFmjacBa0Ltbd5UZqfUhs.mp3
+212,SSIO,Nullkommaneun,2,3,1,1,1,5,3,5,1,3cLXgIlvugVKpWBmO5v9oy,UgkxIoxnqhDJAYNa8D04h4ErsP8RkqaPXWqW,hip_hop,tracks/UgkxIoxnqhDJAYNa8D04h4ErsP8RkqaPXWqW.mp3
+737,Astrud Gilberto,Agua De Beber,1,1,4,3,5,3,1,1,2,3QKJELWORZZ7rUZDWeMWSA,,jazz,tracks/3QKJELWORZZ7rUZDWeMWSA.mp3
+761,Elis Regina,Canto De Ossanha,2,1,3,2,3,3,2,2,1,7hli27iuIkMtJJMcLYou25,,jazz,tracks/7hli27iuIkMtJJMcLYou25.mp3
+704,Frank Sinatra,Like Someone in Love,5,4,5,5,5,4,3,1,4,0CaqEVnLB5plVzrlrMjfKT,,jazz,tracks/0CaqEVnLB5plVzrlrMjfKT.mp3
+505,Whitney Houston,I Wanna Dance With Somebody,5,2,5,3,4,5,5,1,1,2tUBqZG2AbRi7Q0BIrVrEj,Ugkxkl1P_hb1huEiQYoB8yrAOtHOcRhZSatO,pop,tracks/Ugkxkl1P_hb1huEiQYoB8yrAOtHOcRhZSatO.mp3
+623,Astrud Gilberto,And Roses And Roses,4,3,5,5,5,3,1,2,4,0BEn0rwSyzuvhKgZ7GLbyO,,jazz,tracks/0BEn0rwSyzuvhKgZ7GLbyO.mp3
+231,eRRdeKa,EdoppelR,2,1,1,1,2,4,2,3,1,,UgkxBl1mEDuDJTcfug2835bM33WCjugjBM_p,hip_hop,tracks/UgkxBl1mEDuDJTcfug2835bM33WCjugjBM_p.mp3
+405,Britney Spears,Where Are You Now,1,1,4,4,4,1,1,2,4,4MOBPIIRUgHTBAp0NpgLTm,,pop,tracks/4MOBPIIRUgHTBAp0NpgLTm.mp3
+568,Marvin Gaye,Sexual Healing,4,2,2,5,4,5,3,2,1,3VZmChrnVW8JK6ano4gSED,Ugkx80MBio8Ru7rwkMHlrJ0potrMvWLEoW0z,pop,tracks/Ugkx80MBio8Ru7rwkMHlrJ0potrMvWLEoW0z.mp3
+317,Modern Talking,"You're My Heart, You're My Soul",1,1,2,2,2,4,2,2,1,0Zn63G0XTiqXwr1KSmARWz,,pop,tracks/0Zn63G0XTiqXwr1KSmARWz.mp3
+183,LL Cool J,Around The Way Girl,3,2,2,3,5,5,3,1,1,4Qxv2L4JICAWLFrBV6QeH8,UgkxMbCDRF2FTSOAr1PU6OBHoM-fbiYzsRIR,hip_hop,tracks/UgkxMbCDRF2FTSOAr1PU6OBHoM-fbiYzsRIR.mp3
+656,Ella Fitzgerald,All of Me,2,2,5,2,2,5,3,1,1,0qZo9OzKPzg58Ts9ad4Bcy,,jazz,tracks/0qZo9OzKPzg58Ts9ad4Bcy.mp3
+654,Louis Prima,Buona Sera,3,1,4,3,3,5,4,2,1,0DXm5n7SBxCED9ssTvrx2J,,jazz,tracks/0DXm5n7SBxCED9ssTvrx2J.mp3
+609,Krewella,Marching On,3,2,2,3,3,4,4,2,2,5LVj9daVd1q6fjICKyvl7Y,,electronic,tracks/5LVj9daVd1q6fjICKyvl7Y.mp3
+626,Billie Holiday,The Man I Love,3,3,5,5,5,1,1,2,3,0ndEbK6LnERIPBG6t4gXDX,,jazz,tracks/0ndEbK6LnERIPBG6t4gXDX.mp3
+485,Britney Spears,Baby One More Time,4,2,4,3,2,5,4,2,1,3MjUtNVVq3C8Fn0MP3zhXa,UgkxuNNi-4AibDVoT7ps_OXBcRHSfbERCYCV,pop,tracks/UgkxuNNi-4AibDVoT7ps_OXBcRHSfbERCYCV.mp3
+278,Suff Daddy,K C Vodka,1,1,1,1,2,3,2,4,1,701ScIvdwIVub5swI6ObLG,,hip_hop,tracks/701ScIvdwIVub5swI6ObLG.mp3
+20,Zero 7,In the Waiting Line,3,3,4,5,5,4,2,2,2,5ARrtxJLVCeTv5TWo1oKgC,,electronic,tracks/5ARrtxJLVCeTv5TWo1oKgC.mp3
+170,DMX,X Gon' Give It To Ya,4,2,2,2,2,5,5,1,1,1zzxoZVylsna2BQB65Ppcb,UgkxMeHC_SJHx7meQn7dBLWcFSeJvrcjj8dO,hip_hop,tracks/UgkxMeHC_SJHx7meQn7dBLWcFSeJvrcjj8dO.mp3
+401,Chaka Khan,So Naughty,2,2,2,3,1,4,5,2,2,1CpsuBEVGtEMR8MqoCa3gK,,funk_soul,tracks/1CpsuBEVGtEMR8MqoCa3gK.mp3
+707,Nara Leï¿½o,Acender As Velas,3,3,4,4,4,3,1,1,2,51WPyWMsRCsQL1rLd0D6EO,,jazz,tracks/51WPyWMsRCsQL1rLd0D6EO.mp3
+566,Angus and Julia Stone,Big Jet Plane,3,2,4,3,5,2,1,1,2,3HedB2EwVAj5MAx8xFE1ea,Ugkxv_U_qXBVuH3ODIY2urwJsO0Rm6HEYYJB,pop,tracks/Ugkxv_U_qXBVuH3ODIY2urwJsO0Rm6HEYYJB.mp3
+176,Blumio,Lass Mal ï¿½ber Haie Reden,2,2,1,1,2,5,4,4,1,2cdXF2fdd1q3wXg7VnxzEJ,,hip_hop,tracks/2cdXF2fdd1q3wXg7VnxzEJ.mp3
+327,Chopin,Impromptu No. 2,4,4,5,5,5,4,1,1,2,,Ugkx05j3YY26icMuOHwlJJp28U55tS6W5DP7,classic,tracks/Ugkx05j3YY26icMuOHwlJJp28U55tS6W5DP7.mp3
+198,Freundeskreis,A-N-N-A,1,2,3,3,4,1,1,2,2,6EWtkdeKmVtRjmydTfIR0S,UgkxMgl6-aZs6hkIbjgGKbpferte9SbBUBnx,hip_hop,tracks/UgkxMgl6-aZs6hkIbjgGKbpferte9SbBUBnx.mp3
+470,Bruno Mars,Grenade,4,2,5,4,2,5,4,2,2,4lLtanYk6tkMvooU0tWzG8,Ugkx3jVwXevI7XbHnLHgOGEn0ZGfGnsqz2-I,pop,tracks/Ugkx3jVwXevI7XbHnLHgOGEn0ZGfGnsqz2-I.mp3
+760,Renee Olstead,A Love That Will Last,4,3,5,5,5,3,1,1,2,4bJbSERtCqK9D6DRUPMmMh,,jazz,tracks/4bJbSERtCqK9D6DRUPMmMh.mp3
+266,Green Day,Know Your Enemy,3,3,5,1,2,5,5,2,1,5qtwzv99vOr5UTwnTixn7j,,rock,tracks/5qtwzv99vOr5UTwnTixn7j.mp3
+615,Alex Clare,Too Close,4,4,5,3,4,5,5,2,2,4sK96UnGx3NjBaqvfTG2dm,,electronic,tracks/4sK96UnGx3NjBaqvfTG2dm.mp3
+492,The Head And The Heart,Rivers And Roads,4,2,5,5,5,2,1,1,4,4fN0dQGDaV4Hg7Gd7mBOE0,UgkxgMkVL3kN_NS4-C46e9EgbwNJj1aih8MD,pop,tracks/UgkxgMkVL3kN_NS4-C46e9EgbwNJj1aih8MD.mp3
+130,Heidi Montag,Love It or Leave It,2,2,2,1,2,4,3,3,1,25pVbxHtM3TdDA6hHwvLfW,,pop,tracks/25pVbxHtM3TdDA6hHwvLfW.mp3
+338,Chopin,Etï¿½de Op. 25 No. 1,4,4,4,5,5,3,2,1,1,,Ugkxios79TvKLDWBve4BpQ-gDXjkPQFhbbsT,classic,tracks/Ugkxios79TvKLDWBve4BpQ-gDXjkPQFhbbsT.mp3
+652,Billie Holiday,Strange Fruit,4,3,5,5,5,1,2,2,5,1CTex49P0iWwzUGsMNjgaV,,jazz,tracks/1CTex49P0iWwzUGsMNjgaV.mp3
+489,Panic! at the Disco,Nine In The Afternoon,4,3,3,3,3,5,4,2,1,1S30kHvkkdMkcuCTGSgS41,UgkxpMvawDtC--K3ew0T2xhMArA3w-vcvNHc,pop,tracks/UgkxpMvawDtC--K3ew0T2xhMArA3w-vcvNHc.mp3
+572,Black Eyed Peas,I Gotta Feeling,5,2,5,1,2,5,5,2,1,4kLLWz7srcuLKA7Et40PQR,UgkxHufLO18mbaTP7D7J51qS37IciumNGtZo,pop,tracks/UgkxHufLO18mbaTP7D7J51qS37IciumNGtZo.mp3
+606,Phil Collins,Two Hearts,2,1,5,4,2,5,3,1,1,0vDSWxRlWN0LWsSQdGIPuE,,rock,tracks/0vDSWxRlWN0LWsSQdGIPuE.mp3
+193,The Roots,You Got Me,3,2,4,3,3,2,2,2,2,4pdLZsxq0y5oJDb6Cxlokw,Ugkxu01TdXlyzUBaA1uxYlVxUTn3Z0cXaUh5,hip_hop,tracks/Ugkxu01TdXlyzUBaA1uxYlVxUTn3Z0cXaUh5.mp3
+140,Good Charlotte,I Don't Wanna Be In Love (Dance Floor Anthem),2,2,4,1,2,5,5,2,1,36UVZPoK8a1Oxh13cY8kOp,,rock,tracks/36UVZPoK8a1Oxh13cY8kOp.mp3
+416,Hot Chip,So Glad to See You,2,2,3,4,3,2,1,2,1,0PCYXSyESysJ1Eodxjyn9p,,electronic,tracks/0PCYXSyESysJ1Eodxjyn9p.mp3
+476,Bon Iver,Skinny Love,5,4,5,5,5,4,2,1,2,1HkOPLwAJH3kE8UnqgxF4s,,pop,tracks/1HkOPLwAJH3kE8UnqgxF4s.mp3
+152,Burial,Untrue,2,2,2,2,2,4,3,3,1,1aaIYTqoRDzRUilU2Q6vTe,,electronic,tracks/1aaIYTqoRDzRUilU2Q6vTe.mp3
+686,Candlemass,The Ebony Throne,2,2,3,1,1,1,4,5,2,710qdYprxjsTDzCyW2xUWQ,,rock,tracks/710qdYprxjsTDzCyW2xUWQ.mp3
+10,Busted,Over Now,3,2,5,3,2,4,4,2,4,70uvMWoagPhT9NeymzQxav,,rock,tracks/70uvMWoagPhT9NeymzQxav.mp3
+269,Claptu,sad octopus,3,2,5,4,5,1,1,1,1,6IGd96b2eVkKVhwCW1NJ1e,,hip_hop,tracks/6IGd96b2eVkKVhwCW1NJ1e.mp3
+96,Teena Marie,Revolution,1,3,3,1,2,4,3,1,2,7re1yRjy442DIAIVUgCaBN,,funk_soul,tracks/7re1yRjy442DIAIVUgCaBN.mp3
+210,Action Bronson,Actin Crazy,2,2,1,1,3,4,3,4,1,3clX2NMmjaAHmBjeTSa9vV,UgkxB6BmDvjHIlfMegxsTkAL3QsvWuGjqc8U,hip_hop,tracks/UgkxB6BmDvjHIlfMegxsTkAL3QsvWuGjqc8U.mp3
+755,Prince,Kiss,3,3,5,3,2,5,4,2,1,62LJFaYihsdVrrkgUOJC05,,funk_soul,tracks/62LJFaYihsdVrrkgUOJC05.mp3
+569,The Kooks,Naive,4,3,5,3,4,5,3,1,1,7BHPGtpuuWWsvE7cCaMuEU,UgkxIfqh2W_vjI850bs5t59AQ3eY3r_9m6ib,pop,tracks/UgkxIfqh2W_vjI850bs5t59AQ3eY3r_9m6ib.mp3
+548,B.O.B.,Nothing On You,5,3,4,4,4,5,3,1,1,4X5xWMINgGA6l0GoyYkMcr,UgkxCgXfMr1h4vSaB0uGDI1TrXKL-83WFZyR,pop,tracks/UgkxCgXfMr1h4vSaB0uGDI1TrXKL-83WFZyR.mp3
+722,Who Is Fancy,GOODBYE,4,2,2,4,3,3,2,2,2,6K5xY7EabiBLjd2HuBQIak,,pop,tracks/6K5xY7EabiBLjd2HuBQIak.mp3
+532,Backstreet Boys,Everybody,5,1,5,1,1,5,5,2,1,1di1BEgJYzPvXUuinsYJGP,UgkxLGSKI0SJjf-ZvA0lqIxxIBeF4wnzxeoA,pop,tracks/UgkxLGSKI0SJjf-ZvA0lqIxxIBeF4wnzxeoA.mp3
+714,Lighthouse Family,Ain't No Sunshine,5,4,5,5,5,4,2,2,5,435rQGMojc5C6xJbtjeynu,,funk_soul,tracks/435rQGMojc5C6xJbtjeynu.mp3
+332,Tschaikowski,Schwanensee,5,5,4,4,2,5,4,2,2,,UgkxXJNF8Uu-6OHEdFC3fpjZMqWeBtvWLTG-,classic,tracks/UgkxXJNF8Uu-6OHEdFC3fpjZMqWeBtvWLTG-.mp3
+75,Jennifer Hudson,Moan,4,4,5,5,5,3,5,1,4,5jpo5CggeyVEQSHoXVhBqh,,funk_soul,tracks/5jpo5CggeyVEQSHoXVhBqh.mp3
+77,Melody Gardot,Worrisome Heart,4,3,5,5,5,4,4,2,2,3zh5km8gPDYMiWvmLTsos0,,jazz,tracks/3zh5km8gPDYMiWvmLTsos0.mp3
+263,Public Enemy,Harder Than You Think,4,2,1,1,2,5,5,3,1,5YpZh8wfS4moRBk0ijNcXr,UgkxpVOO0TSOqDoD9F6HShVu3Th8Pvs-qxbq,hip_hop,tracks/UgkxpVOO0TSOqDoD9F6HShVu3Th8Pvs-qxbq.mp3
+149,Nero,My Eyes,3,4,2,1,2,3,5,5,1,4gMIZhJUOCjmQxo1fwhhnK,,electronic,tracks/4gMIZhJUOCjmQxo1fwhhnK.mp3
+713,Cathedral,Hopkins (The Witchfinder General),2,2,2,1,2,4,5,3,1,2BiEmhDluMGJyfG0Dd061S,,rock,tracks/2BiEmhDluMGJyfG0Dd061S.mp3
+514,Rihanna,Umbrella,5,2,5,2,2,5,2,2,1,49FYlytm3dAAraYgpoJZux,UgkxO7FJbeCJsFgWY8VO-TP6bTqL0CGLeQlV,pop,tracks/UgkxO7FJbeCJsFgWY8VO-TP6bTqL0CGLeQlV.mp3
+719,Beck,Tropicalia,3,2,4,3,2,4,2,2,1,6rx6Ew1sday1KvsnD4HNdI,,jazz,tracks/6rx6Ew1sday1KvsnD4HNdI.mp3
+469,Katie Tunstall,Suddenly I See,5,2,3,3,3,5,5,1,1,5p9XWUdvbUzmPCukOmwoU3,Ugkxiw2wzDrVBgD9-ufXze-4AHr4IZN8o3mo,pop,tracks/Ugkxiw2wzDrVBgD9-ufXze-4AHr4IZN8o3mo.mp3
+564,Arctic Monkeys,Do I Wanna Know,4,4,4,2,3,4,4,1,1,5FVd6KXrgO9B3JPmC8OPst,Ugkx3C93_K7mw93V4DJ7PUu7FluA0Qo_7WQf,pop,tracks/Ugkx3C93_K7mw93V4DJ7PUu7FluA0Qo_7WQf.mp3
+461,Lady Gaga,Pokerface,4,2,4,1,2,5,5,1,1,1QV6tiMFM6fSOKOGLMHYYg,UgkxkOxrG1xvuhSDYypwMKFCijhV_a-eYS77,pop,tracks/UgkxkOxrG1xvuhSDYypwMKFCijhV_a-eYS77.mp3
+253,Wiz Khalifa,"Young, Wild & Free",4,2,4,2,2,5,3,3,1,5HQVUIKwCEXpe7JIHyY734,UgkxCvIDJmDT3LI2bByGdPRUfLQcjUwxCj63,hip_hop,tracks/UgkxCvIDJmDT3LI2bByGdPRUfLQcjUwxCj63.mp3
+369,Rachmaninow,Prï¿½ludes op. 32 no. 5,4,2,5,5,5,2,1,1,1,,Ugkx61Zy9gilFKWKvUGJ-dkPTiaQXWSET-mg,classic,tracks/Ugkx61Zy9gilFKWKvUGJ-dkPTiaQXWSET-mg.mp3
+321,Alfvï¿½n,Midsommarvaka,5,5,2,5,5,4,3,1,1,6bnYnAVPzpWLqG4mqC9gc3,,classic,tracks/6bnYnAVPzpWLqG4mqC9gc3.mp3
+151,Elis Regina,Como Nossos Pais,3,3,3,4,2,3,3,2,3,2ZC8sdv4Kvuql7Q9T8Agzv,,jazz,tracks/2ZC8sdv4Kvuql7Q9T8Agzv.mp3
+302,Paul McCartney,The Lovely Linda,3,2,5,4,5,4,1,1,2,0Ca2mDERpTFmnttcSt9UcR,,rock,tracks/0Ca2mDERpTFmnttcSt9UcR.mp3
+190,Chance The Rapper,Summer Friends,1,1,1,2,3,4,1,3,1,2fl0B0OaXjWbjHCQFx2O8W,Ugkx3xlTENI-JXgKuo3V07OjMtslbm5vFWD5,hip_hop,tracks/Ugkx3xlTENI-JXgKuo3V07OjMtslbm5vFWD5.mp3
+586,Fletwood Mac,Dreams,3,3,5,4,5,4,1,1,1,0ofHAoxe9vBkTCp2UQIavz,UgkxQMbhr2z_eKAUDgf3qBfU2f1FvLS8GTTw,pop,tracks/UgkxQMbhr2z_eKAUDgf3qBfU2f1FvLS8GTTw.mp3
+348,Bizet,Carmen (Habanera),4,2,3,2,3,5,4,2,1,,UgkxH5OjhFpFt-iY89uRAYiUQnuGx9mBA4au,classic,tracks/UgkxH5OjhFpFt-iY89uRAYiUQnuGx9mBA4au.mp3
+243,Chinese Man,I've Got That Tune,4,2,2,2,4,5,4,2,1,6ZOeDXutLpSGqA1sSL6LrL,Ugkxl8V8xIDseh5mZvsg3Ry96BpP--D9opcP,hip_hop,tracks/Ugkxl8V8xIDseh5mZvsg3Ry96BpP--D9opcP.mp3
+87,Cerrone,Give Me Love,4,3,5,3,4,5,4,2,2,30EaKbkhCzCAxVccAaYzGA,,funk_soul,tracks/30EaKbkhCzCAxVccAaYzGA.mp3
+655,Santigold,The Keepers,2,3,3,1,2,4,4,2,2,1BaVwEV5FogbZuCzpSc7Jl,,electronic,tracks/1BaVwEV5FogbZuCzpSc7Jl.mp3
+696,Jamie Cullum,Mind Trick,4,3,5,4,5,5,4,1,1,1rLs5c68LOspqWKcCMdXKO,,jazz,tracks/1rLs5c68LOspqWKcCMdXKO.mp3
+418,Leftfield,Release the Pressure,3,2,2,2,4,5,3,2,2,6SpP5cpf4dY8AFFtXEfqmA,,electronic,tracks/6SpP5cpf4dY8AFFtXEfqmA.mp3
+288,t.A.T.u.,All the Things She Said,4,3,4,3,2,5,5,2,2,4bJygwUKrRgq1stlNXcgMg,,pop,tracks/4bJygwUKrRgq1stlNXcgMg.mp3
+648,Katatonia,Last Resort,1,2,4,1,2,3,3,5,4,2gtu8xsu1VGahuRJ2YZAHA,,rock,tracks/2gtu8xsu1VGahuRJ2YZAHA.mp3
+166,Sï¿½rgio Mendes,Mas que nada,2,3,3,2,4,5,3,2,1,6U7GUjtamt2P0LcFod1dBT,,jazz,tracks/6U7GUjtamt2P0LcFod1dBT.mp3
+595,Nina Simone,I Want a Little Sugar in My Bowl,4,3,5,5,5,3,2,1,4,3NcJu9876GBJuNU6vJOrbb,,jazz,tracks/3NcJu9876GBJuNU6vJOrbb.mp3
+717,The Jacksons,Blame It on the Boogie,5,4,5,3,2,5,5,1,1,3qI94hINNNeb4S7xQi18lS,,funk_soul,tracks/3qI94hINNNeb4S7xQi18lS.mp3
+155,The Cinematic Orchestra,Ma Fleur,3,2,4,4,5,2,2,2,3,3AqPL1n1wKc5DVFFnYuJhp,,electronic,tracks/3AqPL1n1wKc5DVFFnYuJhp.mp3
+356,Lalo,Symphonie espagnole,5,4,2,2,4,5,3,2,1,,UgkxUZYPzWKM30sUaKQw_uvovRYp978C0MYu,classic,tracks/UgkxUZYPzWKM30sUaKQw_uvovRYp978C0MYu.mp3
+381,Chopin,Waltz Op.69 No.2,4,2,4,4,5,4,1,2,1,,UgkxmgvSvVKZ8-sYhYcb76BaYxtKTXZp1F0Z,classic,tracks/UgkxmgvSvVKZ8-sYhYcb76BaYxtKTXZp1F0Z.mp3
+279,The Deli,5:32pm,2,3,5,4,5,2,1,2,1,7qrBYrivpvfXUPBMmqh3dA,,hip_hop,tracks/7qrBYrivpvfXUPBMmqh3dA.mp3
+126,Mark Ronson,Uptown Funk,2,3,4,3,1,5,5,2,1,32OlwWuMpZ6b0aN2RZOeMS,,funk_soul,tracks/32OlwWuMpZ6b0aN2RZOeMS.mp3
+22,Bobby Caldwell,Open Your Eyes,2,2,5,5,5,5,3,1,1,1Yrgyxebkguu4MGFkDoINo,,jazz,tracks/1Yrgyxebkguu4MGFkDoINo.mp3
+616,Yoav,Club Thing,1,3,2,3,3,3,3,3,1,7LDqph6mv9A5uzlzuXfhyL,,electronic,tracks/7LDqph6mv9A5uzlzuXfhyL.mp3
+665,Feed Me,One Click Headshot,2,1,3,1,2,4,3,3,1,4z7t5KsfkxMC1PdOLgog4V,,electronic,tracks/4z7t5KsfkxMC1PdOLgog4V.mp3
+282,Rancid,Time Bomb,1,1,3,1,1,5,4,3,1,41kg2RvdwBuIv0OPpvBS4v,,rock,tracks/41kg2RvdwBuIv0OPpvBS4v.mp3
+471,Macklemore,Same Love,5,3,5,5,4,5,2,1,1,01uqI4H13Gsd8Lyl1EYd8H,UgkxuB37w_IKefXDD5QrBIjRGgLlY6hrVi-H,pop,tracks/UgkxuB37w_IKefXDD5QrBIjRGgLlY6hrVi-H.mp3
+367,Skrjabin,Prï¿½ludes op. 11 no. 15,4,3,4,3,5,2,1,1,1,,UgkxC5w33irJhDDR6Iuf4qAPBh-TMkOaNTwS,classic,tracks/UgkxC5w33irJhDDR6Iuf4qAPBh-TMkOaNTwS.mp3
+25,Cï¿½line Dion,Je crois toi,4,4,4,5,4,1,2,2,4,3CehtvHVAVPaaukPIIL67r,,pop,tracks/3CehtvHVAVPaaukPIIL67r.mp3
+196,Eminem,Mockingbird,4,2,5,2,2,2,2,3,5,561jH07mF1jHuk7KlaeF0s,Ugkxgie5MI-cRMFrgZHXb5x44t3tkLgpM5CJ,hip_hop,tracks/Ugkxgie5MI-cRMFrgZHXb5x44t3tkLgpM5CJ.mp3
+64,Nicki Minaj,Starships,3,4,2,2,2,5,5,4,1,1oHNvJVbFkexQc0BpQp7Y4,,pop,tracks/1oHNvJVbFkexQc0BpQp7Y4.mp3
+15,Jam & Spoon,Right in the Night (Fall in Love With Music),3,4,4,3,4,5,5,2,2,6x6G0shZs4Qg4YLfLbhR7z,,electronic,tracks/6x6G0shZs4Qg4YLfLbhR7z.mp3
+466,Jeremy Kay,Have It All,4,2,3,5,4,4,3,1,2,2lt8MKIve6BMPAJ6xfH8bL,,pop,tracks/2lt8MKIve6BMPAJ6xfH8bL.mp3
+297,Darren Styles,Cutting Deep,2,4,1,1,1,5,5,4,1,2GOGJIN0VMUFrHtyKvmkQn,,electronic,tracks/2GOGJIN0VMUFrHtyKvmkQn.mp3
+621,Sara Gazarek,Yours,1,1,4,5,5,4,1,1,1,3STjN5FAkJiljtZzrSeE0I,,jazz,tracks/3STjN5FAkJiljtZzrSeE0I.mp3
+336,Beethoven,Sinfonie Nr. 6,5,3,2,4,4,4,2,1,1,,Ugkx1Ej3b9qA_WObxshPovM-pu8oSGSi9M72,classic,tracks/Ugkx1Ej3b9qA_WObxshPovM-pu8oSGSi9M72.mp3
+26,Submotion Orchestra,Variations,2,1,1,4,5,1,1,1,1,3qzxORCDY3UpbvT7p7WYIE,,electronic,tracks/3qzxORCDY3UpbvT7p7WYIE.mp3
+588,Der Junge mit der Gitarre,Hallo Worum Gehts Ich Bin Dagegen,3,2,1,1,1,5,4,2,1,2v9P6UeIJkWBz2NnvGvZIr,,pop,tracks/2v9P6UeIJkWBz2NnvGvZIr.mp3
+43,Anathema,Crestfallen,1,1,1,1,1,1,4,5,2,3Ca1PahHy0AowFpNwHzJM2,,rock,tracks/3Ca1PahHy0AowFpNwHzJM2.mp3
+497,Bruno Mars,Treasure,4,2,2,3,4,5,4,2,1,55h7vJchibLdUkxdlX3fK7,Ugkx-rrC5IaUoZr3-24uYboRqWLTaFxxw8ho,funk_soul,tracks/Ugkx-rrC5IaUoZr3-24uYboRqWLTaFxxw8ho.mp3
+515,Vanessa Carlton,A Thousand Miles,5,1,5,4,4,5,2,1,1,4w1lzcaoZ1IC2K5TwjalRP,UgkxQ2vunX6qRD62Hmm-iVMY0elLoFT-EIi6,pop,tracks/UgkxQ2vunX6qRD62Hmm-iVMY0elLoFT-EIi6.mp3
+732,Katatonia,Deliberation,2,2,2,1,1,2,4,5,2,3z7jm3G3rdp05oTzYWkHNi,,rock,tracks/3z7jm3G3rdp05oTzYWkHNi.mp3
+561,David Gray,Please Forgive me,3,2,2,1,3,3,1,2,1,2H0oiflYrs8PPjOxZ5TdIu,Ugkx5ik9HReAChsNTE22YWQIw-mB6CM4BcGX,pop,tracks/Ugkx5ik9HReAChsNTE22YWQIw-mB6CM4BcGX.mp3
+454,Jamiroquai,Virtual Insanity,5,2,4,3,4,5,5,1,1,2Bxt2qamL6iu0XN0Td484J,UgkxgVQ5ux4pXyn83sb16otHzXBiTCpTh2V-,pop,tracks/UgkxgVQ5ux4pXyn83sb16otHzXBiTCpTh2V-.mp3
+387,Lake of Tears,So Fell Autumn Rain,2,2,2,1,1,2,4,2,2,2sXOtMnG1wfnNsNUQ6oDPR,,rock,tracks/2sXOtMnG1wfnNsNUQ6oDPR.mp3
+71,Vinï¿½cius de Moraes,Samba em Prelï¿½dio,4,3,5,5,5,2,1,1,3,7yYKjc8k6UrqeBig0bDeFy,,jazz,tracks/7yYKjc8k6UrqeBig0bDeFy.mp3
+542,Babybird,If You'll Be Mine,3,1,3,4,5,3,2,1,1,5EMnZ3vruQchFxvGTxr0zH,,pop,tracks/5EMnZ3vruQchFxvGTxr0zH.mp3
+456,Aerosmith,I Don't Want To Miss A Thing,5,3,5,5,5,5,5,1,2,225xvV8r1yKMHErSWivnow,UgkxyD8sASPRaSOcUov9UHcKBrJOi3e8ktUQ,pop,tracks/UgkxyD8sASPRaSOcUov9UHcKBrJOi3e8ktUQ.mp3
+633,Marina and the Diamonds,Gold,4,2,2,4,3,5,2,1,1,31cL2Hdc40Rck0wH1sDEja,,pop,tracks/31cL2Hdc40Rck0wH1sDEja.mp3
+431,Cissy Houston,Think It Over,3,3,3,2,2,5,5,3,1,09HKieZL31JLWTb2s5tm6I,,funk_soul,tracks/09HKieZL31JLWTb2s5tm6I.mp3
+627,James Blake,Timeless,1,2,1,1,1,2,4,5,1,49jxn2Mdde8QZUx0AlbD0l,,electronic,tracks/49jxn2Mdde8QZUx0AlbD0l.mp3
+653,Alesso,Sweet Escape,4,5,3,2,2,5,5,3,1,6vPJvkEuWZPcv58NnQ3dBR,,electronic,tracks/6vPJvkEuWZPcv58NnQ3dBR.mp3
+264,Mattafix,Big City Life,4,3,3,2,4,5,3,2,1,4stm6lf1vQBSl7Eq4Npzr0,UgkxSGQfRxnFhbwBogiTRiiADnSJ5HdoUsYa,hip_hop,tracks/UgkxSGQfRxnFhbwBogiTRiiADnSJ5HdoUsYa.mp3
+209,Beastie Boys,Fight For Your Right,4,2,2,1,1,5,5,4,1,5NLuC70kZQv8q34QyQa1DP,UgkxLiBRjEcNV1_KdoYV9fExBB4JoIZqPXl1,hip_hop,tracks/UgkxLiBRjEcNV1_KdoYV9fExBB4JoIZqPXl1.mp3
+316,Sandy,Aquela dos 30,3,2,2,2,2,5,3,2,1,13P1ZQvK9lejmHM6h8Pnbk,,pop,tracks/13P1ZQvK9lejmHM6h8Pnbk.mp3
+513,David Guetta,Memories,2,1,2,1,1,5,4,3,1,5xYC48nOppVemY6U5GRGTb,UgkxeW-A20ALNhf8q1xKQEVG8JVOkcbXqygx,pop,tracks/UgkxeW-A20ALNhf8q1xKQEVG8JVOkcbXqygx.mp3
+313,My Dying Bride,For My Fallen Angel,5,4,4,5,5,1,3,2,5,5oVSFQUi1hBYYRiNeOwfWy,,rock,tracks/5oVSFQUi1hBYYRiNeOwfWy.mp3
+534,Imogen Heap,Hide and Seek,2,2,4,1,3,1,1,2,3,7mMlbJlXXo2mRtQ4R9sIzD,UgkxReRV3zEnaaqLnC9E3lodVi2eVKn2keyd,pop,tracks/UgkxReRV3zEnaaqLnC9E3lodVi2eVKn2keyd.mp3
+319,Hï¿½ndel,Lascia ch'io pianga,2,4,2,4,5,3,2,1,2,,UgkxYADFt-D1EmdXoVDO2KJ0fQlgTNRiB0J3,classic,tracks/UgkxYADFt-D1EmdXoVDO2KJ0fQlgTNRiB0J3.mp3
+7,Ashley Tisdale,Suddenly,4,4,4,5,5,2,3,1,4,6YD8kmD2SQw5uwQGFZ9W9n,,pop,tracks/6YD8kmD2SQw5uwQGFZ9W9n.mp3
+393,"Hamilton, Joe Frank & Reynolds",Don't Pull Your Love,2,2,3,5,4,4,2,2,1,7tJsTykoo4Jk5JguHTx9W7,,rock,tracks/7tJsTykoo4Jk5JguHTx9W7.mp3
+141,Bonobo,Nightlite,5,4,3,2,4,4,4,2,2,1gI1nC5E3ObyMtejdc8crP,,electronic,tracks/1gI1nC5E3ObyMtejdc8crP.mp3
+86,Kool & The Gang,Celebration,4,2,5,2,3,5,5,1,1,3K7Q9PHUWPTaknlbFPThn2,,funk_soul,tracks/3K7Q9PHUWPTaknlbFPThn2.mp3
+478,Brett Dennen,Closer To You,3,1,4,4,5,2,1,1,1,2NqSfApThFnUxlKaj4tnXB,UgkxZe58fNuASC2aCErF3xzGg5JqZFoV97YM,pop,tracks/UgkxZe58fNuASC2aCErF3xzGg5JqZFoV97YM.mp3
+503,Aretha Franklin,(You Make Me Feel Like) A Natural Woman,4,3,4,4,3,5,4,1,1,5K09WxKdlkroDyEVyOSySy,UgkxAxl_euy_NSiF65UEnOXUQ_rhHCK4doqc,pop,tracks/5K09WxKdlkroDyEVyOSySy.mp3
+215,D-12,Fight Music,1,2,1,1,1,5,5,4,1,3vBv2Tp0kHyBDUBZJr9GXQ,UgkxfSmvrq1hqByszPlR8lZYn7VfLMdBP7xj,hip_hop,tracks/UgkxfSmvrq1hqByszPlR8lZYn7VfLMdBP7xj.mp3
+580,Gary Jules,Mad World,4,2,5,2,4,1,1,1,5,3JOVTQ5h8HGFnDdp4VT3MP,UgkxtyssG62_onzp6HEPprFdOI9dOulolVnR,pop,tracks/3JOVTQ5h8HGFnDdp4VT3MP.mp3
+562,Paramore,The Only Exception,2,2,4,3,4,3,1,1,2,3ZHfX6kbiY7JVsB63lLOLu,UgkxnciX8ktBt6h1hcv0NlSR362q0NW7a92F,pop,tracks/UgkxnciX8ktBt6h1hcv0NlSR362q0NW7a92F.mp3
+398,Imagination,Music and Lights,4,3,5,5,3,5,4,1,1,3kEA66ZM9mCxwhynOxgsLh,,funk_soul,tracks/3kEA66ZM9mCxwhynOxgsLh.mp3
+668,Swing Out Sister,You On My Mind,1,2,2,2,3,4,2,2,1,4uYeKlfkLQMubZ9FhcbDfP,,jazz,tracks/4uYeKlfkLQMubZ9FhcbDfP.mp3
+490,Arctic Monkeys,Fluorescent Adolescent,5,2,3,2,3,5,4,1,1,2x8evxqUlF0eRabbW2JBJd,UgkxFpmf6nVY8mMY9E2qN1GPC8r7jZ7qaDVJ,pop,tracks/UgkxFpmf6nVY8mMY9E2qN1GPC8r7jZ7qaDVJ.mp3
+252,Marteria,Kids,1,2,1,1,2,5,2,3,1,6lxTIMeCLEkj48TlCRG3XX,UgkxkOCPBrbry70xR48trTHolY2-UZ16kstQ,hip_hop,tracks/UgkxkOCPBrbry70xR48trTHolY2-UZ16kstQ.mp3
+468,Enya,Only Time,4,5,5,4,5,3,3,1,3,6FLwmdmW77N1Pxb1aWsZmO,UgkxEUYgE850H2Vn3J6Mib6bW_dZNqnfvhCD,pop,tracks/UgkxEUYgE850H2Vn3J6Mib6bW_dZNqnfvhCD.mp3
+357,Verdi,Requiem (Dies Irae),3,5,1,1,1,4,5,5,1,,Ugkxna9k57bVYBGKF6_S-xrUOUyKFjnPclD-,classic,tracks/Ugkxna9k57bVYBGKF6_S-xrUOUyKFjnPclD-.mp3
+254,Why SL Know Plug,Rite Back,2,2,1,1,1,5,3,2,1,5c2LdL9xlXX0CyPry5UDIR,UgkxtqzDFHjQIkX5tSVrUyjyEoXFIbxKSV7b,hip_hop,tracks/UgkxtqzDFHjQIkX5tSVrUyjyEoXFIbxKSV7b.mp3
+276,Lord Finesse,Midas Era,3,3,2,1,4,5,2,3,1,6v0AYQ5YoF51yzGY0v0Dyg,,hip_hop,tracks/6v0AYQ5YoF51yzGY0v0Dyg.mp3
+178,The Pharcyde,Passin' Me By,3,1,1,2,2,5,3,4,1,4G3dZN9o3o2X4VKwt4CLts,,hip_hop,tracks/4G3dZN9o3o2X4VKwt4CLts.mp3
+281,No Spirit,Glowing Lights,1,2,3,3,5,1,1,1,1,3KunPHIvhxrUaHny2Z1J9w,,hip_hop,tracks/3KunPHIvhxrUaHny2Z1J9w.mp3
+390,Panic! at the Disco,Death of a Bachelor,2,1,2,4,3,2,1,2,1,1BECwm5qkaBwlbfo4kpYx8,,jazz,tracks/1BECwm5qkaBwlbfo4kpYx8.mp3
+508,Justin Bieber,Love Yourself,3,2,4,5,5,4,1,1,2,50kpGaPAhYJ3sGmk6vplg0,UgkxfJUeujTh66zSIpNMqkr_TTNR2NSL0Oiz,pop,tracks/UgkxfJUeujTh66zSIpNMqkr_TTNR2NSL0Oiz.mp3
+749,Grace Jones,Scary But Fun,1,1,2,1,2,2,3,3,3,6ulf6TKwgoeKjNM7GPHmII,,funk_soul,tracks/6ulf6TKwgoeKjNM7GPHmII.mp3
+583,Eric Clapton,Tears In Heaven,5,4,5,5,5,1,1,1,4,7utRJ4BeYx85khzP3lKoBX,UgkxxEFa8-Gy3pVOySexdjb0g18Q75s0Le1z,pop,tracks/UgkxxEFa8-Gy3pVOySexdjb0g18Q75s0Le1z.mp3
+129,Pinball,Come Into My Dream,3,2,2,2,2,5,4,3,1,2JPFEnjLROchH7qqoRy9Vl,,electronic,tracks/2JPFEnjLROchH7qqoRy9Vl.mp3
+144,Babybird,You're Gorgeous,2,1,2,1,4,4,1,1,1,5COBer69wpwkCPPaLr1gFb,,pop,tracks/5COBer69wpwkCPPaLr1gFb.mp3
+645,Laura Pausini,Jenny,3,3,3,5,4,2,2,1,3,51ulZ6HIucARLOODM8smpU,,pop,tracks/51ulZ6HIucARLOODM8smpU.mp3
+715,Demi Lovato,Without the Love,2,1,3,2,1,4,5,3,3,4YD5RuRjByJ6Sz0srp5Aii,,pop,tracks/4YD5RuRjByJ6Sz0srp5Aii.mp3
+72,Chet Baker,The Thrill Is Gone,5,4,5,5,5,1,1,1,5,0kKQreifydSOeqZzHkNW67,,jazz,tracks/0kKQreifydSOeqZzHkNW67.mp3
+235,Drake,Too Much,3,2,4,2,3,3,3,2,1,5LnXWeA9tuWKI2C1H74iiJ,UgkxwsSGKlnDB4tYHlE1dMUzGlV0JJVOL7ce,hip_hop,tracks/5LnXWeA9tuWKI2C1H74iiJ.mp3
+37,Boney M.,Rasputin,2,3,5,1,2,5,5,2,1,5jkFvD4UJrmdoezzT1FRoP,,funk_soul,tracks/5jkFvD4UJrmdoezzT1FRoP.mp3

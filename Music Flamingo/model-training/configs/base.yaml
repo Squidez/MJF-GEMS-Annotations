@@ -4,7 +4,7 @@ model:
   lora:
     r: 16
     alpha: 32
-    dropout: 0.05
+    dropout: 0.1
     target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj","up_proj","down_proj",]
 
 data:
@@ -16,7 +16,7 @@ training:
   epochs: 10
   batch_size: 4
   grad_accum: 4
-  lr: 0.00002
+  lr: 0.0002
   weight_decay: 0.01
   early_stopping_patience: 3
   output_dir: "./checkpoints"
