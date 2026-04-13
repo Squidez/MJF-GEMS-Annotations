@@ -4,3 +4,5 @@ tracks/
 voxtral-mini/
 music-flamingo/
 **/checkpoints/
+**/MF-fine-tuned
+**/Voxtral-fine-tuned

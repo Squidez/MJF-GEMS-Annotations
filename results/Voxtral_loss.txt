@@ -1,0 +1,7 @@
+Epoch 1/10 | train_loss: 0.2002 | val_loss: 0.1865
+Epoch 2/10 | train_loss: 0.1767 | val_loss: 0.1718
+Epoch 3/10 | train_loss: 0.1654 | val_loss: 0.1778
+Epoch 4/10 | train_loss: 0.1571 | val_loss: 0.1701
+Epoch 5/10 | train_loss: 0.1474 | val_loss: 0.1789
+Epoch 6/10 | train_loss: 0.1365 | val_loss: 0.1885
+Epoch 7/10 | train_loss: 0.1243 | val_loss: 0.1868

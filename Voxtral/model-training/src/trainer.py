@@ -99,7 +99,7 @@ def train(config, device):
             best_val_loss = avg_val_loss
             patience_counter = 0
             model.save_pretrained(f"{config.training.output_dir}/best")
-            processor.save_pretrained(f"{config.training.output_dir}/best")
+            # processor.save_pretrained(f"{config.training.output_dir}/best") # Creates an unsable tokenizer
             print(f"Saved best model (val_loss={best_val_loss:.4f})")
         else:
             # Increment counter and stop early if patience is exhaust
