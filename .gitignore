@@ -1,7 +1,11 @@
 venv/
 .vscode/
 tracks/
-mellow/
 voxtral-mini/
-music-famingo/
-music-flamingo-checkpoints/
+music-flamingo/
+**/checkpoints/
+**/MF-fine-tuned
+**/Voxtral-fine-tuned
+raw_mjf_tracks/
+mjf_tracks/
+*/mjf_yt_download.py
