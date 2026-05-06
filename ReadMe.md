@@ -23,8 +23,10 @@ The last phase of the study consisted of a LoRA fine-tuning of the two models on
 
 <img src = "graphs/kappa_vm_promt_start.png" width = 75% alt = "Weighted Cohen's kappa for base models vs. Fine-tuned models">
 
+The fine-tuned version of *Voxtral Mini* was tested on new data consisting of music excerpts from concerts at the Montreal Jazz Festival. A small dataset was annotated using GEMS, and the responses of the single annotator were compared to the model’s predictions.
+
 ## Code and execution
-<details>
+<details open>
 <summary><strong>Detailed Project file structure</strong></summary>
 <pre>
 MJF-GEMS-Annotations
@@ -80,15 +82,15 @@ MJF-GEMS-Annotations
 ### Initialisation
 
 I recommend creating a virtual enviroment for the ececution of the different scripts. To do so execute the following line in the CLI:
-```
+```bash
 python -m venv ven
 ```
 Access the environement with the following command:
-```
+```bash
 ven/Scripts/activate
 ```
 Install all the dependencies. (The version of the packages is important, some newer version introduce errors.)
-```
+```bash
 pip install -r requierments.txt
 ```
 ### Using the models
@@ -107,10 +109,10 @@ To fine-tune the models, execute the following commands in the CLI from their re
 python train.py --config configs/base.yaml
 ```
 - Debug fine-tuning:<br>
-```
+```bash
 python train.py --config configs/base.yaml --override configs/debug.yaml
 ```
 - Fine-tuning with custom hyperparameters:<br>
-```
+```bash
 python train.py --config configs/base.yaml epochs=1 lr=1e-4
 ```
