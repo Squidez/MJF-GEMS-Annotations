@@ -6,3 +6,6 @@ music-flamingo/
 **/checkpoints/
 **/MF-fine-tuned
 **/Voxtral-fine-tuned
+raw_mjf_tracks/
+mjf_tracks/
+*/mjf_yt_download.py

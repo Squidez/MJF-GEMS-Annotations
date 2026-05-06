@@ -24,7 +24,8 @@ def download_youtube_excerpt (clip_url: str, output_dir: str):
     yt_opts = {
     'verbose': True,
     'format': 'm4a/bestaudio/best',
-    'outtmpl': f'{output_dir}/{id}.%(ext)s',
+    'outtmpl': f'{output_dir}/%(title).%(ext)s',
+    "download_sections": ["*0-300"], 
     'force_keyframes_at_cuts': True,
     'postprocessors': [{
         'key': 'FFmpegExtractAudio',
