@@ -19,11 +19,14 @@ Three prompting strategies were also evaluated:
 </p>
 
 
-The last phase of the study consisted of a LoRA fine-tuning of the two models on the EMMA dataset. The resut of the finetune showed significant improvments for *Voxtral Mini*, whereas *Music Flamingo's* prediction collapsed towards the dominant scores in the dataset.
+The two models were fine-tuned on the EMMA dataset using the optimal scoring format and prompting strategy. Fine-tuning was performed with LoRA.
+The results show a significant improvement for *Voxtral Mini*. In contrast, *Music Flamingo’s* predictions collapsed toward the dominant score distribution in the dataset.
 
 <img src = "graphs/kappa_vm_promt_start.png" width = 75% alt = "Weighted Cohen's kappa for base models vs. Fine-tuned models">
 
-The fine-tuned version of *Voxtral Mini* was tested on new data consisting of music excerpts from concerts at the Montreal Jazz Festival. A small dataset was annotated using GEMS, and the responses of the single annotator were compared to the model’s predictions.
+Finally, a small dataset of music excerpts from the Montreux Jazz Festival was annotated using the GEMS scale and compared against predictions from the fine-tuned *Voxtral Mini* model. While the results may appear underwhelming, it is crucial to note that the annotations for this MJF dataset were performed by a single annotator.  Therefore, they cannot be considered ground truth.
+
+<img src = "graphs/mfj_kappa.png" width = 75% alt = "Weighted Cohen's kappa for the annotations vs. the Fine-tuned version of Voxtral Mini">
 
 ## Code and execution
 <details open>
@@ -43,21 +46,21 @@ MJF-GEMS-Annotations
 │   │   │   ├── dataset.py              <- Dataset Class and colate function
 │   │   │   ├── model.py                <- Loads model and processor, LoRA hyperparameters configuration
 │   │   │   ├── trainer.py              <- Training loop
-│   │   │   ├── utils.py                <- Dataclasses Configuration & device selection
+│   │   │   ├── utils.py                <- Dataclasses Configuration and device selection
 │   │   │   └── __init__.py
 │   │   └── train.py
 │   └── mf_one_shot_test.ipynb          <- Music Flamingo predictions script
 ├── results
-│   ├── MF-fine-tuned                   <- LoRA fine-tune of Music Flamingo
-│   ├── Voxtral-fine-tuned              <- LoRA fine-tune of Voxtral Mini
+│   ├── MF-fine-tuned                   <- LoRA fine-tuned version of Music Flamingo
+│   ├── Voxtral-fine-tuned              <- LoRA fine-tuned version of Voxtral Mini
 │   ├── MF_finetuned_results.csv        <- .csv files with the models predictions
 │   └── ...
 ├── utils
 │   ├── data_analysis.ipynb             <- Description and preprocessing of the dataset
 │   ├── download_models.py              <- Downloads each model           
 │   ├── process_MFJ_tracks.ipynb        <- Processing of the MJF tracks
-│   ├── result_analysis.ipynb           <- Results metrics computation and graphs
-│   └── track_download.py               <- Downloads the music excerpts from dataset
+│   ├── result_analysis.ipynb           <- Results metrics computation and visualizations
+│   └── track_download.py               <- Downloads the music excerpts from EMMA dataset
 ├── Voxtral
 │   ├── model-training
 │   │   ├── checkpoints                 <- Checkpoints saved during training
@@ -69,23 +72,23 @@ MJF-GEMS-Annotations
 │   │   │   ├── dataset.py              <- Dataset Class and colate function
 │   │   │   ├── model.py                <- Loads model and processor, LoRA hyperparameters configuration
 │   │   │   ├── trainer.py              <- Training loop
-│   │   │   ├── utils.py                <- Dataclasses Configuration & device selection
+│   │   │   ├── utils.py                <- Dataclasses Configuration and device selection
 │   │   │   └── __init__.py
 │   │   ├── voxtral-mini                <- Local version of Voxtral Mini
 │   │   └── train.py
 │   └── voxtral_one_shot_test.ipynb     <- Voxtral Mini predictions script
-├── mjf_vm_ft_pred.py                   <- Prediction for MJF dataset with finetuned Voxtral Mini
+├── mjf_vm_ft_pred.py                   <- Prediction for MJF dataset with fine-tuned Voxtral Mini
 └── requierments.txt
 </pre>
 </details>
 
 ### Initialisation
 
-I recommend creating a virtual enviroment for the ececution of the different scripts. To do so execute the following line in the CLI:
+I recommend creating a virtual environment for the execution of the different scripts. To do so, execute the following line in the CLI:
 ```bash
 python -m venv ven
 ```
-Access the environement with the following command:
+Access the environment with the following command:
 ```bash
 ven/Scripts/activate
 ```
@@ -101,7 +104,7 @@ The instructions for using the models in either their *zero-shot* configuration 
 
 ### Fine-tuning the models
 
-To fine-tune the models, execute the following commands in the CLI from their respective root folders  (``Music Flamingo/model-training`` or ``Voxtral/model-training``).
+    To fine-tune the models, execute the following commands in the CLI from their respective root folders  (``Music Flamingo/model-training`` or ``Voxtral/model-training``).
 
 - Complete fine-tuning:<br>
 
