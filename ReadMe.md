@@ -26,7 +26,7 @@ The results show a significant improvement for *Voxtral Mini*. In contrast, *Mus
 
 Finally, a small dataset of music excerpts from the Montreux Jazz Festival was annotated using the GEMS scale and compared against predictions from the fine-tuned *Voxtral Mini* model. While the results may appear underwhelming, it is crucial to note that the annotations for this MJF dataset were performed by a single annotator.  Therefore, they cannot be considered ground truth.
 
-<img src = "graphs/mfj_kappa.png" width = 75% alt = "Weighted Cohen's kappa for the annotations vs. the Fine-tuned version of Voxtral Mini">
+<img src = "graphs/mjf_kappa.png" width = 75% alt = "Weighted Cohen's kappa for the annotations vs. the Fine-tuned version of Voxtral Mini">
 
 ## Code and execution
 <details open>
