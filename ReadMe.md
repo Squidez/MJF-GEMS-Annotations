@@ -104,7 +104,7 @@ The instructions for using the models in either their *zero-shot* configuration 
 
 ### Fine-tuning the models
 
-    To fine-tune the models, execute the following commands in the CLI from their respective root folders  (``Music Flamingo/model-training`` or ``Voxtral/model-training``).
+To fine-tune the models, execute the following commands in the CLI from their respective root folders  (`Music Flamingo/model-training` or `Voxtral/model-training`).
 
 - Complete fine-tuning:<br>
 
