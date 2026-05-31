@@ -28,7 +28,7 @@ for i, track in tqdm(enumerate(track_folder), total=len(track_folder)):
             "role": "user",
             "content": [
                 {"type": "audio",
-                 "path": f'mjf_tracks/{track}'},
+                 "path": f'mjf_full_ex/{track}'},
                 {"type": "text",
                  "text": """Please rate the intensity with wich you felt each of the following feelings in this music excerpt, on a scale ranging from 1 (not at all) to 5 (very much).
 Just give the ratings, without justifying.
@@ -59,5 +59,5 @@ Just give the ratings, without justifying.
     decoded_outputs = processor.batch_decode(outputs[:, inputs.input_ids.shape[1]:], skip_special_tokens=True)
 
     # Save predictions to text file
-    with open("voxtral_mjf_results.txt", "a+", encoding="utf-8") as f:
+    with open("mjf_full_song.txt", "a+", encoding="utf-8") as f:
         f.write(f'{decoded_outputs}\n')
